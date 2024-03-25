@@ -78,7 +78,10 @@ class Retriever:
     def save(self, attribute_filename: str, embedding_filename: str = None):
         # save retriever data to pickle file
         self._save_attributes(attribute_filename)
-        if self.embeddings:
+        if self.embeddings is not None:
+            if embedding_filename is None:
+                embedding_filename = attribute_filename.replace(
+                    '.pkl', '_embeddings.npy')
             self._save_embeddings(embedding_filename)
 
     def retrieve(self, query: str, n: int = 10):
