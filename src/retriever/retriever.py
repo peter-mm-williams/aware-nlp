@@ -40,7 +40,7 @@ class Retriever:
 
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=self.model.max_seq_length,
-            chunk_overlap=20,
+            chunk_overlap=self.chunk_overlap,
             length_function=self._sentence_token_length
         )
         return splitter.split_text(sentence)
