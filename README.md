@@ -5,13 +5,13 @@ Erdos Institute Data Science Boot Camp project partnered with Aware. This projec
 ##### Option A: Create a conda environment
 1. Open terminal/powershell
 2. Clone the repo
-3. Navigate to the directory <code>"path_to_repo"/<repo></code>
+3. Navigate to the directory <code>"path_to_repo"/"repo_name"</code>
 4. Run <code>conda env create -f rag.yml</code>
 
 ##### Option B: Create a python virtual environment
 1. Open terminal/powershell
-2. Clone the <repo>
-3. Navigate to the directory <code>"path_to_repo"/<repo></code>
+2. Clone the repo
+3. Navigate to the directory <code>"path_to_repo"/"repo_name"</code>
 4. Run <code>python -m virtualenv venv</code>
 5. Run <code>source myenv/bin/activate</code>
 6. Run <code>pip install -r requirements.txt</code>
