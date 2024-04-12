@@ -1,477 +1,91 @@
-question,statement,peter,craig,anil,himanshu,observer,mohammad,average_label,label_sum,consensus,relevant,reason,output
-What do Best Buy employees think fo the company?,"Move on and look for something better. Or hang in there till you actually find something. Yes, the pay is decent but you can do better based on your experience. Plus best buy looks good as a stepping stone for your resume. Don't think it gets better because it won't. Maybe 6 years ago it was better, but the new version and direction isn't worth the stress. Look around you, if the seasoned staff and veterans are leaving it should be a clear indicator that it's a lost cause. Don't let best buy burn you out or change you as a person for the sake of sales goals.  Best Buy has 0 concern about employee retention. Just credit card apps,TTS and NPS. All factors that affect achievers and leadership bonuses. Not the individuals doing the work. You do everything and get nothing while the leaders get everything.  Get out when you can.",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the company's treatment of employees, which is relevant to the question about what Best Buy employees think of the company. The statement mentions that the pay is decent but that the company does not prioritize employee retention, which could be a factor in determining the overall opinion of employees.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the company's treatment of employees, which is relevant to the question about what Best Buy employees think of the company. The statement mentions that the pay is decent but that the company does not prioritize employee retention, which could be a factor in determining the overall opinion of employees.""
-}"
-What do Best Buy employees think fo the company?,"Do yourself a favor, don't.  It's not worth it and no matter how well you do one month they will want more the next.    As a seasonal, keep doing what you are, when they ask what is wrong say you don't feel confident or trained on how to support certain customers.  This will force the EMs hand to help you. If the supervisor isn't capable of helping move to them and tell them on your own accord you want to be better and to meet goals.  If you are reliable, on time, and focused they have no excuse but to keep scheduling you.   But seriously go anywhere else.",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides some insight into the work culture and management practices at Best Buy, which could potentially help answer the question about what employees think of the company. For example, the statement mentions that managers may not be supportive or trained to handle certain customer needs, which could impact employee morale and job satisfaction. While the statement does not directly answer the question, it provides relevant information that could help inform an answer.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work culture and management practices at Best Buy, which could potentially help answer the question about what employees think of the company. For example, the statement mentions that managers may not be supportive or trained to handle certain customer needs, which could impact employee morale and job satisfaction. While the statement does not directly answer the question, it provides relevant information that could help inform an answer.""
-}"
-What do Best Buy employees think fo the company?,"Don’t listen to this guy, I work there and the team environment is outstanding everyone stands around talking to each other and let’s the antisocial people ring up the customers. You’ll enjoy Best Buy as long as you aren’t antisocial and you actually enjoy technology",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the work environment at Best Buy, which is relevant to the question of what employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the work environment at Best Buy, which is relevant to the question of what employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,"Best Buy used to be a great company to work for before Corie the CEO took over. Employees used to love working there, staffing was great, it wasn’t all about stupid sales metrics. Times have changed",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the company's culture and work environment before Corie took over as CEO, which could help answer the question about what Best Buy employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the company's culture and work environment before Corie took over as CEO, which could help answer the question about what Best Buy employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,My bestbuy doesn’t care about the cashiers at all they over staff it and don’t even realize who’s up front or not I’ve talked to some of the cashiers and they said that they have only sold 2 credit cards in like 8 months because they are so focused on the sales floor,1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about Best Buy's treatment of its cashiers, which is relevant to the question about what employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about Best Buy's treatment of its cashiers, which is relevant to the question about what employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,"And one last thing: have an open mind. Best Buy will not be a career for 98% of current employees. Use what skills and knowledge you learn here to springboard yourself into a better, higher paying position. Don’t let complacency and comfortability overtake your potential.",1,0,1,1,1,1.0,0.8333333333333334,5.0,1,True,"The statement provides some insight into the opinions of Best Buy employees regarding the company. While it does not directly answer the question of what Best Buy employees think of the company, it suggests that a significant portion of employees may not view the company as a long-term career opportunity.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the opinions of Best Buy employees regarding the company. While it does not directly answer the question of what Best Buy employees think of the company, it suggests that a significant portion of employees may not view the company as a long-term career opportunity.""
-}"
-What do Best Buy employees think fo the company?,"Gotcha, thanks. I only worked at Best Buy for a few months last year, but I'm fascinated by what's going on with this company and its apparent impending doom. So I like to keep up on the drama 😂",1,0,1,1,1,1.0,0.8333333333333334,5.0,1,True,"The statement provides some insight into the current state of Best Buy and its employees' perceptions, which could be relevant to the question asked.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the current state of Best Buy and its employees' perceptions, which could be relevant to the question asked.""
-}"
-What do Best Buy employees think fo the company?,Life as a Best Buy worker 💀,1,0,0,1,1,1.0,0.6666666666666666,4.0,1,True,"The statement provides some insight into the work culture and atmosphere of Best Buy, which could be relevant to understanding the company's overall performance and employee satisfaction.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work culture and atmosphere of Best Buy, which could be relevant to understanding the company's overall performance and employee satisfaction.""
-}"
-What do Best Buy employees think fo the company?,"Neat. That's illegal. They'll be paying out wages for every worker for years and some fines to the NLRB.  Example: [https://finance.yahoo.com/news/starbucks-broke-law-closing-unionized-235432190.html](https://finance.yahoo.com/news/starbucks-broke-law-closing-unionized-235432190.html)  Wanna know how that ended? [Here's the final order](https://apps.nlrb.gov/link/document.aspx/09031d4583acd8f4) from the Administrative Law Judge who oversaw [the consolidated case](https://www.nlrb.gov/case/03-CA-295470):  &#x200B;  >Respondent, Starbucks Corporation, its officers, agents, and representatives, shall   >   >1. Cease and desist from   >   >(a) Discharging or otherwise discriminating against employees for engaging in union or other protected concerted activity.   >   >(b) Refusing to engage in decisional bargaining over store closures that reasonably can be expected to chill union activity at other Starbucks facilities.   >   >(c) Refusing to bargain over any changes to its policies and practices that have changed since the certification of the Union on April 8, 2022, including enforcement of discipline and the hours of operations of its Ithaca stores.   >   >(d) Suggesting to pro-union employees that they quit their employment if they are unhappy.   >   >(e) Suggesting to employees that it has no intention of complying with the National Labor Relations Act and/or otherwise suggesting that organizing would be futile.   >   >(f) More strictly and consistently enforcing its rules and policies after learning of union activity.   >   >(g) Denying leave requests due to union activity.   >   >(h) Telling employees that it was permanently closing a store when no such decision had been made.   >   >(i) In any manner interfering with, restraining or coercing employees in the exercise of the rights guaranteed them by Section 7 of the Act. If no exceptions are filed as provided by Sec. 102.46 of the Board’s Rules and Regulations, the findings, conclusions, and recommended Order shall, as provided in Sec. 102.48 of the Rules, be adopted by the Board and all objections to them shall be deemed waived for all purposes. I find",1,0,0,1,1,1.0,0.6666666666666666,4.0,1,True,"The statement provides information that helps answer the question about Best Buy employees' opinions of the company. The statement mentions a legal issue related to unionization and store closures, which could be relevant to understanding the company's labor practices and employee satisfaction. While the statement does not directly address the question, it provides context that could be useful in answering the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information that helps answer the question about Best Buy employees' opinions of the company. The statement mentions a legal issue related to unionization and store closures, which could be relevant to understanding the company's labor practices and employee satisfaction. While the statement does not directly address the question, it provides context that could be useful in answering the question.""
-}"
-What do Best Buy employees think fo the company?,"Warehouse; I’m 6’3 250 and this week and half of last week I’ve been being forced to do more of a warehouse type job by my self and I’m supposed to be upfront, should I be worried about them transferring me to warehouse or just hope this is only for Black Friday. (I don’t wanna be warehouse and only wanna be upfront)",1,0,0,1,1,0.0,0.5,3.0,1,True,"The statement provides some information about the company and the employee's job role, which could potentially help answer the question about what Best Buy employees think of the company.","
-Here's the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the company and the employee's job role, which could potentially help answer the question about what Best Buy employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,"This shows how much things have changed under Corie.  During the 2016 floods in Louisiana (20+ inches of rain in 24 hours), I got one phone call from corporate, one from the store manager, and one from my manager with Geek Squad asking if I needed an evac.  There was a tornado that came through in 2018 and I got two calls asking if I needed assistance, one from corporate and one from the store manager.",1,0,0,0,0,0.0,0.16666666666666666,1.0,0,True,"The statement provides information about the company's response to natural disasters, which is relevant to the question about what Best Buy employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the company's response to natural disasters, which is relevant to the question about what Best Buy employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,"Lmao; can’t even learn how to edit a comment? Had to delete it and repost? Welcome to retail tech everyone, where the people in charge don’t even know how to operate basic tech and expect everyone to drop golden eggs.   Definitely a 🤡",0,0,0,0,1,0.0,0.16666666666666666,1.0,0,True,"The statement provides some insight into the work culture of Best Buy, specifically the level of technical expertise of those in charge. While it may not directly answer the question about employee opinions of the company, it does offer a relevant piece of information that could be useful in understanding the context of the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work culture of Best Buy, specifically the level of technical expertise of those in charge. While it may not directly answer the question about employee opinions of the company, it does offer a relevant piece of information that could be useful in understanding the context of the question.""
-}"
-What do Best Buy employees think fo the company?,Yes very true so it falls into PTO bank and if your full time 48 of those hours are for sick use  The policy is the same across the board,0,0,0,1,0,0.0,0.16666666666666666,1.0,0,True,"The statement provides information about Best Buy's paid time off (PTO) policy, which is relevant to the question of what employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about Best Buy's paid time off (PTO) policy, which is relevant to the question of what employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,[deleted],0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the company, specifically that it is a place where employees work. This information could potentially be useful in answering the question about what Best Buy employees think of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the company, specifically that it is a place where employees work. This information could potentially be useful in answering the question about what Best Buy employees think of the company.""
-}"
-What do Best Buy employees think fo the company?,Roadie picks up at our store pickup,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about a service offered by Best Buy, which is relevant to the question about the company's operations.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a service offered by Best Buy, which is relevant to the question about the company's operations.""
-}"
-What do Best Buy employees think fo the company?,Thank you so much!,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement expresses gratitude and appreciation for the company, which suggests that the speaker has a positive view of Best Buy. This information could be relevant to a question about the company's culture or employee satisfaction.","
-{
-""relevant"": true,
-""reason"": ""The statement expresses gratitude and appreciation for the company, which suggests that the speaker has a positive view of Best Buy. This information could be relevant to a question about the company's culture or employee satisfaction.""
-}"
-What do Best Buy employees think fo the company?,Depends on a lot things whether there is out of state travel. The biggest factor that I have seen is when it comes to remodels or covering projects for teams doing the remodels.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about a factor that can affect the company's operations, specifically out-of-state travel. While it does not directly answer the question of what Best Buy employees think of the company, it sheds light on a relevant aspect of the company's functioning.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about a factor that can affect the company's operations, specifically out-of-state travel. While it does not directly answer the question of what Best Buy employees think of the company, it sheds light on a relevant aspect of the company's functioning.""
-}"
-What do Best Buy employees think fo the company?,thank you ! i wish you well,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides a positive sentiment towards the company, which could be relevant to understanding the opinions of Best Buy employees.","
-{
-""relevant"": true,
-""reason"": ""The statement provides a positive sentiment towards the company, which could be relevant to understanding the opinions of Best Buy employees.""
-}"
-What do Best Buy employees think fo the company?,#shockedpikachuface,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement expresses a strong emotion and could potentially provide insight into the employee's experience or opinion of the company, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement expresses a strong emotion and could potentially provide insight into the employee's experience or opinion of the company, which is relevant to the question.""
-}"
-What do Best Buy employees think fo the company?,I have heard from numerous people who work at banks that the counterfeit pins can be defeated by spraying spray starch on a bill.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the company Best Buy and how it is perceived by its employees, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the company Best Buy and how it is perceived by its employees, which is relevant to the question.""
-}"
-What do Best Buy employees think fo the company?,Is it the rumored 10-9 again?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about a topic related to the question, in this case, the company Best Buy and its policies. While it does not directly answer the question of what Best Buy employees think of the company, it could potentially provide some insight or context that would be useful in answering the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about a topic related to the question, in this case, the company Best Buy and its policies. While it does not directly answer the question of what Best Buy employees think of the company, it could potentially provide some insight or context that would be useful in answering the question.""
-}"
-What do Best Buy employees think fo the company?,Maybe it’s different from country to country but I know for a fact that Walmart gives 10%off and something similar at costco,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the employee's experience with other companies, which could potentially be relevant to the question about Best Buy employees' opinions of the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the employee's experience with other companies, which could potentially be relevant to the question about Best Buy employees' opinions of the company.""
-}"
-What do Best Buy employees think fo the company?,Got this list from a discord chat,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the opinions and experiences of Best Buy employees, which is relevant to the question asked.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the opinions and experiences of Best Buy employees, which is relevant to the question asked.""
-}"
-What do Best Buy employees think fo the company?,done company wide every March not on your work anniversary,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about a company-wide event that may be relevant to the question of what Best Buy employees think of the company. While it does not directly answer the question, it could provide insight into the company's culture or policies.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a company-wide event that may be relevant to the question of what Best Buy employees think of the company. While it does not directly answer the question, it could provide insight into the company's culture or policies.""
-}"
-What do Best Buy employees think fo the company?,I have 8 days coming up. And I’m 74. Suck it up.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the number of days an employee has coming up, which could potentially be relevant to understanding the company's scheduling practices or employee workload.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the number of days an employee has coming up, which could potentially be relevant to understanding the company's scheduling practices or employee workload.""
-}"
-What do Best Buy employees think fo the company?,No!,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides a negative sentiment towards the company, which could be relevant to understanding the opinions of Best Buy employees.","
-{
-""relevant"": true,
-""reason"": ""The statement provides a negative sentiment towards the company, which could be relevant to understanding the opinions of Best Buy employees.""
-}"
-What do Best Buy employees think fo the company?,![gif](giphy|znRstrOYuirrW),0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the opinions of Best Buy employees, which could help answer the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the opinions of Best Buy employees, which could help answer the question.""
-}"
-What do Best Buy employees think fo the company?,Blue polos with yellow; Did anyone else get new blue polos with yellow where the buttons are?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about a recent change in the company's uniform policy, which could potentially be relevant to an inquiry about the company's current state or practices.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a recent change in the company's uniform policy, which could potentially be relevant to an inquiry about the company's current state or practices.""
-}"
-What do Best Buy employees think fo the company?,This is for Best Buy employees. Wrong Reddit,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about Best Buy employees' opinions of the company, which could be relevant to answering the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about Best Buy employees' opinions of the company, which could be relevant to answering the question.""
-}"
-What do Best Buy employees think fo the company?,nah,0,0,0,0,0,0.0,0.0,0.0,0,False,"The statement provided does not provide any information related to Best Buy or its employees, and therefore is not relevant to the question.","
-{
-""relevant"": false,
-""reason"": ""The statement provided does not provide any information related to Best Buy or its employees, and therefore is not relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Best Buy is running out of good reasons for people to value working here. The employee discount seems to get weaker all the time and accommodations are almost nonexistent. And judging from the nonstop openings at the stores in my area I’m guessing the turnover rate has gone wayyy up because there’s no reason to stay if you can switch to Target, Costco or any other retailer and make the same.",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the reasons why employees may be leaving Best Buy, which is relevant to the question of common reasons for employee turnover at the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the reasons why employees may be leaving Best Buy, which is relevant to the question of common reasons for employee turnover at the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"i've been here for 8 years, work in the highest sales position you can get in the company and am leaving pretty soon. really unhappy with the direction the company is going. took a huge pay cut, am getting really overworked and just generally becoming unhappy. I honestly expect the company to die in the new few years if they  don't bring back our old ceo",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the reasons why an employee is leaving Best Buy, which is relevant to the question of common reasons for employees to leave the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the reasons why an employee is leaving Best Buy, which is relevant to the question of common reasons for employees to leave the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Let Go Today; I was informed today that I was being terminated due to attendance violations. (Being late, not calling out or no call no showing). It’s been quite the experience over the last 20 months. The people I’ve worked with, especially in product flow are some of the funniest, most hard-working people I’ve ever known, and I was honored and privileged to work alongside them.   With that being said, Best Buy, as a corporation, is completely and utterly fucked. Starting at the top, Cori Berri is one of the worst executives I’ve ever heard of. She constantly takes this company and drives it into the ground. It almost seems intentional at this point. She is a fucking idiot and I wouldn’t trust her to run a lemonade stand, let alone a huge corporation.   To one of my managers in particular, you are an asshole. Plain and simple. You constantly call people out over the walkie for stupid things, knowing damn well that it could’ve been a 1on1 conversation, or one that didn’t need to occur in the first place. Instead, you sit on your ass or stand at the AP and belittle people. Idgaf how long you’ve worked there, you’re a dick and I hope you eat shit. You constantly bring morale down throughout the store and then wonder why people don’t have good attitudes.  To the managers, STOP INTERRUPTING CONVERSATIONS BETWEEN SALES FLOOR AND CUSTOMERS. It has to be the most deflating thing in the world when you’re having a good conversation with a customer, selling them product, learning about them and their interests, and then hearing over the walkie, “oo (salesperson’s name), looks like a good membership opportunity”. I hear that and I can feel the balloon being deflated. Fuck your stupid memberships, fuck your stupid credit cards, 99% of customers don’t want it and you make the interactions worse by shoving it down their throats.   With that, Best Buy needs to bring back specialization. One of the biggest complaints that customers have is that “your sales floor doesn’t know shit about the product.” Well, how could they? Best Buy wants sales floor to be experts on thousands of products. You know what happens when you try to be an expert on everything? You’re an expert on nothing. It’s simply impossible. Best Buy is trying so hard to suck customer’s dicks and yet, is actively pushing them away every single day.   All in all, I’m predicting that Best Buy will not make it to 2030. I hope I’m wrong because workers at Best Buy need jobs. But unfortunately, I see Best Buy following the footsteps of KMart straight to bankruptcy. The board needs to get Cori as far away as possible from Best Buy.   Best of luck,  Former Product Flow Specialist",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information that helps answer the question by highlighting common reasons why employees leave Best Buy, such as poor management and lack of specialization. The statement is relevant because it sheds light on the experiences and opinions of an ex-Product Flow Specialist at Best Buy, which can help inform the development of strategies to improve employee retention.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information that helps answer the question by highlighting common reasons why employees leave Best Buy, such as poor management and lack of specialization. The statement is relevant because it sheds light on the experiences and opinions of an ex-Product Flow Specialist at Best Buy, which can help inform the development of strategies to improve employee retention.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Best Buy doesn’t want salesmen anymore. Old school selling skills are gone and not taught/no more induction training for new employees.  Culture has changed in BB and not for the better,0,1,1,1,1,1.0,0.8333333333333334,5.0,1,True,"The statement provides information about the cultural changes at Best Buy and how they may have impacted employee satisfaction and turnover, which is relevant to the question of common reasons for leaving the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the cultural changes at Best Buy and how they may have impacted employee satisfaction and turnover, which is relevant to the question of common reasons for leaving the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Former employee here. Please unionize if possible. Someone needs to get the ball rolling but once it is people will hop in and push it. Corporate is making it obvious that unions would hurt them in a big way. That's why they go through the effort to control other subreddits and show an anti-union presentation. They know unions are the correct solution to their behaviour, now they're trying as hard as possible to make sure not enough people realize that soon enough to do something. This also may be part of why they're letting leaders go first (and pay ofc). They may be thinking they get rid of all the leaders, and see the rest as sheep that won't make moves to unionize without a leader.",1,0,0,1,1,1.0,0.6666666666666666,4.0,1,True,"The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question. The former employee's perspective on the company's anti-union efforts and their potential impact on employee morale and turnover is valuable in understanding the reasons for employee departure.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question. The former employee's perspective on the company's anti-union efforts and their potential impact on employee morale and turnover is valuable in understanding the reasons for employee departure.""
-}"
-What are the most common reasons for employees to leave Best Buy?,When you are told to sell it no matter what or it will cost you your hours/job.....this is the result.,1,0,0,1,1,0.0,0.5,3.0,1,True,"The statement provides information about a common reason why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a common reason why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,I mean you really aren’t allowed to record in most places without permission so it’s kinda on you.,1,0,0,1,0,0.0,0.3333333333333333,2.0,1,True,"The statement provides some insight into the work culture and policies of Best Buy, which could be relevant to understanding why employees might leave the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work culture and policies of Best Buy, which could be relevant to understanding why employees might leave the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,This is a department of labor issue Turn them in,1,0,0,1,0,0.0,0.3333333333333333,2.0,1,True,"The statement provides information about a common reason why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a common reason why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,12 hr shift here too. Normal pay man,0,0,0,1,1,0.0,0.3333333333333333,2.0,1,True,"The statement provides some information about the work schedule and pay, which could be relevant to understanding why employees might leave Best Buy.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the work schedule and pay, which could be relevant to understanding why employees might leave Best Buy.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Plus it’s clearly wasting the employees time. We have so little time, not enough to babysit pranks",0,0,0,1,1,0.0,0.3333333333333333,2.0,1,True,"The statement provides some insight into the reasons why employees may leave Best Buy, specifically mentioning the time wasting nature of pranks. While it does not directly answer the question, it provides a relevant piece of information that could be useful in understanding the context of employee turnover at the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the reasons why employees may leave Best Buy, specifically mentioning the time wasting nature of pranks. While it does not directly answer the question, it provides a relevant piece of information that could be useful in understanding the context of employee turnover at the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"It feels so rude. ""Whoo I don't wanna go out there it's cold, better make the employees in thin shirts come out and stand outside my car while my dog honks my horn climbing in my lap and I lose my curbside code and make them do ispu from outside :D""",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into the reasons why employees may leave Best Buy. Although it does not directly answer the question, it suggests that employees may leave due to unpleasant interactions with customers or a lack of comfort in their work environment.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the reasons why employees may leave Best Buy. Although it does not directly answer the question, it suggests that employees may leave due to unpleasant interactions with customers or a lack of comfort in their work environment.""
-}"
-What are the most common reasons for employees to leave Best Buy?,When I transferred my former GM and former C & D manager both reached out the GM of the store I wanted to transfer to. I also reached out the area marketplace director to introduce myself. I went from a video interview to immediately a job offer asking when I can start. Depending on which store needs what presents an opportunity,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question asked.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question asked.""
-}"
-What are the most common reasons for employees to leave Best Buy?,What the word,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about why employees might leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about why employees might leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,12-day Application Review; What is the usual duration to receive a response for an application? I submitted one on Dec 15 and it is still under review. Is this unusual or do they take a long time to review?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the duration of the application review process at Best Buy, which is relevant to the question of why employees might leave the company. The statement indicates that the application review process can take a relatively long time, which could be a factor in an employee's decision to leave.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the duration of the application review process at Best Buy, which is relevant to the question of why employees might leave the company. The statement indicates that the application review process can take a relatively long time, which could be a factor in an employee's decision to leave.""
-}"
-What are the most common reasons for employees to leave Best Buy?,I support this ❤️,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into the employee's perspective on their experience at Best Buy, which could be relevant to understanding why employees leave the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the employee's perspective on their experience at Best Buy, which could be relevant to understanding why employees leave the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,What are manager bonuses like? I’m certain they have to do with metrics but what percent of your salary is an added bonus?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information related to the question, specifically the percentage of salary that manager bonuses are based on. This information could potentially help answer the question about the most common reasons for employees to leave Best Buy.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information related to the question, specifically the percentage of salary that manager bonuses are based on. This information could potentially help answer the question about the most common reasons for employees to leave Best Buy.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Try a price match on the card. I know in my area Micro Center usually has a better price on graphics cards.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about a possible reason why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a possible reason why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,^,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the reasons why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,^ this one did their own research🤣🤣🤣,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into the reasons why employees may leave Best Buy. Although it does not directly answer the question, it suggests that one possible reason could be a lack of satisfaction with the company's research and development processes.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the reasons why employees may leave Best Buy. Although it does not directly answer the question, it suggests that one possible reason could be a lack of satisfaction with the company's research and development processes.""
-}"
-What are the most common reasons for employees to leave Best Buy?,What was the big meeting about,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could potentially be relevant to the question. Although it does not directly answer the question, it may give insight into the reasons why employees leave Best Buy, which is related to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could potentially be relevant to the question. Although it does not directly answer the question, it may give insight into the reasons why employees leave Best Buy, which is related to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Probably should have added this context in your post.  There are no central recruiters and everything related  hiring is managed directly by the store.How long it takes depends on how busy the store is and how on top of things the hiring manager is. You may hear back in a few days, you may get an email in a month saying you didn’t get the job with no context, and anything in between.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some context about the hiring process at Best Buy, which could help answer the question of why employees leave the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some context about the hiring process at Best Buy, which could help answer the question of why employees leave the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Sony. It seems to be established both in the company and in our consumer base that that name represents high quality, and that perception is correct. The company has decades of experience not only making equipment but making content for it. Samsungs can impress though, and LG, in addition to TCL seem to have improved wildly this year.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the company's reputation and consumer perception of its products, which is relevant to the question of why employees might leave Best Buy.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the company's reputation and consumer perception of its products, which is relevant to the question of why employees might leave Best Buy.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Nope you can't go to any best buy any more your screwed every one at every best buy will what you did!  Sorry man.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides a personal perspective on the reasons why employees may leave Best Buy, which could be relevant to the question asked.","
-{
-""relevant"": true,
-""reason"": ""The statement provides a personal perspective on the reasons why employees may leave Best Buy, which could be relevant to the question asked.""
-}"
-What are the most common reasons for employees to leave Best Buy?,From my experience no. Went from CA to ARA and to senior with no video interview. But still did have to do in person interview of course.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the reasons why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the reasons why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"It’s pretty straight forward…   “Hey how’s it going? What are you looking for today?”  “Okay, you need a new laptop. I’ve got a few questions to find what is best for you. Mind if I start with your phone number?”  This is probably what your GM is asking for.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the common reasons why employees leave Best Buy, which is relevant to the question.","
-Here's the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the common reasons why employees leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Yeah thats the main way to learn shir,0,0,0,0,0,0.0,0.0,0.0,0,False,The statement provided is not relevant to the question as it does not provide any information about the reasons why employees leave Best Buy. It appears to be a random sentence unrelated to the question.,"
-{
-""relevant"": false,
-""reason"": ""The statement provided is not relevant to the question as it does not provide any information about the reasons why employees leave Best Buy. It appears to be a random sentence unrelated to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,What are the best times to check Employee Accommodatios so you don’t miss out on super limited deals?,0,0,0,0,0,0.0,0.0,0.0,0,False,"The statement provided does not relate to the question asked. The question asks about the most common reasons for employees to leave Best Buy, while the statement discusses employee accommodations and super limited deals.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": false,
-""reason"": ""The statement provided does not relate to the question asked. The question asks about the most common reasons for employees to leave Best Buy, while the statement discusses employee accommodations and super limited deals.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Why are you at Best Buy?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into why employees may be leaving Best Buy, such as the reason for their presence at the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into why employees may be leaving Best Buy, such as the reason for their presence at the company.""
-}"
-What are the most common reasons for employees to leave Best Buy?,"Being a veteran and Best Buy employee, I can see what you and OP mean. It really depends on the individual, but the blanket statement is accurate enough.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into the reasons why employees may leave Best Buy, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the reasons why employees may leave Best Buy, which is relevant to the question.""
-}"
-What are the most common reasons for employees to leave Best Buy?,Will very by store. We may not even have any. Who knows. All depends on what Sony and Xbox sends vs pre orders.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the availability of products at Best Buy stores, which could be relevant to the question of why employees may leave the company.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the availability of products at Best Buy stores, which could be relevant to the question of why employees may leave the company.""
-}"
-Do employees feel understaffed?,"Absolutely. I had a talk with a leader last week about this, pointing out that we're running a bare minimum of staff who have to know and do more than ever before while being paid less than we were just two years ago.",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the workload and staffing levels at the company, which is relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the workload and staffing levels at the company, which is relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,That’s what happens when they cut staff. Everyone else has to pick up the slack.  It is BS. Warehouse already has enough on their plate,1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the impact of staff cuts on the workload of employees in the warehouse, which is relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the impact of staff cuts on the workload of employees in the warehouse, which is relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,"As geeksquad I rerelease take lunch let alone breaks. But I’m definitely seeing the sales floor get hit with the, “ we have too many employees and not enough hours” while at the same time being severely understaffed in everything we do.most sales associates get 10ish hrs per week. Customers wait about 20 min to get helped. And what’s best is when they have geek squad at the register because they need “help” and then yell at us for NPS sucking cause our work didn’t get done.  We all should be looking for new jobs.",1,1,1,1,1,1.0,1.0,6.0,1,True,"The statement provides information about the staffing levels at the company, which is relevant to the question of whether employees feel understaffed. The statement mentions that there are not enough hours for the sales floor and that customers wait a significant amount of time to receive help, indicating that the company may be understaffed.","
-Here's the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the staffing levels at the company, which is relevant to the question of whether employees feel understaffed. The statement mentions that there are not enough hours for the sales floor and that customers wait a significant amount of time to receive help, indicating that the company may be understaffed.""
-}"
-Do employees feel understaffed?,"Typical day; It's frustrating to have more do nothing managers on my shift today (5) than we have people on the sales floor (4).  They spend their time talking amongst themselves, but heaven forbid you take 10 seconds to say hi to a coworker. I barely get time to take a breath between customers before I get orders barked at me- yet they coast through the day.",1,1,0,1,1,0.0,0.6666666666666666,4.0,1,True,"The statement provides information about the staffing levels on the sales floor and the number of managers present, which could potentially impact the answer to the question of whether employees feel understaffed. Additionally, the statement highlights the frustration of having more managers than employees on the sales floor, which could be a factor in determining if employees feel overworked or understaffed.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the staffing levels on the sales floor and the number of managers present, which could potentially impact the answer to the question of whether employees feel understaffed. Additionally, the statement highlights the frustration of having more managers than employees on the sales floor, which could be a factor in determining if employees feel overworked or understaffed.""
-}"
-Do employees feel understaffed?,Is it just sups? The store I work at is planned to get their staff cut in half.,0,1,0,1,1,1.0,0.6666666666666666,4.0,1,True,"The statement provides information about the potential impact of staff cuts on an employee's workload and experience, which is relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the potential impact of staff cuts on an employee's workload and experience, which is relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,Sounds like you have. Horrible manager. No reason they are keeping the counts down and giving your part timers more hours and close to yours.,0,0,1,1,1,0.0,0.5,3.0,1,True,"The statement provides some insight into the work environment and management practices at the company, which could potentially be relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work environment and management practices at the company, which could potentially be relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,"What’s the one thing that you despise more than anything else after all these changes?; Personally, the one thing the burns me more than anything else, is being a sales supervisor and getting stuck as front desk host/security for most of my days.   Makes me feel like I’m hardy being impactful for my team when I can’t be in the trenches with them.",0,0,0,1,1,0.0,0.3333333333333333,2.0,1,True,"The statement provides some insight into how the employee feels about their role and responsibilities within the company, which could potentially help answer the question of whether employees feel understaffed. The statement mentions feeling stuck in a role that is not aligned with one's strengths and passions, which could be a factor in feeling understaffed or unfulfilled.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into how the employee feels about their role and responsibilities within the company, which could potentially help answer the question of whether employees feel understaffed. The statement mentions feeling stuck in a role that is not aligned with one's strengths and passions, which could be a factor in feeling understaffed or unfulfilled.""
-}"
-Do employees feel understaffed?,"Interesting...my store is primarily African American females in most roles. There are Caucasian, Hispanic and a wide mix of everything else in the store but leadership is primarily female and African American. I will say our diversity is something I appreciate in my store all the other issues are a horse of a different color.",0,0,0,1,1,0.0,0.3333333333333333,2.0,1,True,"The statement provides some information about the demographics of the employees in the speaker's store, which could potentially be relevant to the question of whether employees feel understaffed. For example, if the store has a high percentage of African American females in leadership roles, it could suggest that there may be a lack of representation or opportunities for advancement for these groups, which could contribute to feelings of understaffing.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the demographics of the employees in the speaker's store, which could potentially be relevant to the question of whether employees feel understaffed. For example, if the store has a high percentage of African American females in leadership roles, it could suggest that there may be a lack of representation or opportunities for advancement for these groups, which could contribute to feelings of understaffing.""
-}"
-Do employees feel understaffed?,"If you must stay in retail for supervisor pay, go to Lowe's or Target. Made $26 at Lowe's and started at $27.50 in Target. If you are chasing the ladder, I wouldn't stay anywhere more than a year. Especially if you see someone else get picked over you, it's just not worth your life trying to impress one company. Go fluff up your resume and get out there to apply.  Learn some jargon/verbage of the company before you interview and go get your money.",0,0,0,1,1,,0.4,2.0,1,True,"The statement provides information about the job market and the potential benefits of working at a different company, which could help answer the question of whether employees feel understaffed. While it does not directly address the question of how many Super Bowls a team has won, it does provide relevant context that could be useful in answering the question.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the job market and the potential benefits of working at a different company, which could help answer the question of whether employees feel understaffed. While it does not directly address the question of how many Super Bowls a team has won, it does provide relevant context that could be useful in answering the question.""
-}"
-Do employees feel understaffed?,Overworked + underpaid + low hours + good management (if u are lucky),0,0,0,1,1,0.0,0.3333333333333333,2.0,1,True,"The statement provides some relevant information about the work environment and staffing levels at the company. Although it does not directly answer the question of whether employees feel understaffed, it suggests that there may be issues with overwork and low hours, which could contribute to a perception of being understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some relevant information about the work environment and staffing levels at the company. Although it does not directly answer the question of whether employees feel understaffed, it suggests that there may be issues with overwork and low hours, which could contribute to a perception of being understaffed.""
-}"
-Do employees feel understaffed?,It still stands that this is not the stop for customers to ask their asinine questions,0,0,0,0,0,0.0,0.0,0.0,0,False,The statement does not provide any relevant information related to the question of whether employees feel understaffed. It appears to be a personal opinion unrelated to the workplace or staffing levels.,"
-{
-""relevant"": false,
-""reason"": ""The statement does not provide any relevant information related to the question of whether employees feel understaffed. It appears to be a personal opinion unrelated to the workplace or staffing levels.""
-}"
-Do employees feel understaffed?,If you ever need anything or questions feel free to message me,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides a contact information for an employee who may be able to provide relevant information related to staffing levels, which is the focus of the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides a contact information for an employee who may be able to provide relevant information related to staffing levels, which is the focus of the question.""
-}"
-Do employees feel understaffed?,Yeah thats the main way to learn shir,0,0,0,0,0,0.0,0.0,0.0,0,False,"The statement provided does not relate to the question asked. The question is about whether employees feel understaffed, but the statement provided is unrelated and seems to be a random sentence.","
-{
-""relevant"": false,
-""reason"": ""The statement provided does not relate to the question asked. The question is about whether employees feel understaffed, but the statement provided is unrelated and seems to be a random sentence.""
-}"
-Do employees feel understaffed?,The employee app.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could be relevant to the question, such as the existence of an employee app. This could potentially provide insight into how employees are kept informed or organized within the company, which could be related to the question of feeling understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could be relevant to the question, such as the existence of an employee app. This could potentially provide insight into how employees are kept informed or organized within the company, which could be related to the question of feeling understaffed.""
-}"
-Do employees feel understaffed?,"I think OP is saying that BEST BUY still makes the same margin on the lower, discounted offer.  So an OEM sale removes our best buy discount because.... why? The discount is provided buy best buy, the sale buy the OEM.  Even with 50% off items, employees should be getting a discount, because Best buy's margin doesn't change.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the impact of OEM sales on Best Buy's margins, which is relevant to the question of whether employees feel understaffed. The statement helps to explain how OEM sales can affect the company's profitability and workload, which may be a factor in determining whether employees feel overworked or understaffed.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the impact of OEM sales on Best Buy's margins, which is relevant to the question of whether employees feel understaffed. The statement helps to explain how OEM sales can affect the company's profitability and workload, which may be a factor in determining whether employees feel overworked or understaffed.""
-}"
-Do employees feel understaffed?,"I'm on an leave of absence and I can access BBY connect, TLC and even learning network lmao",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could be relevant to the question. Although the employee is on a leave of absence, they are still able to access certain company resources, which could indicate that the company has enough staff or resources to handle its workload.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could be relevant to the question. Although the employee is on a leave of absence, they are still able to access certain company resources, which could indicate that the company has enough staff or resources to handle its workload.""
-}"
-Do employees feel understaffed?,Ew lol,0,0,0,0,0,0.0,0.0,0.0,0,False,The statement provided does not provide any information relevant to the question. It is a personal and unrelated response that does not help answer the query about staffing levels.,"
-{
-""relevant"": false,
-""reason"": ""The statement provided does not provide any information relevant to the question. It is a personal and unrelated response that does not help answer the query about staffing levels.""
-}"
-Do employees feel understaffed?,[removed],0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could be relevant to answering the question. While it does not directly address the number of staff or staffing levels, it suggests that the employee may feel overworked or undervalued, which could impact their perception of being understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could be relevant to answering the question. While it does not directly address the number of staff or staffing levels, it suggests that the employee may feel overworked or undervalued, which could impact their perception of being understaffed.""
-}"
-Do employees feel understaffed?,Are you an employee?,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides personal perspective as an employee, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides personal perspective as an employee, which is relevant to the question.""
-}"
-Do employees feel understaffed?,"Young aren't ya?  It's a saying, ""heard it through the grapevine"".  Basically it means I heard a rumor.  I heard this ""rumor"" from several different store level leaders in a market I used to work in. My current store's leaders are being very tight lipped. Albeit the news shows in their behaviors though. They've all been rather depressed looking lately.",0,0,0,0,0,0.0,0.0,0.0,0,True,The statement provides information about a rumor that may be relevant to the question of whether employees feel understaffed. The fact that multiple store level leaders in a different market have shared the same rumor suggests that it may be credible and could potentially impact employee morale or workload.,"
-{
-""relevant"": true,
-""reason"": ""The statement provides information about a rumor that may be relevant to the question of whether employees feel understaffed. The fact that multiple store level leaders in a different market have shared the same rumor suggests that it may be credible and could potentially impact employee morale or workload.""
-}"
-Do employees feel understaffed?,No it's not. You can be put on an action plan for not hitting your expectations..not just get tossed into part time. It's not how things work. It's an empty threat.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into how the company handles understaffing issues. While it does not directly answer the question of whether employees feel understaffed, it suggests that the company may have a specific process in place for addressing staffing concerns.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into how the company handles understaffing issues. While it does not directly answer the question of whether employees feel understaffed, it suggests that the company may have a specific process in place for addressing staffing concerns.""
-}"
-Do employees feel understaffed?,This is actually wildly incorrect. Managers are just as incentivized to push memberships as the line levels are.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the incentives of managers, which could potentially impact how employees feel about being understaffed. While it does not directly answer the question, it sheds light on a factor that may be relevant to the issue.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the incentives of managers, which could potentially impact how employees feel about being understaffed. While it does not directly answer the question, it sheds light on a factor that may be relevant to the issue.""
-}"
-Do employees feel understaffed?,"Its orange, I ordered 2 for myself to test them out. The Geek Squad logo polo with the accent, its orange. They're thicker than the usual polos, and shiny if that makes sense.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information about the company's product, specifically the color and material of their logo polo. While it may not directly answer the question of whether employees feel understaffed, it does provide some context that could be relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information about the company's product, specifically the color and material of their logo polo. While it may not directly answer the question of whether employees feel understaffed, it does provide some context that could be relevant to the question.""
-}"
-Do employees feel understaffed?,i take only cash tips from anyone thats not a senior citizen doing carry outs after a nice convo and sales are so nice and gives me faith in humanity,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into the work culture and atmosphere of the company, which could potentially be relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into the work culture and atmosphere of the company, which could potentially be relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,Got mine today.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could be relevant to the question, even though it does not directly answer it. The mention of 'mine' and 'today' suggests that the speaker may have received a promotion or other positive news related to work, which could potentially impact their perception of being understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could be relevant to the question, even though it does not directly answer it. The mention of 'mine' and 'today' suggests that the speaker may have received a promotion or other positive news related to work, which could potentially impact their perception of being understaffed.""
-}"
-Do employees feel understaffed?,Sounds like when we had AP and people coming in and proclaiming they had a return.,0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some context related to staffing levels at the company, which could be relevant to determining whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some context related to staffing levels at the company, which could be relevant to determining whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,"How many was in stock?; I'm in hawaii. It's 6:45am. So I don't wait in line longer, how many 30x cards did your stores in the mainland get?",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could potentially help answer the question. Although it does not directly address the question of whether employees feel understaffed, it does provide some contextual information about the location and time of day, which could be relevant to understanding the staffing situation.","
-Here is the output for the given question and statement:
-
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could potentially help answer the question. Although it does not directly address the question of whether employees feel understaffed, it does provide some contextual information about the location and time of day, which could be relevant to understanding the staffing situation.""
-}"
-Do employees feel understaffed?,"With the upmost respect, the employees are really easily replaceable, coming from a former employee. can't tell you how many times I've gotten no service at all while buying high ticket items.  Went in today for a $700 sound system. PCHO was a nightmare with these 18 year olds walking around laughing, cussing with each other and completely ignoring customers in the aisles. Couldn't tell you how many Edgars were there laughing it up in the middle of the department. Made it to home theater and Didn't get a care in the world while the employees stood around chatting with their thumbs up their ass. Left home theater with a ""do you need help?"" after I've already grabbed my item after looking all over for it. This after employees walked right on by. Waited till you saw you could tack on something right? Most of y'all are useless, and coming from a former employee, I was useless too. I embraced it and apparently so do a lot of employees too. Maybe it's karma but I didn't expect a raise for my shit work. Sorry but I don't feel too bad when the raises don't happen when the majority of the store is shit.",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides information about the employees' perceptions of being understaffed and the impact it has on their work experience. The employee mentions that they have worked at the store before and had a negative experience with inadequate staffing, leading to poor customer service. This information is relevant to the question of whether employees feel understaffed.","
-{
-""relevant"": true,
-""reason"": ""The statement provides information about the employees' perceptions of being understaffed and the impact it has on their work experience. The employee mentions that they have worked at the store before and had a negative experience with inadequate staffing, leading to poor customer service. This information is relevant to the question of whether employees feel understaffed.""
-}"
-Do employees feel understaffed?,"Yea, never the employees tho",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some insight into how employees feel about their workload and staffing levels, which is relevant to the question.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some insight into how employees feel about their workload and staffing levels, which is relevant to the question.""
-}"
-Do employees feel understaffed?,"Always remember, HR is here to protect the company",0,0,0,0,0,0.0,0.0,0.0,0,True,"The statement provides some information that could be relevant to the question. Although it does not directly answer the question of whether employees feel understaffed, it suggests that HR's primary role is to protect the company's interests, which could potentially impact how employees perceive their workload and resources.","
-{
-""relevant"": true,
-""reason"": ""The statement provides some information that could be relevant to the question. Although it does not directly answer the question of whether employees feel understaffed, it suggests that HR's primary role is to protect the company's interests, which could potentially impact how employees perceive their workload and resources.""
-}"
+question,statement,peter,craig,anil,himanshu,observer,mohammad,baian,average_label,label_sum,consensus
+What do Best Buy employees think fo the company?,"Move on and look for something better. Or hang in there till you actually find something. Yes, the pay is decent but you can do better based on your experience. Plus best buy looks good as a stepping stone for your resume. Don't think it gets better because it won't. Maybe 6 years ago it was better, but the new version and direction isn't worth the stress. Look around you, if the seasoned staff and veterans are leaving it should be a clear indicator that it's a lost cause. Don't let best buy burn you out or change you as a person for the sake of sales goals.  Best Buy has 0 concern about employee retention. Just credit card apps,TTS and NPS. All factors that affect achievers and leadership bonuses. Not the individuals doing the work. You do everything and get nothing while the leaders get everything.  Get out when you can.",1,1,1,1,1,1.0,1,1.0,7.0,1
+What do Best Buy employees think fo the company?,"Do yourself a favor, don't.  It's not worth it and no matter how well you do one month they will want more the next.    As a seasonal, keep doing what you are, when they ask what is wrong say you don't feel confident or trained on how to support certain customers.  This will force the EMs hand to help you. If the supervisor isn't capable of helping move to them and tell them on your own accord you want to be better and to meet goals.  If you are reliable, on time, and focused they have no excuse but to keep scheduling you.   But seriously go anywhere else.",1,1,1,1,1,1.0,1,1.0,7.0,1
+What do Best Buy employees think fo the company?,"Don’t listen to this guy, I work there and the team environment is outstanding everyone stands around talking to each other and let’s the antisocial people ring up the customers. You’ll enjoy Best Buy as long as you aren’t antisocial and you actually enjoy technology",1,1,1,1,1,1.0,1,1.0,7.0,1
+What do Best Buy employees think fo the company?,My bestbuy doesn’t care about the cashiers at all they over staff it and don’t even realize who’s up front or not I’ve talked to some of the cashiers and they said that they have only sold 2 credit cards in like 8 months because they are so focused on the sales floor,1,1,1,1,1,1.0,1,1.0,7.0,1
+What do Best Buy employees think fo the company?,"Best Buy used to be a great company to work for before Corie the CEO took over. Employees used to love working there, staffing was great, it wasn’t all about stupid sales metrics. Times have changed",1,1,1,1,1,1.0,1,1.0,7.0,1
+What do Best Buy employees think fo the company?,"And one last thing: have an open mind. Best Buy will not be a career for 98% of current employees. Use what skills and knowledge you learn here to springboard yourself into a better, higher paying position. Don’t let complacency and comfortability overtake your potential.",1,0,1,1,1,1.0,1,0.8571428571428571,6.0,1
+What do Best Buy employees think fo the company?,"Gotcha, thanks. I only worked at Best Buy for a few months last year, but I'm fascinated by what's going on with this company and its apparent impending doom. So I like to keep up on the drama 😂",1,0,1,1,1,1.0,1,0.8571428571428571,6.0,1
+What do Best Buy employees think fo the company?,Life as a Best Buy worker 💀,1,0,0,1,1,1.0,1,0.7142857142857143,5.0,1
+What do Best Buy employees think fo the company?,Had a similar experience with a GM that the company has protected on multiple occasions (moved better stores after sexual misconduct)  GMs make so much more than everyone else it's absurd and I genuinely feel that throws everything off.  Glad I'm years gone from Best Buy.,1,0,1,0,0,1.0,1,0.5714285714285714,4.0,1
+What do Best Buy employees think fo the company?,"Neat. That's illegal. They'll be paying out wages for every worker for years and some fines to the NLRB.  Example: [https://finance.yahoo.com/news/starbucks-broke-law-closing-unionized-235432190.html](https://finance.yahoo.com/news/starbucks-broke-law-closing-unionized-235432190.html)  Wanna know how that ended? [Here's the final order](https://apps.nlrb.gov/link/document.aspx/09031d4583acd8f4) from the Administrative Law Judge who oversaw [the consolidated case](https://www.nlrb.gov/case/03-CA-295470):  &#x200B;  >Respondent, Starbucks Corporation, its officers, agents, and representatives, shall   >   >1. Cease and desist from   >   >(a) Discharging or otherwise discriminating against employees for engaging in union or other protected concerted activity.   >   >(b) Refusing to engage in decisional bargaining over store closures that reasonably can be expected to chill union activity at other Starbucks facilities.   >   >(c) Refusing to bargain over any changes to its policies and practices that have changed since the certification of the Union on April 8, 2022, including enforcement of discipline and the hours of operations of its Ithaca stores.   >   >(d) Suggesting to pro-union employees that they quit their employment if they are unhappy.   >   >(e) Suggesting to employees that it has no intention of complying with the National Labor Relations Act and/or otherwise suggesting that organizing would be futile.   >   >(f) More strictly and consistently enforcing its rules and policies after learning of union activity.   >   >(g) Denying leave requests due to union activity.   >   >(h) Telling employees that it was permanently closing a store when no such decision had been made.   >   >(i) In any manner interfering with, restraining or coercing employees in the exercise of the rights guaranteed them by Section 7 of the Act. If no exceptions are filed as provided by Sec. 102.46 of the Board’s Rules and Regulations, the findings, conclusions, and recommended Order shall, as provided in Sec. 102.48 of the Rules, be adopted by the Board and all objections to them shall be deemed waived for all purposes. I find",1,0,0,1,1,1.0,0,0.5714285714285714,4.0,1
+What do Best Buy employees think fo the company?,"Accomodations; How do they work now? Back in the day I literally searched accomodation on learning lounge or whatever it was called, did some learnings and got hella deals. What's the process now? I looked on Learning Network and all I saw was the one for a paper tablet?",0,0,0,1,0,0.0,0,0.14285714285714285,1.0,0
+What do Best Buy employees think fo the company?,"Lmao; can’t even learn how to edit a comment? Had to delete it and repost? Welcome to retail tech everyone, where the people in charge don’t even know how to operate basic tech and expect everyone to drop golden eggs.   Definitely a 🤡",0,0,0,0,1,0.0,0,0.14285714285714285,1.0,0
+What do Best Buy employees think fo the company?,Yes very true so it falls into PTO bank and if your full time 48 of those hours are for sick use  The policy is the same across the board,0,0,0,1,0,0.0,0,0.14285714285714285,1.0,0
+What do Best Buy employees think fo the company?,[deleted],0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Roadie picks up at our store pickup,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Thank you so much!,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Depends on a lot things whether there is out of state travel. The biggest factor that I have seen is when it comes to remodels or covering projects for teams doing the remodels.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,thank you ! i wish you well,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,#shockedpikachuface,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,I have heard from numerous people who work at banks that the counterfeit pins can be defeated by spraying spray starch on a bill.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Is it the rumored 10-9 again?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Maybe it’s different from country to country but I know for a fact that Walmart gives 10%off and something similar at costco,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Got this list from a discord chat,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,done company wide every March not on your work anniversary,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,I have 8 days coming up. And I’m 74. Suck it up.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,No!,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,![gif](giphy|znRstrOYuirrW),0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,Blue polos with yellow; Did anyone else get new blue polos with yellow where the buttons are?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,This is for Best Buy employees. Wrong Reddit,0,0,0,0,0,0.0,0,0.0,0.0,0
+What do Best Buy employees think fo the company?,nah,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"Well, I worked there for 4 years. 3 of being in the highest ranked sales position in the company (MDC/System Designer) my reasons were pretty well the same grievances company wide. My reasons were compounded by favoritism and sexual harassment. Note** MDC was 100% commission based. You could make ALOT of money if you’re a closer (I am, was one of the top network designers in the country)  Best Buy recently made the largest restructuring they’ve had in over a decade. This roll out was through the pandemic and VERY ROUGH.   They went from hourly, specialized departments to hourly+commission store wide sales consultants. Meaning the sales people had to step out of their “comfort zone” and learn other parts of the store they were not familiar with. This new business model included in-home “Sr. Sales Consultants” that would advise customers in their homes. On paper and in theory this is a smart move. A personal touch higher paid sales people that are more knowledgeable.   The problem with that is there are only a few guys skilled enough to do these roles and worked mainly on the MDC department along with a handful of Best Buy “In home advisors” which were just more entry-level system designers. When they rolled everything out they stripped the majority system designers of their titles, made them focus on lesser products and learn the entire store. And high end or high level jobs would go to the 1 or 2 designers that would then take on everyone’s workload.   It was stressful as hell It was demoralizing being stripped of a prestigious title. It made us feel like a number in a machine  I personally was offered a pay cut and they tried to make me feel excited about it. (Most got raises, more on that later.) THEN MADE ME WORK MORE! The rest of the store basically got pay raises and demoted. It’s what it felt like. Payed more to eat more shit.  They stopped caring about the things that made the work place fun and focused heavily on subscription based services (TTS) and coached primarily on that. And getting credit cards. The important managers (GM/SSM) are rarely in the store to address concerns and the company has them hide behind a computer all day doing other things.  They are turning more stores into just warehouses, the staff is trained to hand the customer off to a sales consultant or sr sales consultant. So it makes the worker feel less important. A lot of people are taking pay cuts to leave. In my store alone I can name 6 off the top of my head and more looking for other work. ALL of which where the best employees in the store.   My store went from 7 to 2 designers. One of which was a “straight” man who asked me to have sex with his wife while he watched. Turns out he’s also both gay and straight. He’s had multiple sexual harassment accusations. Our store had a new GM take our store over and right before the switch. This GM had known the gay cuck for “years” Turns out he’s doing the interviews. Again, I was one of the top networking designers in the country, but he sold more TVs and sound-bars than me. I made the company more money, he sold more entry level product.   They promoted the gay cuck  Try to get me to hand my clients over to him.  My clients were CEOs, Lawyers, Real-estate investors. They were loyal to me. Repeat clients   His customer was a kid who’s parents own a small phone repair store that bought brackets and entry level TVs from him.   Best Buy is a who you know - blunt force object that pushed all their skilled workers out because they think they don’t need them. The majority of their money comes from online purchases.   I used to like working there and my experience alllll the way up until the end was mostly positive.",1,1,1,1,1,1.0,1,1.0,7.0,1
+What are the most common reasons for employees to leave Best Buy?,"Best Buy is running out of good reasons for people to value working here. The employee discount seems to get weaker all the time and accommodations are almost nonexistent. And judging from the nonstop openings at the stores in my area I’m guessing the turnover rate has gone wayyy up because there’s no reason to stay if you can switch to Target, Costco or any other retailer and make the same.",1,1,1,1,1,1.0,1,1.0,7.0,1
+What are the most common reasons for employees to leave Best Buy?,"i've been here for 8 years, work in the highest sales position you can get in the company and am leaving pretty soon. really unhappy with the direction the company is going. took a huge pay cut, am getting really overworked and just generally becoming unhappy. I honestly expect the company to die in the new few years if they  don't bring back our old ceo",1,1,1,1,1,1.0,1,1.0,7.0,1
+What are the most common reasons for employees to leave Best Buy?,"Let Go Today; I was informed today that I was being terminated due to attendance violations. (Being late, not calling out or no call no showing). It’s been quite the experience over the last 20 months. The people I’ve worked with, especially in product flow are some of the funniest, most hard-working people I’ve ever known, and I was honored and privileged to work alongside them.   With that being said, Best Buy, as a corporation, is completely and utterly fucked. Starting at the top, Cori Berri is one of the worst executives I’ve ever heard of. She constantly takes this company and drives it into the ground. It almost seems intentional at this point. She is a fucking idiot and I wouldn’t trust her to run a lemonade stand, let alone a huge corporation.   To one of my managers in particular, you are an asshole. Plain and simple. You constantly call people out over the walkie for stupid things, knowing damn well that it could’ve been a 1on1 conversation, or one that didn’t need to occur in the first place. Instead, you sit on your ass or stand at the AP and belittle people. Idgaf how long you’ve worked there, you’re a dick and I hope you eat shit. You constantly bring morale down throughout the store and then wonder why people don’t have good attitudes.  To the managers, STOP INTERRUPTING CONVERSATIONS BETWEEN SALES FLOOR AND CUSTOMERS. It has to be the most deflating thing in the world when you’re having a good conversation with a customer, selling them product, learning about them and their interests, and then hearing over the walkie, “oo (salesperson’s name), looks like a good membership opportunity”. I hear that and I can feel the balloon being deflated. Fuck your stupid memberships, fuck your stupid credit cards, 99% of customers don’t want it and you make the interactions worse by shoving it down their throats.   With that, Best Buy needs to bring back specialization. One of the biggest complaints that customers have is that “your sales floor doesn’t know shit about the product.” Well, how could they? Best Buy wants sales floor to be experts on thousands of products. You know what happens when you try to be an expert on everything? You’re an expert on nothing. It’s simply impossible. Best Buy is trying so hard to suck customer’s dicks and yet, is actively pushing them away every single day.   All in all, I’m predicting that Best Buy will not make it to 2030. I hope I’m wrong because workers at Best Buy need jobs. But unfortunately, I see Best Buy following the footsteps of KMart straight to bankruptcy. The board needs to get Cori as far away as possible from Best Buy.   Best of luck,  Former Product Flow Specialist",1,1,1,1,1,1.0,1,1.0,7.0,1
+What are the most common reasons for employees to leave Best Buy?,"Former employee here. Please unionize if possible. Someone needs to get the ball rolling but once it is people will hop in and push it. Corporate is making it obvious that unions would hurt them in a big way. That's why they go through the effort to control other subreddits and show an anti-union presentation. They know unions are the correct solution to their behaviour, now they're trying as hard as possible to make sure not enough people realize that soon enough to do something. This also may be part of why they're letting leaders go first (and pay ofc). They may be thinking they get rid of all the leaders, and see the rest as sheep that won't make moves to unionize without a leader.",1,0,0,1,1,1.0,1,0.7142857142857143,5.0,1
+What are the most common reasons for employees to leave Best Buy?,Best Buy doesn’t want salesmen anymore. Old school selling skills are gone and not taught/no more induction training for new employees.  Culture has changed in BB and not for the better,0,1,1,1,1,1.0,0,0.7142857142857143,5.0,1
+What are the most common reasons for employees to leave Best Buy?,When you are told to sell it no matter what or it will cost you your hours/job.....this is the result.,1,0,0,1,1,0.0,0,0.42857142857142855,3.0,1
+What are the most common reasons for employees to leave Best Buy?,I mean you really aren’t allowed to record in most places without permission so it’s kinda on you.,1,0,0,1,0,0.0,0,0.2857142857142857,2.0,1
+What are the most common reasons for employees to leave Best Buy?,This is a department of labor issue Turn them in,1,0,0,1,0,0.0,0,0.2857142857142857,2.0,1
+What are the most common reasons for employees to leave Best Buy?,12 hr shift here too. Normal pay man,0,0,0,1,1,0.0,0,0.2857142857142857,2.0,1
+What are the most common reasons for employees to leave Best Buy?,12-day Application Review; What is the usual duration to receive a response for an application? I submitted one on Dec 15 and it is still under review. Is this unusual or do they take a long time to review?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,When I transferred my former GM and former C & D manager both reached out the GM of the store I wanted to transfer to. I also reached out the area marketplace director to introduce myself. I went from a video interview to immediately a job offer asking when I can start. Depending on which store needs what presents an opportunity,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,What the word,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"It feels so rude. ""Whoo I don't wanna go out there it's cold, better make the employees in thin shirts come out and stand outside my car while my dog honks my horn climbing in my lap and I lose my curbside code and make them do ispu from outside :D""",0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,I support this ❤️,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,What are manager bonuses like? I’m certain they have to do with metrics but what percent of your salary is an added bonus?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,Try a price match on the card. I know in my area Micro Center usually has a better price on graphics cards.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,^,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,^ this one did their own research🤣🤣🤣,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,What was the big meeting about,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"Probably should have added this context in your post.  There are no central recruiters and everything related  hiring is managed directly by the store.How long it takes depends on how busy the store is and how on top of things the hiring manager is. You may hear back in a few days, you may get an email in a month saying you didn’t get the job with no context, and anything in between.",0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"Sony. It seems to be established both in the company and in our consumer base that that name represents high quality, and that perception is correct. The company has decades of experience not only making equipment but making content for it. Samsungs can impress though, and LG, in addition to TCL seem to have improved wildly this year.",0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,Nope you can't go to any best buy any more your screwed every one at every best buy will what you did!  Sorry man.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,From my experience no. Went from CA to ARA and to senior with no video interview. But still did have to do in person interview of course.,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"It’s pretty straight forward…   “Hey how’s it going? What are you looking for today?”  “Okay, you need a new laptop. I’ve got a few questions to find what is best for you. Mind if I start with your phone number?”  This is probably what your GM is asking for.",0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,Yeah thats the main way to learn shir,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,What are the best times to check Employee Accommodatios so you don’t miss out on super limited deals?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,Why are you at Best Buy?,0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,"Being a veteran and Best Buy employee, I can see what you and OP mean. It really depends on the individual, but the blanket statement is accurate enough.",0,0,0,0,0,0.0,0,0.0,0.0,0
+What are the most common reasons for employees to leave Best Buy?,Will very by store. We may not even have any. Who knows. All depends on what Sony and Xbox sends vs pre orders.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"Absolutely. I had a talk with a leader last week about this, pointing out that we're running a bare minimum of staff who have to know and do more than ever before while being paid less than we were just two years ago.",1,1,1,1,1,1.0,1,1.0,7.0,1
+Do employees feel understaffed?,That’s what happens when they cut staff. Everyone else has to pick up the slack.  It is BS. Warehouse already has enough on their plate,1,1,1,1,1,1.0,1,1.0,7.0,1
+Do employees feel understaffed?,"As geeksquad I rerelease take lunch let alone breaks. But I’m definitely seeing the sales floor get hit with the, “ we have too many employees and not enough hours” while at the same time being severely understaffed in everything we do.most sales associates get 10ish hrs per week. Customers wait about 20 min to get helped. And what’s best is when they have geek squad at the register because they need “help” and then yell at us for NPS sucking cause our work didn’t get done.  We all should be looking for new jobs.",1,1,1,1,1,1.0,1,1.0,7.0,1
+Do employees feel understaffed?,"Typical day; It's frustrating to have more do nothing managers on my shift today (5) than we have people on the sales floor (4).  They spend their time talking amongst themselves, but heaven forbid you take 10 seconds to say hi to a coworker. I barely get time to take a breath between customers before I get orders barked at me- yet they coast through the day.",1,1,0,1,1,0.0,1,0.7142857142857143,5.0,1
+Do employees feel understaffed?,Is it just sups? The store I work at is planned to get their staff cut in half.,0,1,0,1,1,1.0,1,0.7142857142857143,5.0,1
+Do employees feel understaffed?,Sounds like you have. Horrible manager. No reason they are keeping the counts down and giving your part timers more hours and close to yours.,0,0,1,1,1,0.0,0,0.42857142857142855,3.0,1
+Do employees feel understaffed?,"What’s the one thing that you despise more than anything else after all these changes?; Personally, the one thing the burns me more than anything else, is being a sales supervisor and getting stuck as front desk host/security for most of my days.   Makes me feel like I’m hardy being impactful for my team when I can’t be in the trenches with them.",0,0,0,1,1,0.0,0,0.2857142857142857,2.0,1
+Do employees feel understaffed?,"Interesting...my store is primarily African American females in most roles. There are Caucasian, Hispanic and a wide mix of everything else in the store but leadership is primarily female and African American. I will say our diversity is something I appreciate in my store all the other issues are a horse of a different color.",0,0,0,1,1,0.0,0,0.2857142857142857,2.0,1
+Do employees feel understaffed?,"If you must stay in retail for supervisor pay, go to Lowe's or Target. Made $26 at Lowe's and started at $27.50 in Target. If you are chasing the ladder, I wouldn't stay anywhere more than a year. Especially if you see someone else get picked over you, it's just not worth your life trying to impress one company. Go fluff up your resume and get out there to apply.  Learn some jargon/verbage of the company before you interview and go get your money.",0,0,0,1,1,,0,0.3333333333333333,2.0,1
+Do employees feel understaffed?,Overworked + underpaid + low hours + good management (if u are lucky),0,0,0,1,1,0.0,0,0.2857142857142857,2.0,1
+Do employees feel understaffed?,It still stands that this is not the stop for customers to ask their asinine questions,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,If you ever need anything or questions feel free to message me,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,Yeah thats the main way to learn shir,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,The employee app.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"I think OP is saying that BEST BUY still makes the same margin on the lower, discounted offer.  So an OEM sale removes our best buy discount because.... why? The discount is provided buy best buy, the sale buy the OEM.  Even with 50% off items, employees should be getting a discount, because Best buy's margin doesn't change.",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"I'm on an leave of absence and I can access BBY connect, TLC and even learning network lmao",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,Ew lol,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,[removed],0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,Are you an employee?,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"Young aren't ya?  It's a saying, ""heard it through the grapevine"".  Basically it means I heard a rumor.  I heard this ""rumor"" from several different store level leaders in a market I used to work in. My current store's leaders are being very tight lipped. Albeit the news shows in their behaviors though. They've all been rather depressed looking lately.",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,No it's not. You can be put on an action plan for not hitting your expectations..not just get tossed into part time. It's not how things work. It's an empty threat.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,This is actually wildly incorrect. Managers are just as incentivized to push memberships as the line levels are.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"Its orange, I ordered 2 for myself to test them out. The Geek Squad logo polo with the accent, its orange. They're thicker than the usual polos, and shiny if that makes sense.",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,i take only cash tips from anyone thats not a senior citizen doing carry outs after a nice convo and sales are so nice and gives me faith in humanity,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,Got mine today.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,Sounds like when we had AP and people coming in and proclaiming they had a return.,0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"How many was in stock?; I'm in hawaii. It's 6:45am. So I don't wait in line longer, how many 30x cards did your stores in the mainland get?",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"With the upmost respect, the employees are really easily replaceable, coming from a former employee. can't tell you how many times I've gotten no service at all while buying high ticket items.  Went in today for a $700 sound system. PCHO was a nightmare with these 18 year olds walking around laughing, cussing with each other and completely ignoring customers in the aisles. Couldn't tell you how many Edgars were there laughing it up in the middle of the department. Made it to home theater and Didn't get a care in the world while the employees stood around chatting with their thumbs up their ass. Left home theater with a ""do you need help?"" after I've already grabbed my item after looking all over for it. This after employees walked right on by. Waited till you saw you could tack on something right? Most of y'all are useless, and coming from a former employee, I was useless too. I embraced it and apparently so do a lot of employees too. Maybe it's karma but I didn't expect a raise for my shit work. Sorry but I don't feel too bad when the raises don't happen when the majority of the store is shit.",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"Yea, never the employees tho",0,0,0,0,0,0.0,0,0.0,0.0,0
+Do employees feel understaffed?,"Always remember, HR is here to protect the company",0,0,0,0,0,0.0,0,0.0,0.0,0
