@@ -12,9 +12,9 @@ Erdos Institute Data Science Boot Camp project partnered with Aware. This projec
 1. Open terminal/powershell
 2. Clone the <repo>
 3. Navigate to the directory <code>"path_to_repo"/<repo></code>
-4. <code>python -m virtualenv venv</code>
-5. <code>source myenv/bin/activate</code>
-6. pip install -r requirements.txt
+4. Run <code>python -m virtualenv venv</code>
+5. Run <code>source myenv/bin/activate</code>
+6. Run <code>pip install -r requirements.txt</code>
 
 ##### Installing Ollama (Optional)
 In order to run large language models (llm) locally, download ollama and use ollama to download the corresponding llm. Note: this is only necessary for a few notebooks/ scripts (in particular PeterNotebooks/ollama-evaluator.ipynb)
