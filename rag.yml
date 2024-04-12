@@ -1,0 +1,13 @@
+name: reddit-rag
+channels:
+  - conda-forge
+dependencies:  
+  - pip=24.0  
+  - python=3.11.5
+  - python-dateutil=2.8.2
+  - python-fastjsonschema=2.19.1
+  - python-flatbuffers=23.5.26
+  - python-json-logger=2.0.7
+  - python-tzdata=2023.4
+  - pip:
+      - -r requirements.txt
