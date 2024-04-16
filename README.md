@@ -1,7 +1,16 @@
 # aware-nlp
-Erdos Institute Data Science Boot Camp project partnered with Aware. This project involves the investigation and evaluation of different methodologies for ranking prompt responses.
+Erdos Institute Data Science Boot Camp project partnered with Aware. This project involves the investigation and evaluation of different methodologies for retrieval for use in RAG (Retrieval Augmented Generation) systems. In particular, this project investigates retrieval quality for information downloaded from employee subreddits.
 
-#### Install Directions
+## Project Description
+#### Constructing the Evaluation Dataset
+The Bestbuy subreddit was selected as the focus for quality evaluation.
+#### Automated Labeling
+#### Quality Variation from Embedding Model Choice
+
+## Code Description
+The source code for the project is contained within the [<code>src</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src) directory. 
+
+## Install Directions
 ##### Option A: Create a conda environment
 1. Open terminal/powershell
 2. Clone the repo
