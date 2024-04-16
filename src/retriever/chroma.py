@@ -19,7 +19,7 @@ class ChromaRetriever(BaseRetriever):
     ):
         super().__init__(documents, embedding_model, similarity_metric, content_field)
         self.collection_name = collection_name
-        self.name = 'qdrant'
+        self.name = 'chroma'
         self.db = None
 
     def _instantiate_embedding_model(self):
