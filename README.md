@@ -8,7 +8,11 @@ The Bestbuy subreddit was selected as the focus for quality evaluation.
 #### Quality Variation from Embedding Model Choice
 
 ## Code Description
-The source code for the project is contained within the [<code>src</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src) directory. 
+The source code for the project is contained within the [<code>src</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src) directory. It consists of 4 sub-packages:
+1. [<code>evaluator</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src/evaluator): This contains the definitions of classes used to evaluate the quality of derived <code>BaseRetriever</code> classes.
+2. [<code>labeler</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src/labeler): This contains the definitions of classes used to automate the labeling of statements as relevant to a given set of questions.
+3. [<code>retriever</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src/retriever): This contains the class definitions of different retriever pipelines.
+4. [<code>util</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src/util): This contains some utility functions used repeatedly elsewhere in the codebase.
 
 ## Install Directions
 ##### Option A: Create a conda environment
