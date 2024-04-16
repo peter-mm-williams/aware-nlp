@@ -1,5 +1,5 @@
 # aware-nlp
-Erdos Institute Data Science Boot Camp project partnered with Aware. This project involves the investigation and evaluation of different methodologies for retrieval for use in RAG (Retrieval Augmented Generation) systems. In particular, this project investigates retrieval quality for information downloaded from employee subreddits.
+Erdos Institute Data Science Boot Camp project partnered with Aware. This project involves the investigation and evaluation of different methodologies for retrieval for use in RAG (Retrieval-Augmented Generation) systems. In particular, this project investigates retrieval quality for information downloaded from employee subreddits.
 
 ## Project Description
 #### Constructing the Evaluation Dataset
