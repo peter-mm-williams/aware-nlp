@@ -1,10 +1,12 @@
 from src.retriever import BaseRetriever, ChromaRetriever, QdrantRetriever, CustomRetriever
+from src.retriever.cluster import ClusterRetriever
 from typing import Literal, List, Dict, Any
 from langchain_core.documents import Document
 from sklearn.metrics import recall_score, f1_score, precision_score
 from langchain_community.document_loaders import DataFrameLoader
 import numpy as np
 import pandas as pd
+from sklearn.cluster import KMeans
 
 class RetrieverEvaluator:
     """
@@ -57,12 +59,13 @@ class RetrieverEvaluator:
     
     def __init__(
             self, 
-            retriever_name: Literal['chroma', 'qdrant', 'custom'], 
+            retriever_name: Literal['chroma', 'qdrant', 'custom', 'cluster'], 
             encoder_name: str,
             similarity_metric: str,
             sample_df: pd.DataFrame, 
             retrieved_doc_size: int = 10,
-            consensus_threshold: int = 2
+            consensus_threshold: int = 2,
+            clustering_model: KMeans = None
         ):
         self.retriever_name = retriever_name
         self.consensus_threshold = consensus_threshold
@@ -73,6 +76,7 @@ class RetrieverEvaluator:
         self.n_retrieved = retrieved_doc_size
         self.questions = sample_df.question.unique()
         self.dataset_dict = self.parse_dataset()
+        self.clustering_model = clustering_model
 
     def set_consensus(self):
         self.sample_df['consensus'] = (self.sample_df['label_sum'] >= self.consensus_threshold).astype(int)
@@ -85,6 +89,9 @@ class RetrieverEvaluator:
                 return QdrantRetriever(docs, self.encoder_name, self.similarity_name)
             case 'custom':
                 return CustomRetriever(docs, self.encoder_name, self.similarity_name)
+            case 'cluster':
+                return ClusterRetriever(docs, self.encoder_name, 
+                                        self.similarity_name, clustering_model=self.clustering_model)
             case _:
                 raise ValueError(f"Retriever {self.retriever_name} not supported")
 
@@ -129,7 +136,7 @@ class RetrieverEvaluator:
             'encoder':self.encoder_name,
             'similarity':self.similarity_name,
             'consensus_threshold':self.consensus_threshold,
-            'retrieval_size': self.n_retrieved,
+            'retrieval_size': len(retrieved_docs),
             'total_true_labels': eval_df['consensus'].sum(),
             'f1':f1, 
             'recall':recall, 
