@@ -25,12 +25,15 @@ class ConsrtuctThread:
         return "https://www.reddit.com/r/" + self.get_thread().iloc[0].reddit_subreddit + "/comments/" + self.get_thread().iloc[0].reddit_id
     
     def get_title(self):
-        return self.get_thread().iloc[0].reddit_title
+        return self.thread.iloc[0].reddit_title
     
     def get_conversation(self, user=False):
         if user:
-            temp = self.get_thread()
+            temp = self.thread
             return temp[["reddit_author", "reddit_text"]].set_index("reddit_author").to_dict()['reddit_text']
         if not user:
             # title = temp[temp['aware_post_type'] == 'submission'].iloc[0].reddit_title
-            return list(self.get_thread().reddit_text)
+            return list(self.thread.reddit_text)
+        
+    def get_author_list(self):
+        return list(set(self.thread["reddit_author"]))
