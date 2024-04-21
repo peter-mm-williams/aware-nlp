@@ -1,0 +1,1201 @@
+label,reason,output
+-1,"The statement 'Quit, find a new job. Best Buy is terrible' suggests that the employee is unsatisfied with their current job at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Quit, find a new job. Best Buy is terrible' suggests that the employee is unsatisfied with their current job at Best Buy.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their current work environment at Best Buy since they mentioned that things were better before the CEO took over and criticized the focus on sales metrics.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their current work environment at Best Buy since they mentioned that things were better before the CEO took over and criticized the focus on sales metrics.""
+}"
+-1,"The employee expresses dissatisfaction with their job at Best Buy due to changes in store operations, feeling less important, and a perceived lack of appreciation for skilled workers."," {
+  ""label"": -1,
+  ""reason"": ""The employee expresses dissatisfaction with their job at Best Buy due to changes in store operations, feeling less important, and a perceived lack of appreciation for skilled workers.""
+}"
+-1,"The statement implies dissatisfaction with the company's treatment of employees, specifically mentioning the elimination of positions without concern for employee tenure."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the company's treatment of employees, specifically mentioning the elimination of positions without concern for employee tenure.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning poor treatment of employees, lack of work-life balance, and an overall toxic environment."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning poor treatment of employees, lack of work-life balance, and an overall toxic environment.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning poor management practices, lack of support from managers, and feeling replaceable in their role."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning poor management practices, lack of support from managers, and feeling replaceable in their role.""
+}"
+-1,"The employee expressed dissatisfaction with their experience at Best Buy due to favoritism, sexual harassment, a restructuring that led to stress and demoralization, a pay cut, increased workload, management focusing on subscription-based services and credit cards, and the company turning stores into warehouses. The employee also mentioned that many people are taking pay cuts."," {
+    ""label"": -1,
+    ""reason"": ""The employee expressed dissatisfaction with their experience at Best Buy due to favoritism, sexual harassment, a restructuring that led to stress and demoralization, a pay cut, increased workload, management focusing on subscription-based services and credit cards, and the company turning stores into warehouses. The employee also mentioned that many people are taking pay cuts.""
+}"
+-1,"The statement expresses dissatisfaction with the company's direction and management, indicating a negative view of working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's direction and management, indicating a negative view of working at Best Buy.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and policies, such as valuing hard work and loyalty, pay discrepancies, benefit cuts, and favoritism in career advancement."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and policies, such as valuing hard work and loyalty, pay discrepancies, benefit cuts, and favoritism in career advancement.""
+}"
+-1,"The employee expressed dissatisfaction with their experience at Best Buy, mentioning issues with management, metrics, and low pay. They also mentioned that some associates were getting paid less than minimum wage and there was a lack of incentives for pushing sales."," {
+  ""label"": -1,
+  ""reason"": ""The employee expressed dissatisfaction with their experience at Best Buy, mentioning issues with management, metrics, and low pay. They also mentioned that some associates were getting paid less than minimum wage and there was a lack of incentives for pushing sales.""
+}"
+-1,"The statement indicates dissatisfaction with the company due to the perceived lack of incentives to stay, dealing with 'BS', and feeling replaceable despite hard work and loyalty."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the company due to the perceived lack of incentives to stay, dealing with 'BS', and feeling replaceable despite hard work and loyalty.""
+}"
+-1,"The statement describes the employee's dissatisfaction with their experience at Best Buy, mentioning rude and impatient customers, especially as a female employee."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes the employee's dissatisfaction with their experience at Best Buy, mentioning rude and impatient customers, especially as a female employee.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management decisions, such as laying off experienced employees and promoting incompetent ones. The employee also mentions a lack of product knowledge among supervisors and new hires being paid more than long-term employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management decisions, such as laying off experienced employees and promoting incompetent ones. The employee also mentions a lack of product knowledge among supervisors and new hires being paid more than long-term employees.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with their job at Best Buy due to a weakening employee discount, lack of accommodations, and high turnover rate."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy due to a weakening employee discount, lack of accommodations, and high turnover rate.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their job at Best Buy due to understaffing and having to deal with difficult clients. They mention weak leadership as a contributing factor.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy due to understaffing and having to deal with difficult clients. They mention weak leadership as a contributing factor.""
+}"
+-1,"The statement suggests that the employee feels undervalued and replaceable at Best Buy. They mention that the company does not care about employees' well-being but focuses on profits and efficiency. The employee also mentions attempts to unionize being met with dismissal, which further indicates dissatisfaction."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee feels undervalued and replaceable at Best Buy. They mention that the company does not care about employees' well-being but focuses on profits and efficiency. The employee also mentions attempts to unionize being met with dismissal, which further indicates dissatisfaction.""
+}"
+1,"The statement describes positive experiences and memories from working at Best Buy, such as a fun atmosphere, teamwork, and enjoyable events like playing music throughout the day and watching movies together during snowstorms. The employee also mentions improvements made by Hubert Joly, which indicates satisfaction with their time at the company."," {
+  ""label"": 1,
+  ""reason"": ""The statement describes positive experiences and memories from working at Best Buy, such as a fun atmosphere, teamwork, and enjoyable events like playing music throughout the day and watching movies together during snowstorms. The employee also mentions improvements made by Hubert Joly, which indicates satisfaction with their time at the company.""
+}"
+-1,The statement is negative and expresses dissatisfaction with the employee's performance at Best Buy.," {
+  ""label"": -1,
+  ""reason"": ""The statement is negative and expresses dissatisfaction with the employee's performance at Best Buy.""
+}"
+-1,"The statement indicates dissatisfaction with the working conditions, specifically mentioning a lack of air conditioning in the warehouse while the sales floor has it working perfectly fine."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the working conditions, specifically mentioning a lack of air conditioning in the warehouse while the sales floor has it working perfectly fine.""
+}"
+-1,"The statement suggests that employees at Best Buy are not feeling secure in their positions, which indicates dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that employees at Best Buy are not feeling secure in their positions, which indicates dissatisfaction.""
+}"
+-1,"The statement indicates dissatisfaction with the current working conditions at Best Buy, mentioning problems with customers, management, and policies. The employee also expresses uncertainty about whether they should continue working there."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the current working conditions at Best Buy, mentioning problems with customers, management, and policies. The employee also expresses uncertainty about whether they should continue working there.""
+}"
+-1,The statement 'Life as a Best Buy worker 💀' suggests that the employee is unsatisfied with their job at Best Buy. The use of the skull emoji (💀) implies negative feelings or dissatisfaction.," {
+    ""label"": -1,
+    ""reason"": ""The statement 'Life as a Best Buy worker 💀' suggests that the employee is unsatisfied with their job at Best Buy. The use of the skull emoji (💀) implies negative feelings or dissatisfaction.""
+}"
+-1,"The statement describes an employee who is unsatisfied with their job at Best Buy due to being overworked, having to do the job of 4 others plus their own, and feeling that they are not receiving proper benefits. The employee also mentions a decline in mental health since working for the company."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes an employee who is unsatisfied with their job at Best Buy due to being overworked, having to do the job of 4 others plus their own, and feeling that they are not receiving proper benefits. The employee also mentions a decline in mental health since working for the company.""
+}"
+1,The statement indicates that the employee enjoyed working at Best Buy more than at Walmart and found the experience to be enjoyable once they got to know their department members.," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates that the employee enjoyed working at Best Buy more than at Walmart and found the experience to be enjoyable once they got to know their department members.""
+}"
+-1,"The statement describes the employee's dissatisfaction with their work environment at Best Buy, mentioning issues such as overworked employees, low pay, and inadequate staffing. The employee also compares the current situation to pre-COVID times, stating that it is worse now."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes the employee's dissatisfaction with their work environment at Best Buy, mentioning issues such as overworked employees, low pay, and inadequate staffing. The employee also compares the current situation to pre-COVID times, stating that it is worse now.""
+}"
+-1,The statement implies dissatisfaction with the employee's pay and suggests that the company is struggling financially despite record profits. This indicates a negative sentiment towards their job at Best Buy.," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the employee's pay and suggests that the company is struggling financially despite record profits. This indicates a negative sentiment towards their job at Best Buy.""
+}"
+-1,"The statement indicates dissatisfaction with the new management structure at Best Buy, mentioning increased workload and poor management behavior."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the new management structure at Best Buy, mentioning increased workload and poor management behavior.""
+}"
+-1,The statement expresses dissatisfaction with the current sales model and high turnover rates in retail positions at Best Buy.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the current sales model and high turnover rates in retail positions at Best Buy.""
+}"
+-1,"The statement describes the employee's dissatisfaction with their job at Best Buy, mentioning issues such as chaotic scheduling, poor management, and difficulties in finding products for customers. The overall tone of the statement is negative."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes the employee's dissatisfaction with their job at Best Buy, mentioning issues such as chaotic scheduling, poor management, and difficulties in finding products for customers. The overall tone of the statement is negative.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their job at Best Buy due to changes in the company culture and a lack of proper training for new employees.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy due to changes in the company culture and a lack of proper training for new employees.""
+}"
+-1,"The statement suggests that the employee believes they are easily replaceable at their job, which indicates dissatisfaction with their current work situation."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee believes they are easily replaceable at their job, which indicates dissatisfaction with their current work situation.""
+}"
+-1,"The statement suggests that the employee feels their job at Best Buy is not secure due to undertraining and the ease of replacing employees, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee feels their job at Best Buy is not secure due to undertraining and the ease of replacing employees, indicating dissatisfaction.""
+}"
+-1,The statement shows dissatisfaction with the company's policy of not guaranteeing a specific number of work hours for employees. The employee is upset about having to meet expectations and maintain a certain pace without knowing if their hard work will help them pay their rent.," {
+  ""label"": -1,
+  ""reason"": ""The statement shows dissatisfaction with the company's policy of not guaranteeing a specific number of work hours for employees. The employee is upset about having to meet expectations and maintain a certain pace without knowing if their hard work will help them pay their rent.""
+}"
+-1,"The statement indicates dissatisfaction with the company's direction and management practices, as well as a preference for working at Costco over Best Buy."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates dissatisfaction with the company's direction and management practices, as well as a preference for working at Costco over Best Buy.""
+}"
+-1,The statement expresses dissatisfaction with the company's current focus on 'tricking' customers and employees instead of taking care of them.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's current focus on 'tricking' customers and employees instead of taking care of them.""
+}"
+0,The statement does not explicitly indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. It suggests that there may be issues in the workplace and invites others to join a union discord server.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. It suggests that there may be issues in the workplace and invites others to join a union discord server.""
+}"
+-1,The statement describes the employee's dissatisfaction with the company's focus on promoting credit card applications rather than providing assistance to customers. The employee also mentions a toxic culture and compares it to an unhealthy management style.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes the employee's dissatisfaction with the company's focus on promoting credit card applications rather than providing assistance to customers. The employee also mentions a toxic culture and compares it to an unhealthy management style.""
+}"
+-1,The statement expresses dissatisfaction with working at Best Buy due to perceived lack of opportunities and changes in management structure that have negatively impacted employees. The speaker also suggests that it is better outside the company.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with working at Best Buy due to perceived lack of opportunities and changes in management structure that have negatively impacted employees. The speaker also suggests that it is better outside the company.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning issues with labor allocation, lack of career growth opportunities, and the company's treatment of employees in terms of benefits and management structure. The author also expresses concern for their former colleagues who are still working there."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning issues with labor allocation, lack of career growth opportunities, and the company's treatment of employees in terms of benefits and management structure. The author also expresses concern for their former colleagues who are still working there.""
+}"
+-1,The statement implies that the employee is unsatisfied with their job at Best Buy because they are seeking advice from others on how to perform their tasks.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their job at Best Buy because they are seeking advice from others on how to perform their tasks.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their work situation at Best Buy due to perceived lack of concern for employees' well-being.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their work situation at Best Buy due to perceived lack of concern for employees' well-being.""
+}"
+-1,"The employee expressed dissatisfaction with their job at Best Buy due to the store's new layout and business model, which they believe led to their position being cut."," {
+    ""label"": -1,
+    ""reason"": ""The employee expressed dissatisfaction with their job at Best Buy due to the store's new layout and business model, which they believe led to their position being cut.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and policies, specifically mentioning poor executive decisions and a negative work environment. The employee also criticizes the company for its focus on memberships and credit cards, as well as the lack of specialization among sales associates."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and policies, specifically mentioning poor executive decisions and a negative work environment. The employee also criticizes the company for its focus on memberships and credit cards, as well as the lack of specialization among sales associates.""
+}"
+-1,"The statement implies that the employee believes there are areas where Best Buy could improve its policies or offerings to retain employees, suggesting dissatisfaction with the current state of things."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee believes there are areas where Best Buy could improve its policies or offerings to retain employees, suggesting dissatisfaction with the current state of things.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their experience at Best Buy due to witnessing customers being mistreated and feeling like they were not doing meaningful work as a cashier. They are considering working at a grocery store instead.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their experience at Best Buy due to witnessing customers being mistreated and feeling like they were not doing meaningful work as a cashier. They are considering working at a grocery store instead.""
+}"
+-1,"The statement mentions 'a lot of things wrong with Best Buy' and implies that the employee had to work long hours due to lack of staff, suggesting dissatisfaction."," {
+    ""label"": -1,
+    ""reason"": ""The statement mentions 'a lot of things wrong with Best Buy' and implies that the employee had to work long hours due to lack of staff, suggesting dissatisfaction.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with their job at Best Buy because they believe the focus on metrics has led to a decline in customer experience, which was initially the main draw for customers."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy because they believe the focus on metrics has led to a decline in customer experience, which was initially the main draw for customers.""
+}"
+-1,"The statement suggests that the employee believes Best Buy is not a long-term career for most employees, implying dissatisfaction with their current job."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee believes Best Buy is not a long-term career for most employees, implying dissatisfaction with their current job.""
+}"
+-1,"The statement expresses frustration and dissatisfaction with the working conditions, lack of appreciation, and high turnover rate at the company. The employee also mentions that they feel like a drone with no recognition for their hard work."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses frustration and dissatisfaction with the working conditions, lack of appreciation, and high turnover rate at the company. The employee also mentions that they feel like a drone with no recognition for their hard work.""
+}"
+-1,"The employee expressed dissatisfaction with the company's decision-making process and management. They mentioned that they were not sent to the location they were promised after 12 years of loyalty, but found better opportunities elsewhere."," {
+  ""label"": -1,
+  ""reason"": ""The employee expressed dissatisfaction with the company's decision-making process and management. They mentioned that they were not sent to the location they were promised after 12 years of loyalty, but found better opportunities elsewhere.""
+}"
+-1,The statement implies that the employee is unsatisfied with their current job at Best Buy because it is unionized. They express a desire to look into other places for summer jobs.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their current job at Best Buy because it is unionized. They express a desire to look into other places for summer jobs.""
+}"
+-1,"The employee expresses dissatisfaction with their job at Best Buy due to management changes, increased membership expectations, and reduced hours. They also mention that they used to trust their store management but now feel that talking with them is useless."," {
+    ""label"": -1,
+    ""reason"": ""The employee expresses dissatisfaction with their job at Best Buy due to management changes, increased membership expectations, and reduced hours. They also mention that they used to trust their store management but now feel that talking with them is useless.""
+}"
+-1,"The statement describes multiple negative aspects about working at Best Buy, such as layoffs, cuts in labor, and a lack of benefits for employees. The employee seems to be unsatisfied with their job."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes multiple negative aspects about working at Best Buy, such as layoffs, cuts in labor, and a lack of benefits for employees. The employee seems to be unsatisfied with their job.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their job at Best Buy and would leave if the minimum wage were raised to $15 an hour. They also mention that it has been a difficult year for them at the company.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy and would leave if the minimum wage were raised to $15 an hour. They also mention that it has been a difficult year for them at the company.""
+}"
+-1,"The statement suggests that the employee believes there are issues at their workplace (Best Buy) that require a union to address, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee believes there are issues at their workplace (Best Buy) that require a union to address, indicating dissatisfaction.""
+}"
+1,The statement indicates that the employee is satisfied with their current job situation as they mentioned leaving their previous job at Best Buy to work at their 'dream job'.," {
+    ""label"": 1,
+    ""reason"": ""The statement indicates that the employee is satisfied with their current job situation as they mentioned leaving their previous job at Best Buy to work at their 'dream job'.""
+}"
+-1,The statement implies that the employee is unsatisfied with their current working conditions at Best Buy compared to when they worked under a previous manager named Hubert.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their current working conditions at Best Buy compared to when they worked under a previous manager named Hubert.""
+}"
+-1,"The statement implies that the employee believes Best Buy is struggling and unionizing would lead to its downfall, suggesting dissatisfaction with their current employment situation."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the employee believes Best Buy is struggling and unionizing would lead to its downfall, suggesting dissatisfaction with their current employment situation.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their job at Best Buy and has found a better opportunity elsewhere.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy and has found a better opportunity elsewhere.""
+}"
+-1,"The statement describes dissatisfaction with the company's shipping and pricing policies, as well as expressing sympathy for employees who work at a place whose leadership keeps letting them down."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes dissatisfaction with the company's shipping and pricing policies, as well as expressing sympathy for employees who work at a place whose leadership keeps letting them down.""
+}"
+-1,"The statement expresses a negative sentiment towards the company and mentions an attempt by the company to prevent unionization, which indicates dissatisfaction."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses a negative sentiment towards the company and mentions an attempt by the company to prevent unionization, which indicates dissatisfaction.""
+}"
+-1,"The statement suggests a negative view of the company's management, implying that they are against workers forming a union. This indicates dissatisfaction with the work environment."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests a negative view of the company's management, implying that they are against workers forming a union. This indicates dissatisfaction with the work environment.""
+}"
+-1,"The statement expresses dissatisfaction with the company's direction, employee retention, and work environment, suggesting that the employee is unhappy working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's direction, employee retention, and work environment, suggesting that the employee is unhappy working at Best Buy.""
+}"
+1,The statement describes a positive team environment where employees interact with each other and allow introverted colleagues to handle customer transactions. The employee also mentions that the job is enjoyable for those who like technology.," {
+  ""label"": 1,
+  ""reason"": ""The statement describes a positive team environment where employees interact with each other and allow introverted colleagues to handle customer transactions. The employee also mentions that the job is enjoyable for those who like technology.""
+}"
+-1,"The statement implies dissatisfaction with the company's management of employee hours, specifically mentioning cuts during holiday seasons and short-term employment for new hires."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the company's management of employee hours, specifically mentioning cuts during holiday seasons and short-term employment for new hires.""
+}"
+-1,The statement expresses dissatisfaction with the current state of Best Buy and mentions that it has become an unpleasant place to work. The employee also criticizes the company's management and implies that many employees are looking for new jobs.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the current state of Best Buy and mentions that it has become an unpleasant place to work. The employee also criticizes the company's management and implies that many employees are looking for new jobs.""
+}"
+1,The employee mentioned liking the benefits of the job and how they handled the pandemic. They also stated that they have stayed at Best Buy longer than any other retail store they've worked for.," {
+    ""label"": 1,
+    ""reason"": ""The employee mentioned liking the benefits of the job and how they handled the pandemic. They also stated that they have stayed at Best Buy longer than any other retail store they've worked for.""
+}"
+1,"The employee seems satisfied with their job at Best Buy due to the discounts they receive as an employee. They acknowledge that even though they may not like the company, the discount is a great benefit and makes them feel like they are saving money."," {
+    ""label"": 1,
+    ""reason"": ""The employee seems satisfied with their job at Best Buy due to the discounts they receive as an employee. They acknowledge that even though they may not like the company, the discount is a great benefit and makes them feel like they are saving money.""
+}"
+-1,"The statement indicates that the employee is unsatisfied with their job at Best Buy due to issues with management, HR, and overall work environment. They mention feeling hopeless, emotionally drained, and considering quitting."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy due to issues with management, HR, and overall work environment. They mention feeling hopeless, emotionally drained, and considering quitting.""
+}"
+-1,The statement indicates that the employee feels there is a lot of pressure at Best Buy and mentions that they were excited to work there to learn new things but now it seems like they are not enjoying their experience. This suggests dissatisfaction with their job.," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates that the employee feels there is a lot of pressure at Best Buy and mentions that they were excited to work there to learn new things but now it seems like they are not enjoying their experience. This suggests dissatisfaction with their job.""
+}"
+-1,"The statement expresses frustration and dissatisfaction with the company's management and policies, particularly regarding employee scheduling and membership requirements."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses frustration and dissatisfaction with the company's management and policies, particularly regarding employee scheduling and membership requirements.""
+}"
+-1,The statement expresses dissatisfaction with the company's handling of a General Manager's sexual misconduct and the perceived unfairness in compensation between GMs and other employees.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's handling of a General Manager's sexual misconduct and the perceived unfairness in compensation between GMs and other employees.""
+}"
+-1,"The statement describes the employee's experience as negative, mentioning issues with management, job security, and corporate treatment of retail positions. The employee also provides advice for others working in retail, suggesting that they should be cautious about certain aspects of the job."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes the employee's experience as negative, mentioning issues with management, job security, and corporate treatment of retail positions. The employee also provides advice for others working in retail, suggesting that they should be cautious about certain aspects of the job.""
+}"
+-1,The statement indicates that the employee had a negative experience working at Best Buy and suggests others to quit as well.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee had a negative experience working at Best Buy and suggests others to quit as well.""
+}"
+0,The statement is not clear enough to determine if the employee is satisfied or unsatisfied with their job at Best Buy. It only states that they work there.," {
+  ""label"": 0,
+  ""reason"": ""The statement is not clear enough to determine if the employee is satisfied or unsatisfied with their job at Best Buy. It only states that they work there.""
+}"
+-1,The statement suggests dissatisfaction with the management's decision to replace sales floor associates and warehouse crew instead of a general manager. The employee seems to believe that this change will not have a positive impact on store performance.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests dissatisfaction with the management's decision to replace sales floor associates and warehouse crew instead of a general manager. The employee seems to believe that this change will not have a positive impact on store performance.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with the job at Best Buy. It discusses the rights of workers to criticize and comment on their work environment but does not indicate if the employee is satisfied or unsatisfied.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with the job at Best Buy. It discusses the rights of workers to criticize and comment on their work environment but does not indicate if the employee is satisfied or unsatisfied.""
+}"
+-1,"The statement describes a negative experience with the employees at Best Buy, mentioning poor customer service and lack of professionalism."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience with the employees at Best Buy, mentioning poor customer service and lack of professionalism.""
+}"
+-1,"The statement implies that the employee is unsatisfied with their current wage at Best Buy, as they mention that very few companies pay a minimum wage of $15/hr. or more and suggest that an employee might quit if another company offered such a wage."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the employee is unsatisfied with their current wage at Best Buy, as they mention that very few companies pay a minimum wage of $15/hr. or more and suggest that an employee might quit if another company offered such a wage.""
+}"
+-1,The statement expresses dissatisfaction with the company's treatment of employees and calls for a walkout on Black Friday (BF) to show discontent. The employee is urging others to spread the word and take action to make the company a better place to work.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's treatment of employees and calls for a walkout on Black Friday (BF) to show discontent. The employee is urging others to spread the word and take action to make the company a better place to work.""
+}"
+-1,"The employee expresses dissatisfaction with their current job at Best Buy, mentioning that they only get one shift a week and have not received a pay increase since the Covid $15 bump. They also mention that it's hard to work for the company outside of the holiday season."," {
+    ""label"": -1,
+    ""reason"": ""The employee expresses dissatisfaction with their current job at Best Buy, mentioning that they only get one shift a week and have not received a pay increase since the Covid $15 bump. They also mention that it's hard to work for the company outside of the holiday season.""
+}"
+0,The statement provided does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy.""
+}"
+-1,"The employee expresses dissatisfaction with the leadership at Best Buy, mentioning that leaders don't lead effectively, bark orders, and belittle their advisers. They also feel that higher-ups don't care about employees who do all the selling."," {
+  ""label"": -1,
+  ""reason"": ""The employee expresses dissatisfaction with the leadership at Best Buy, mentioning that leaders don't lead effectively, bark orders, and belittle their advisers. They also feel that higher-ups don't care about employees who do all the selling.""
+}"
+-1,"The statement suggests dissatisfaction with the company's management and direction, as well as a negative view on corporate influence on employee experience."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests dissatisfaction with the company's management and direction, as well as a negative view on corporate influence on employee experience.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning corruption, poor management, and low pay for employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning corruption, poor management, and low pay for employees.""
+}"
+-1,The statement implies that the employee is not satisfied with their job at Best Buy since they are highlighting a positive aspect of not working there.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is not satisfied with their job at Best Buy since they are highlighting a positive aspect of not working there.""
+}"
+0,The statement does not indicate the employee's satisfaction level. It is a response to someone asking about employment at Best Buy.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not indicate the employee's satisfaction level. It is a response to someone asking about employment at Best Buy.""
+}"
+0,The statement does not explicitly state the employee's satisfaction or dissatisfaction with their experience at Best Buy. They mention both positive and negative aspects of their time there but do not express a clear sentiment.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not explicitly state the employee's satisfaction or dissatisfaction with their experience at Best Buy. They mention both positive and negative aspects of their time there but do not express a clear sentiment.""
+}"
+-1,The statement suggests dissatisfaction with the company's focus on profits over employee satisfaction.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests dissatisfaction with the company's focus on profits over employee satisfaction.""
+}"
+-1,"The statement indicates dissatisfaction with the pay structure at Best Buy, as the employee feels that they and their colleagues are not being fairly compensated for their experience and responsibilities compared to new hires."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates dissatisfaction with the pay structure at Best Buy, as the employee feels that they and their colleagues are not being fairly compensated for their experience and responsibilities compared to new hires.""
+}"
+-1,The statement expresses dissatisfaction with the job at Best Buy and a desire to have been laid off in order to receive severance pay.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the job at Best Buy and a desire to have been laid off in order to receive severance pay.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their work environment and believes that only a small percentage of Best Buy stores prioritize customer experience.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their work environment and believes that only a small percentage of Best Buy stores prioritize customer experience.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee acknowledges that it depends on the individual and agrees with the provided statement.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee acknowledges that it depends on the individual and agrees with the provided statement.""
+}"
+-1,"The statement indicates that the employee is unsatisfied with their job at Best Buy, as they mention being 'glad' to have avoided working there and describe it as 'flabbergasting'."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy, as they mention being 'glad' to have avoided working there and describe it as 'flabbergasting'.""
+}"
+-1,"The statement expresses dissatisfaction with the working conditions at Best Buy, mentioning issues such as understaffing, long wait times for customers, lack of rest breaks, and potential wage theft. The employee also criticizes the company's management decisions and their impact on employee morale and mental health."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the working conditions at Best Buy, mentioning issues such as understaffing, long wait times for customers, lack of rest breaks, and potential wage theft. The employee also criticizes the company's management decisions and their impact on employee morale and mental health.""
+}"
+0,The statement is a question asking why the employee is at Best Buy and does not indicate satisfaction or dissatisfaction.," {
+  ""label"": 0,
+  ""reason"": ""The statement is a question asking why the employee is at Best Buy and does not indicate satisfaction or dissatisfaction.""
+}"
+-1,"The statement expresses dissatisfaction with the company culture and management. The employee mentions that 'yes men' go far at Best Buy, implying that those who agree with management are favored over those who stand their ground. They also mention a negative opinion of their current General Manager."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company culture and management. The employee mentions that 'yes men' go far at Best Buy, implying that those who agree with management are favored over those who stand their ground. They also mention a negative opinion of their current General Manager.""
+}"
+-1,"The statement indicates dissatisfaction with the reduction in hours at work, which has affected the employee's ability to make a living. The mention of school suggests that they would prefer more hours if possible."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates dissatisfaction with the reduction in hours at work, which has affected the employee's ability to make a living. The mention of school suggests that they would prefer more hours if possible.""
+}"
+1,The statement suggests that the employee is satisfied with their job at Best Buy because they believe being part of a union provides protection and higher wages. They also mention that unions help prevent positions from being eliminated or changed without consent.," {
+  ""label"": 1,
+  ""reason"": ""The statement suggests that the employee is satisfied with their job at Best Buy because they believe being part of a union provides protection and higher wages. They also mention that unions help prevent positions from being eliminated or changed without consent.""
+}"
+1,The statement implies that the employee prefers working at Best Buy over Walmart and considers it a better place to work.," {
+  ""label"": 1,
+  ""reason"": ""The statement implies that the employee prefers working at Best Buy over Walmart and considers it a better place to work.""
+}"
+-1,"The statement expresses dissatisfaction with the company's leadership and management practices, specifically mentioning that employees are viewed as 'just a warm body.' The employee also criticizes the decision to place someone in front lanes who doesn't want to be there, which they believe will negatively impact customer satisfaction."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's leadership and management practices, specifically mentioning that employees are viewed as 'just a warm body.' The employee also criticizes the decision to place someone in front lanes who doesn't want to be there, which they believe will negatively impact customer satisfaction.""
+}"
+0,The statement provided does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The person is asking for information about the company and its benefits.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The person is asking for information about the company and its benefits.""
+}"
+-1,"The statement expresses dissatisfaction with the current state of the company, mentioning that things have hit rock bottom due to Covid and criticizing corporate decisions. The employee also mentions being forced into retirement, which indicates a negative experience."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the current state of the company, mentioning that things have hit rock bottom due to Covid and criticizing corporate decisions. The employee also mentions being forced into retirement, which indicates a negative experience.""
+}"
+-1,The statement expresses dissatisfaction with the company's management and its impact on employees' mental health.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and its impact on employees' mental health.""
+}"
+-1,The statement expresses dissatisfaction with working at Best Buy and criticizes the American dream and work culture. The employee seems to be unhappy with their job and the state of the country.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with working at Best Buy and criticizes the American dream and work culture. The employee seems to be unhappy with their job and the state of the country.""
+}"
+-1,The statement indicates dissatisfaction with the company's overall performance and direction ('Best Buy as a whole is not really a good place to work anymore. The company is floundering.').," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates dissatisfaction with the company's overall performance and direction ('Best Buy as a whole is not really a good place to work anymore. The company is floundering.').""
+}"
+1,"The employee has worked in multiple Best Buy locations and found them all to be phenomenal with good support, welcoming environment, and better pay and flexibility compared to their previous jobs."," {
+  ""label"": 1,
+  ""reason"": ""The employee has worked in multiple Best Buy locations and found them all to be phenomenal with good support, welcoming environment, and better pay and flexibility compared to their previous jobs.""
+}"
+-1,The statement 'Don't work at best buy' implies that the employee is unsatisfied with their job at Best Buy.," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Don't work at best buy' implies that the employee is unsatisfied with their job at Best Buy.""
+}"
+-1,"The statement expresses dissatisfaction with the company's treatment of employees, mentioning layoffs and perceived lack of benefits for part-time workers."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's treatment of employees, mentioning layoffs and perceived lack of benefits for part-time workers.""
+}"
+0,The statement is neutral as the employee has not yet started working at Best Buy and is seeking advice from others.," {
+  ""label"": 0,
+  ""reason"": ""The statement is neutral as the employee has not yet started working at Best Buy and is seeking advice from others.""
+}"
+-1,The statement implies that the employee was unsatisfied with their experience at Best Buy due to the perceived lack of benefits from paying union dues.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee was unsatisfied with their experience at Best Buy due to the perceived lack of benefits from paying union dues.""
+}"
+-1,"The statement suggests dissatisfaction with the company's management structure, implying a negative sentiment towards working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests dissatisfaction with the company's management structure, implying a negative sentiment towards working at Best Buy.""
+}"
+-1,"The employee expresses dissatisfaction with their current position at Best Buy, mentioning low pay, lack of opportunities for advancement, and the elimination of positions they were hoping to move into. They also mention feeling embarrassed and depressed about working there."," {
+  ""label"": -1,
+  ""reason"": ""The employee expresses dissatisfaction with their current position at Best Buy, mentioning low pay, lack of opportunities for advancement, and the elimination of positions they were hoping to move into. They also mention feeling embarrassed and depressed about working there.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their experience at Best Buy due to being put on performance improvement plans and potentially facing termination if they do not show improvement.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their experience at Best Buy due to being put on performance improvement plans and potentially facing termination if they do not show improvement.""
+}"
+-1,"The statement implies that the employee is questioning the motives behind unionizing at Best Buy, which suggests dissatisfaction with their current work environment."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the employee is questioning the motives behind unionizing at Best Buy, which suggests dissatisfaction with their current work environment.""
+}"
+-1,"The statement describes several issues with scheduling and management practices at Best Buy, indicating dissatisfaction with the company."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes several issues with scheduling and management practices at Best Buy, indicating dissatisfaction with the company.""
+}"
+-1,"The statement implies dissatisfaction with the HR support system at Best Buy, as it is outsourced to a third party that reads scripts and puts tickets in for various issues."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the HR support system at Best Buy, as it is outsourced to a third party that reads scripts and puts tickets in for various issues.""
+}"
+-1,The statement expresses dissatisfaction with the company's policy of giving a raise every seven years regardless of tenure and implies that working at Best Buy may not be worth it.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's policy of giving a raise every seven years regardless of tenure and implies that working at Best Buy may not be worth it.""
+}"
+-1,"The statement contains strong negative language towards both customers and the company, indicating dissatisfaction with their job at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement contains strong negative language towards both customers and the company, indicating dissatisfaction with their job at Best Buy.""
+}"
+-1,"The statement indicates that the employee is unsatisfied with their job at Best Buy due to understaffing and lack of product training. The customer service experience suffers as a result, leading to frustration for both employees and customers."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their job at Best Buy due to understaffing and lack of product training. The customer service experience suffers as a result, leading to frustration for both employees and customers.""
+}"
+-1,"The statement indicates that the employee finds working at Best Buy more stressful than other retail jobs, which suggests dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee finds working at Best Buy more stressful than other retail jobs, which suggests dissatisfaction.""
+}"
+-1,The statement suggests dissatisfaction with the company's management of cashiers and lack of focus on their performance.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests dissatisfaction with the company's management of cashiers and lack of focus on their performance.""
+}"
+-1,"The statement describes the employee's experience as stressful, with unrealistic goals and management issues. They mention having ulcers due to their job at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes the employee's experience as stressful, with unrealistic goals and management issues. They mention having ulcers due to their job at Best Buy.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their current work situation at Best Buy and encourages others to join a walkout or unionize.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their current work situation at Best Buy and encourages others to join a walkout or unionize.""
+}"
+-1,"The statement indicates the employee's dissatisfaction with the company, mentioning that it is 'a shit show right now.' Despite positive experiences regarding support for trans workers, the overall sentiment expressed is negative."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates the employee's dissatisfaction with the company, mentioning that it is 'a shit show right now.' Despite positive experiences regarding support for trans workers, the overall sentiment expressed is negative.""
+}"
+1,"The statement 'Best buy all day, best enployer if you ask me' suggests that the employee is satisfied with their job at Best Buy."," {
+  ""label"": 1,
+  ""reason"": ""The statement 'Best buy all day, best enployer if you ask me' suggests that the employee is satisfied with their job at Best Buy.""
+}"
+-1,"The statement describes an unsatisfied employee due to lack of direction, long-term plan, transparency from corporate teams, and a chaotic environment at the store level."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes an unsatisfied employee due to lack of direction, long-term plan, transparency from corporate teams, and a chaotic environment at the store level.""
+}"
+-1,"The statement expresses dissatisfaction with the company due to changes and poor decisions, as well as mentioning that many employees are leaving for better opportunities."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company due to changes and poor decisions, as well as mentioning that many employees are leaving for better opportunities.""
+}"
+-1,"The statement expresses frustration with both the company (Best Buy) and customers, indicating dissatisfaction with their work environment."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses frustration with both the company (Best Buy) and customers, indicating dissatisfaction with their work environment.""
+}"
+-1,"The statement describes a negative experience with the company, mentioning drastic cuts in PT hours after the holidays and management's lack of communication with part-time employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience with the company, mentioning drastic cuts in PT hours after the holidays and management's lack of communication with part-time employees.""
+}"
+-1,"The statement implies a negative experience at work, mentioning 'abuse of VPL labor' which indicates dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies a negative experience at work, mentioning 'abuse of VPL labor' which indicates dissatisfaction.""
+}"
+-1,"The statement expresses dissatisfaction with the company's claim of being the 'best place to work', indicating that the employee does not believe this is true."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's claim of being the 'best place to work', indicating that the employee does not believe this is true.""
+}"
+-1,The statement implies dissatisfaction with the company culture and management practices at Best Buy.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies dissatisfaction with the company culture and management practices at Best Buy.""
+}"
+-1,"The statement expresses dissatisfaction with the company's decisions and its impact on employees, indicating that the employee is unsatisfied working at Best Buy."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's decisions and its impact on employees, indicating that the employee is unsatisfied working at Best Buy.""
+}"
+-1,The statement expresses dissatisfaction with the company's decision to have off-shore employees from third-party companies handle phone calls for their physical stores. The employee seems to be unhappy about this change and implies that it may lead to a negative customer experience due to language barriers or cultural differences.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's decision to have off-shore employees from third-party companies handle phone calls for their physical stores. The employee seems to be unhappy about this change and implies that it may lead to a negative customer experience due to language barriers or cultural differences.""
+}"
+0,"The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing the uncertainty of job security and the need for empathy, but it doesn't indicate their personal feelings about their job."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing the uncertainty of job security and the need for empathy, but it doesn't indicate their personal feelings about their job.""
+}"
+-1,"The statement indicates that the employee experienced a series of disappointments at Best Buy, such as being stripped of their Verizon VPL position and having growth opportunities stagnate. They also mention looking for another job."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee experienced a series of disappointments at Best Buy, such as being stripped of their Verizon VPL position and having growth opportunities stagnate. They also mention looking for another job.""
+}"
+-1,"The statement 'Welcome to Best Buy. The dysfunction will continue' suggests a negative sentiment towards the company, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Welcome to Best Buy. The dysfunction will continue' suggests a negative sentiment towards the company, indicating dissatisfaction.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and policies, as well as concerns about the future of the workplace."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and policies, as well as concerns about the future of the workplace.""
+}"
+-1,"The employee expresses dissatisfaction with their work environment, mentioning that they are receiving more hours than long-term employees who have been cut back. They also feel undermined by colleagues and unappreciated by management."," {
+    ""label"": -1,
+    ""reason"": ""The employee expresses dissatisfaction with their work environment, mentioning that they are receiving more hours than long-term employees who have been cut back. They also feel undermined by colleagues and unappreciated by management.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management decisions, such as reducing staff in record profit years and choosing profit over staffing. The employee also mentions that the shopping experience at Best Buy has deteriorated over time."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management decisions, such as reducing staff in record profit years and choosing profit over staffing. The employee also mentions that the shopping experience at Best Buy has deteriorated over time.""
+}"
+-1,"The statement implies that the employee is unhappy with their working hours at Best Buy, as they mention being 'unwanted' by the company."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unhappy with their working hours at Best Buy, as they mention being 'unwanted' by the company.""
+}"
+-1,"The statement suggests that the employee advises not wasting too much time with the company and to move on if they don't advance within a few years, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee advises not wasting too much time with the company and to move on if they don't advance within a few years, indicating dissatisfaction.""
+}"
+-1,The statement implies that the employee is unsatisfied with their work at Best Buy due to the company's future plans being revealed and perceived as negative for employees.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their work at Best Buy due to the company's future plans being revealed and perceived as negative for employees.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their experience at Best Buy due to being silently fired and having their hours cut without a clear reason.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their experience at Best Buy due to being silently fired and having their hours cut without a clear reason.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their job at Best Buy due to the management's lack of understanding about the reality of running stores and giving employees too much work without enough manpower or hours.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy due to the management's lack of understanding about the reality of running stores and giving employees too much work without enough manpower or hours.""
+}"
+0,The statement 'Best Buy current state' is too vague to determine if the employee is satisfied or unsatisfied. It does not provide any information about their feelings towards working at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Best Buy current state' is too vague to determine if the employee is satisfied or unsatisfied. It does not provide any information about their feelings towards working at Best Buy.""
+}"
+-1,"The statement expresses dissatisfaction with the current CEO (Corie Barry) and hopes for a better one who will invest in employees, indicating that the employee is unsatisfied working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the current CEO (Corie Barry) and hopes for a better one who will invest in employees, indicating that the employee is unsatisfied working at Best Buy.""
+}"
+-1,The statement indicates that the employee is unhappy with their job at Best Buy and wants to quit. They mention losing sleep over their job and feeling like they are in a gulag while working there. This suggests dissatisfaction with their current employment situation.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unhappy with their job at Best Buy and wants to quit. They mention losing sleep over their job and feeling like they are in a gulag while working there. This suggests dissatisfaction with their current employment situation.""
+}"
+-1,The statement expresses dissatisfaction with the changes in the job description and the direction the company has taken since evolving into a more lean operating model. The employee believes that the company has lost sight of what made it great and is not fully meeting customer expectations.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the changes in the job description and the direction the company has taken since evolving into a more lean operating model. The employee believes that the company has lost sight of what made it great and is not fully meeting customer expectations.""
+}"
+-1,"The statement suggests a negative experience with management at Best Buy, implying that the employee feels unsatisfied with their work environment."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests a negative experience with management at Best Buy, implying that the employee feels unsatisfied with their work environment.""
+}"
+1,"The statement indicates that the employee appreciates their job at Best Buy, mentioning positive aspects such as respect from leadership and a sense of accomplishment. They also express gratitude for being allowed to work fewer hours to avoid full-time benefits."," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates that the employee appreciates their job at Best Buy, mentioning positive aspects such as respect from leadership and a sense of accomplishment. They also express gratitude for being allowed to work fewer hours to avoid full-time benefits.""
+}"
+-1,"The statement describes dissatisfaction with the employee's work environment, mentioning a lack of communication and support from management, as well as a perceived decline in leadership quality."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes dissatisfaction with the employee's work environment, mentioning a lack of communication and support from management, as well as a perceived decline in leadership quality.""
+}"
+0,"The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing the creation of a new subreddit for employees and customers to share their experiences and concerns, but it doesn't indicate their personal feelings about their job."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing the creation of a new subreddit for employees and customers to share their experiences and concerns, but it doesn't indicate their personal feelings about their job.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with their job at Best Buy, as they refer to it as being on top of a 'shit mound' and advise leaving retail."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy, as they refer to it as being on top of a 'shit mound' and advise leaving retail.""
+}"
+-1,"The statement expresses dissatisfaction with the company, mentioning that it is in a 'death spiral' and a 'shit place to work'. The employee also wishes good luck, which implies they do not have a positive outlook on their job."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company, mentioning that it is in a 'death spiral' and a 'shit place to work'. The employee also wishes good luck, which implies they do not have a positive outlook on their job.""
+}"
+-1,The employee seems unsatisfied with their job at Best Buy due to customers getting angry when they are unable to help them directly and need to consult a sales advisor.," {
+  ""label"": -1,
+  ""reason"": ""The employee seems unsatisfied with their job at Best Buy due to customers getting angry when they are unable to help them directly and need to consult a sales advisor.""
+}"
+-1,"The statement describes a negative experience with the company, mentioning poor management and lack of support from HR, which indicates dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience with the company, mentioning poor management and lack of support from HR, which indicates dissatisfaction.""
+}"
+-1,"The statement suggests dissatisfaction with the company's financial management, mentioning 'all cost money' and 'saving a penny here and there', which implies that the employee may not be satisfied with their work environment."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests dissatisfaction with the company's financial management, mentioning 'all cost money' and 'saving a penny here and there', which implies that the employee may not be satisfied with their work environment.""
+}"
+-1,The statement expresses dissatisfaction with the company and suggests finding another job where they care more about their employees.," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company and suggests finding another job where they care more about their employees.""
+}"
+-1,"The employee expresses dissatisfaction with their work environment, mentioning that they are often overworked and understaffed. They also mention a lack of understanding from management regarding their sales performance. The employee is considering leaving for another job at Target."," {
+    ""label"": -1,
+    ""reason"": ""The employee expresses dissatisfaction with their work environment, mentioning that they are often overworked and understaffed. They also mention a lack of understanding from management regarding their sales performance. The employee is considering leaving for another job at Target.""
+}"
+0,"The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. Instead, it focuses on discussing unionization and encouraging others to join a Discord server for more information."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. Instead, it focuses on discussing unionization and encouraging others to join a Discord server for more information.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and its goals, mentioning layoffs and potential negative consequences for employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and its goals, mentioning layoffs and potential negative consequences for employees.""
+}"
+0,The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The person is expressing interest in working there and sharing their past experiences at other companies.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The person is expressing interest in working there and sharing their past experiences at other companies.""
+}"
+-1,"The statement expresses dissatisfaction with the employee's experience at Best Buy, mentioning issues such as constant comparisons to other employees and a negative view of the CEO."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the employee's experience at Best Buy, mentioning issues such as constant comparisons to other employees and a negative view of the CEO.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and policies, mentioning that they don't care about customer service or employee happiness. The employee also provides a list of expectations and pressures placed on them by the company, which contributes to their negative sentiment."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and policies, mentioning that they don't care about customer service or employee happiness. The employee also provides a list of expectations and pressures placed on them by the company, which contributes to their negative sentiment.""
+}"
+-1,"The statement expresses dissatisfaction with staffing cuts and the decision to get rid of AP, indicating a negative sentiment towards working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with staffing cuts and the decision to get rid of AP, indicating a negative sentiment towards working at Best Buy.""
+}"
+-1,The statement suggests that the employee was unsatisfied with their previous job at Best Buy due to feeling like they were being taken advantage of by their coworkers. They mention leaving after 3 years and imply that things are better elsewhere.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee was unsatisfied with their previous job at Best Buy due to feeling like they were being taken advantage of by their coworkers. They mention leaving after 3 years and imply that things are better elsewhere.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their experience at Best Buy due to perceived management issues and a decline in company performance. They mention being let go despite hard work and recommend others to leave before it's too late.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their experience at Best Buy due to perceived management issues and a decline in company performance. They mention being let go despite hard work and recommend others to leave before it's too late.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their job due to customers acting arrogant and demanding assistance for expensive items.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their job due to customers acting arrogant and demanding assistance for expensive items.""
+}"
+-1,"The statement describes the employee's dissatisfaction with their work environment at Best Buy, mentioning that bosses 'bleed you dry' and it feels like a 'sad depression factory.' The employee also complains about too many boxes."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes the employee's dissatisfaction with their work environment at Best Buy, mentioning that bosses 'bleed you dry' and it feels like a 'sad depression factory.' The employee also complains about too many boxes.""
+}"
+1,"The statement implies that continuing to work at Best Buy is a positive achievement, suggesting the employee may be satisfied with their job."," {
+  ""label"": 1,
+  ""reason"": ""The statement implies that continuing to work at Best Buy is a positive achievement, suggesting the employee may be satisfied with their job.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their current job at Walmart and is considering applying to Best Buy. They are seeking advice from others who have made a similar move.," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is unsatisfied with their current job at Walmart and is considering applying to Best Buy. They are seeking advice from others who have made a similar move.""
+}"
+0,The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. It only discusses potential career paths after leaving the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. It only discusses potential career paths after leaving the company.""
+}"
+-1,"The statement implies dissatisfaction with the lack of salary and promotions at Best Buy, as well as a suggestion to seek opportunities elsewhere."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the lack of salary and promotions at Best Buy, as well as a suggestion to seek opportunities elsewhere.""
+}"
+-1,The statement implies dissatisfaction with the company's management style and a lack of understanding about the current state of the company.," {
+    ""label"": -1,
+    ""reason"": ""The statement implies dissatisfaction with the company's management style and a lack of understanding about the current state of the company.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their work environment at Best Buy due to the company's anti-union stance and the possibility of store closures.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their work environment at Best Buy due to the company's anti-union stance and the possibility of store closures.""
+}"
+-1,"The statement expresses dissatisfaction with various aspects of the employee's experience at Best Buy, including concerns about wage adjustments, work-life balance, layoffs and restructuring, medical insurance options, training, and staffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with various aspects of the employee's experience at Best Buy, including concerns about wage adjustments, work-life balance, layoffs and restructuring, medical insurance options, training, and staffing.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy.""
+}"
+1,The statement indicates that the employee is satisfied with their job at Best Buy as they mentioned it being a good place to work and having a close-knit team where everyone was like family.," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates that the employee is satisfied with their job at Best Buy as they mentioned it being a good place to work and having a close-knit team where everyone was like family.""
+}"
+-1,"The statement implies that the employee had a negative experience with their former employer, Best Buy, as they mention buying a lot of items for their new home and later returning some of them. This indicates dissatisfaction with their time at the company."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee had a negative experience with their former employer, Best Buy, as they mention buying a lot of items for their new home and later returning some of them. This indicates dissatisfaction with their time at the company.""
+}"
+-1,"The statement expresses dissatisfaction with the company's decision to slap customer loyalty in the face, leading the employee to return their recent purchases and plan to buy electronics from other stores."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's decision to slap customer loyalty in the face, leading the employee to return their recent purchases and plan to buy electronics from other stores.""
+}"
+-1,"The statement describes an unsatisfactory experience with management at Best Buy, where the employee was denied help when their car tire went out. The manager refused to return a purchased jack, and the employee expressed that they would not shop at Best Buy anytime soon."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes an unsatisfactory experience with management at Best Buy, where the employee was denied help when their car tire went out. The manager refused to return a purchased jack, and the employee expressed that they would not shop at Best Buy anytime soon.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their job at Best Buy due to feeling like they are never good enough and having to deal with scolding from their superiors.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy due to feeling like they are never good enough and having to deal with scolding from their superiors.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their job at Best Buy. The phrase 'You are at Best Buy because you don’t walk out?' implies a lack of enthusiasm or motivation for working there.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job at Best Buy. The phrase 'You are at Best Buy because you don’t walk out?' implies a lack of enthusiasm or motivation for working there.""
+}"
+1,The statement suggests the employee is satisfied with their job at Best Buy because they feel it is laid-back and matches their desired work environment.," {
+  ""label"": 1,
+  ""reason"": ""The statement suggests the employee is satisfied with their job at Best Buy because they feel it is laid-back and matches their desired work environment.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their current job at Best Buy and recommends looking for other opportunities outside of the company.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their current job at Best Buy and recommends looking for other opportunities outside of the company.""
+}"
+-1,"The statement 'Wrong Reddit' suggests that the employee may not be satisfied with their job at Best Buy, as it seems to imply a misunderstanding or frustration with the situation."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Wrong Reddit' suggests that the employee may not be satisfied with their job at Best Buy, as it seems to imply a misunderstanding or frustration with the situation.""
+}"
+-1,The statement expresses dissatisfaction with the company (Best Buy) due to lack of support and resources provided by upper management.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company (Best Buy) due to lack of support and resources provided by upper management.""
+}"
+1,"The statement indicates that the employee was happy at Best Buy and had a positive experience, with high sales and attachments. They were also confident and willing to grow in their role."," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates that the employee was happy at Best Buy and had a positive experience, with high sales and attachments. They were also confident and willing to grow in their role.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and direction, mentioning issues such as lack of competition leading to poor labor practices, inadequate training for employees, and a decline in overall performance."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and direction, mentioning issues such as lack of competition leading to poor labor practices, inadequate training for employees, and a decline in overall performance.""
+}"
+-1,"The statement expresses dissatisfaction with the company and mentions not getting hours as a part-time employee, which indicates a negative experience."," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company and mentions not getting hours as a part-time employee, which indicates a negative experience.""
+}"
+1,The statement indicates the employee has been working at Best Buy for 15 years and is glad they got out of their previous job at Walmart. This suggests that they are satisfied with their current position.," {
+    ""label"": 1,
+    ""reason"": ""The statement indicates the employee has been working at Best Buy for 15 years and is glad they got out of their previous job at Walmart. This suggests that they are satisfied with their current position.""
+}"
+0,The statement is a question about employee discounts at Best Buy and does not indicate satisfaction or dissatisfaction with the job.," {
+  ""label"": 0,
+  ""reason"": ""The statement is a question about employee discounts at Best Buy and does not indicate satisfaction or dissatisfaction with the job.""
+}"
+-1,"The statement expresses uncertainty and concern about the company's policies, indicating that the employee may not be satisfied with their current employment situation."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses uncertainty and concern about the company's policies, indicating that the employee may not be satisfied with their current employment situation.""
+}"
+-1,"The employee expressed dissatisfaction with their job at Best Buy, mentioning aspects they don't like such as pushing credit cards and scheduling outside of their availability during important events."," {
+  ""label"": -1,
+  ""reason"": ""The employee expressed dissatisfaction with their job at Best Buy, mentioning aspects they don't like such as pushing credit cards and scheduling outside of their availability during important events.""
+}"
+-1,"The statement contains negative language and frustration towards the company and its customers, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement contains negative language and frustration towards the company and its customers, indicating dissatisfaction.""
+}"
+-1,The statement expresses dissatisfaction with the company's sabbatical policy and the amount of PTO given during the first year.," {
+    ""label"": -1,
+    ""reason"": ""The statement expresses dissatisfaction with the company's sabbatical policy and the amount of PTO given during the first year.""
+}"
+-1,"The statement expresses dissatisfaction with the company's management and its impact on employees, indicating that the employee is unsatisfied working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's management and its impact on employees, indicating that the employee is unsatisfied working at Best Buy.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee mentions some aspects of the job but does not indicate their personal feelings about it.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee mentions some aspects of the job but does not indicate their personal feelings about it.""
+}"
+1,"The statement indicates that the employee enjoys the new Best Buy Rewards program, which includes benefits such as 2-day shipping and exclusive deals. This suggests satisfaction with their experience at the company."," {
+    ""label"": 1,
+    ""reason"": ""The statement indicates that the employee enjoys the new Best Buy Rewards program, which includes benefits such as 2-day shipping and exclusive deals. This suggests satisfaction with their experience at the company.""
+}"
+-1,"The statement implies that working at Best Buy can be stressful and may involve constant monitoring of sales performance. The employee also mentions dealing with understaffing issues, which suggests dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that working at Best Buy can be stressful and may involve constant monitoring of sales performance. The employee also mentions dealing with understaffing issues, which suggests dissatisfaction.""
+}"
+0,"The statement is neither positive nor negative about the employee's satisfaction with their job at Best Buy. The person is asking questions about the company and its work environment, but not expressing any personal feelings or experiences."," {
+  ""label"": 0,
+  ""reason"": ""The statement is neither positive nor negative about the employee's satisfaction with their job at Best Buy. The person is asking questions about the company and its work environment, but not expressing any personal feelings or experiences.""
+}"
+0,"The statement is from a Walmart associate who is interested in applying at Best Buy but has not yet started working there. Therefore, it cannot be determined if they are satisfied or unsatisfied with their current job."," {
+  ""label"": 0,
+  ""reason"": ""The statement is from a Walmart associate who is interested in applying at Best Buy but has not yet started working there. Therefore, it cannot be determined if they are satisfied or unsatisfied with their current job.""
+}"
+1,"The statement expresses a positive sentiment towards working at Best Buy, mentioning that the employee's store is like family and they love their job."," {
+  ""label"": 1,
+  ""reason"": ""The statement expresses a positive sentiment towards working at Best Buy, mentioning that the employee's store is like family and they love their job.""
+}"
+-1,"The statement implies that the employee is no longer working at Best Buy, which suggests dissatisfaction with their experience there."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is no longer working at Best Buy, which suggests dissatisfaction with their experience there.""
+}"
+-1,"The statement describes the employee's dissatisfaction with their experience at Best Buy, mentioning that they were driven to insanity by the company's policies and that going to work for T-Mobile was the best decision they made."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes the employee's dissatisfaction with their experience at Best Buy, mentioning that they were driven to insanity by the company's policies and that going to work for T-Mobile was the best decision they made.""
+}"
+1,The statement indicates that the employee had a positive experience with Best Buy accommodating their school schedule.," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates that the employee had a positive experience with Best Buy accommodating their school schedule.""
+}"
+0,"The statement does not indicate satisfaction or dissatisfaction with their current job at Best Buy, as they are looking to start working there soon."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate satisfaction or dissatisfaction with their current job at Best Buy, as they are looking to start working there soon.""
+}"
+1,The statement indicates that the employee is satisfied with their work experience at Best Buy due to having worked at two stores with amazing people who made it a lot better.," {
+    ""label"": 1,
+    ""reason"": ""The statement indicates that the employee is satisfied with their work experience at Best Buy due to having worked at two stores with amazing people who made it a lot better.""
+}"
+-1,"The employee expressed dissatisfaction with the company's handling of pay increases for workers already earning above $15, suggesting a better formula for calculating raises and advocating for commission pay for sales associates."," {
+  ""label"": -1,
+  ""reason"": ""The employee expressed dissatisfaction with the company's handling of pay increases for workers already earning above $15, suggesting a better formula for calculating raises and advocating for commission pay for sales associates.""
+}"
+0,The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It is focused on the process of getting a job at the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It is focused on the process of getting a job at the company.""
+}"
+-1,"The employee expressed dissatisfaction with their experience at Best Buy, mentioning that they hated the 'bullshit games' played with employees about revenue and upselling customers on expensive items. They also mentioned that management did not care about the customer or employees."," {
+  ""label"": -1,
+  ""reason"": ""The employee expressed dissatisfaction with their experience at Best Buy, mentioning that they hated the 'bullshit games' played with employees about revenue and upselling customers on expensive items. They also mentioned that management did not care about the customer or employees.""
+}"
+-1,"The statement expresses dissatisfaction with the company's policies and practices, such as layoffs, lack of proper training, and high medical insurance costs."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's policies and practices, such as layoffs, lack of proper training, and high medical insurance costs.""
+}"
+1,"The employee seems to have a positive experience working at Best Buy, mentioning cool managers and coworkers, as well as a lack of pressure to sell memberships. They also state that it is the most chill job they've worked for."," {
+  ""label"": 1,
+  ""reason"": ""The employee seems to have a positive experience working at Best Buy, mentioning cool managers and coworkers, as well as a lack of pressure to sell memberships. They also state that it is the most chill job they've worked for.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their current work hours and the lack of financial support from the company.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their current work hours and the lack of financial support from the company.""
+}"
+1,"The employee mentioned several positive aspects about working at Best Buy, such as discounts on store items, decent co-workers, and a starting wage of $15/hr. Although they also mentioned some cons like fighting for hours and pressure to sell warranties and credit cards, the overall sentiment leans towards satisfaction."," {
+  ""label"": 1,
+  ""reason"": ""The employee mentioned several positive aspects about working at Best Buy, such as discounts on store items, decent co-workers, and a starting wage of $15/hr. Although they also mentioned some cons like fighting for hours and pressure to sell warranties and credit cards, the overall sentiment leans towards satisfaction.""
+}"
+0,The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy. The question is about employee benefits and membership discounts.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy. The question is about employee benefits and membership discounts.""
+}"
+0,"The statement is a hypothetical scenario where the employee imagines if certain benefits were real at Best Buy, which doesn't provide any clear indication of satisfaction or dissatisfaction with their current employment."," {
+  ""label"": 0,
+  ""reason"": ""The statement is a hypothetical scenario where the employee imagines if certain benefits were real at Best Buy, which doesn't provide any clear indication of satisfaction or dissatisfaction with their current employment.""
+}"
+-1,The statement implies that the employee is unsatisfied with the change in the company's policy of paying employees on commission.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with the change in the company's policy of paying employees on commission.""
+}"
+1,"The statement indicates a positive experience working at Best Buy, mentioning 'positive experiences' while acknowledging that the environment can vary."," {
+  ""label"": 1,
+  ""reason"": ""The statement indicates a positive experience working at Best Buy, mentioning 'positive experiences' while acknowledging that the environment can vary.""
+}"
+1,"The statement suggests that the employee finds their job at Best Buy easy and enjoyable, as they spend most of their time making jokes with coworkers. They also mention a positive experience during Black Friday despite having minimal training."," {
+    ""label"": 1,
+    ""reason"": ""The statement suggests that the employee finds their job at Best Buy easy and enjoyable, as they spend most of their time making jokes with coworkers. They also mention a positive experience during Black Friday despite having minimal training.""
+}"
+1,"The statement indicates that the employee is satisfied working at Best Buy. They mention positive aspects such as good pay and a focus on technology, and also share their personal experience of having a great time there."," {
+    ""label"": 1,
+    ""reason"": ""The statement indicates that the employee is satisfied working at Best Buy. They mention positive aspects such as good pay and a focus on technology, and also share their personal experience of having a great time there.""
+}"
+1,The statement suggests that the employee enjoys working at Best Buy because they get to build computers and help customers feel confident about their purchases. They also mention that communication is important in this job.," {
+  ""label"": 1,
+  ""reason"": ""The statement suggests that the employee enjoys working at Best Buy because they get to build computers and help customers feel confident about their purchases. They also mention that communication is important in this job.""
+}"
+-1,"The statement indicates dissatisfaction with the work environment at Best Buy, mentioning that employees are expected to do everything and that it is becoming increasingly unorganized."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the work environment at Best Buy, mentioning that employees are expected to do everything and that it is becoming increasingly unorganized.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning low pay, high expectations to learn everything, and dissatisfaction with the new store. The employee also complains about constantly being told about cards and memberships."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning low pay, high expectations to learn everything, and dissatisfaction with the new store. The employee also complains about constantly being told about cards and memberships.""
+}"
+-1,"The statement indicates dissatisfaction with the company's treatment of its employees, mentioning layoffs and lack of support for workers who were already earning above minimum wage. The employee also suggests that working at Walmart might be a better option."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates dissatisfaction with the company's treatment of its employees, mentioning layoffs and lack of support for workers who were already earning above minimum wage. The employee also suggests that working at Walmart might be a better option.""
+}"
+-1,"The statement suggests dissatisfaction with the changes at Best Buy, such as reduced showroom space and limited browsing options."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests dissatisfaction with the changes at Best Buy, such as reduced showroom space and limited browsing options.""
+}"
+-1,"The statement suggests that the employee feels there are no consequences for not working or performing their duties properly at Best Buy, which indicates dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee feels there are no consequences for not working or performing their duties properly at Best Buy, which indicates dissatisfaction.""
+}"
+-1,"The statement indicates that the employee is unsatisfied with their experience working at Best Buy. They mention several negative aspects such as unrealistic sales goals, pushy management, frequent restructuring and elimination of positions, and high turnover. The employee also mentions that they left the company before the holiday season due to pressure to work more hours."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates that the employee is unsatisfied with their experience working at Best Buy. They mention several negative aspects such as unrealistic sales goals, pushy management, frequent restructuring and elimination of positions, and high turnover. The employee also mentions that they left the company before the holiday season due to pressure to work more hours.""
+}"
+-1,The statement suggests dissatisfaction with management's focus on pushing certain products and programs instead of valuing and compensating good floor salespeople fairly.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests dissatisfaction with management's focus on pushing certain products and programs instead of valuing and compensating good floor salespeople fairly.""
+}"
+-1,"The statement suggests that the employee views their role at Best Buy as being a 'laborer', which implies dissatisfaction with their job."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee views their role at Best Buy as being a 'laborer', which implies dissatisfaction with their job.""
+}"
+1,"The statement describes the employee's enjoyment of having diverse responsibilities at Best Buy, which indicates satisfaction with their job."," {
+  ""label"": 1,
+  ""reason"": ""The statement describes the employee's enjoyment of having diverse responsibilities at Best Buy, which indicates satisfaction with their job.""
+}"
+0,"The statement does not clearly indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The first point mentions that it can be increasingly toxic, but also says YMMV (Your Mileage May Vary), which suggests that the experience may vary for different employees. The second point talks about the wage, and the third point discusses the coworkers, both of which are neutral in nature."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not clearly indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The first point mentions that it can be increasingly toxic, but also says YMMV (Your Mileage May Vary), which suggests that the experience may vary for different employees. The second point talks about the wage, and the third point discusses the coworkers, both of which are neutral in nature.""
+}"
+-1,"The statement expresses dissatisfaction with the company's policies regarding employee incentives and rewards, specifically mentioning that employees do not see any of the money generated from memberships or credit card applications. The employee also suggests that they would be more motivated if there were some reward for their performance."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's policies regarding employee incentives and rewards, specifically mentioning that employees do not see any of the money generated from memberships or credit card applications. The employee also suggests that they would be more motivated if there were some reward for their performance.""
+}"
+-1,"The statement describes several negative aspects of working at Best Buy, such as managers denying legally mandated breaks, being sent home early when not busy, constant understaffing and overworking, and potentially illegal scheduling practices. The employee also mentions that the company mostly hires high schoolers who may not be aware of their rights."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes several negative aspects of working at Best Buy, such as managers denying legally mandated breaks, being sent home early when not busy, constant understaffing and overworking, and potentially illegal scheduling practices. The employee also mentions that the company mostly hires high schoolers who may not be aware of their rights.""
+}"
+-1,"The statement describes dissatisfaction with working at Best Buy during Covid days, mentioning the difficulties faced by employees and expressing happiness about making more money now while watching the company's decline."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes dissatisfaction with working at Best Buy during Covid days, mentioning the difficulties faced by employees and expressing happiness about making more money now while watching the company's decline.""
+}"
+1,"The statement suggests that the employee appreciates the discount provided for part-timers and emphasizes the importance of being personable in their work environment, indicating satisfaction."," {
+    ""label"": 1,
+    ""reason"": ""The statement suggests that the employee appreciates the discount provided for part-timers and emphasizes the importance of being personable in their work environment, indicating satisfaction.""
+}"
+0,The statement is neither positive nor negative about the employee's satisfaction with working at Best Buy. The user is asking a question about product training and knowledge testing for employees.," {
+    ""label"": 0,
+    ""reason"": ""The statement is neither positive nor negative about the employee's satisfaction with working at Best Buy. The user is asking a question about product training and knowledge testing for employees.""
+}"
+-1,"The statement indicates dissatisfaction with the training process at Best Buy, as the employee mentions that only 2 hours out of 12 were useful and had little to do with their job responsibilities."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates dissatisfaction with the training process at Best Buy, as the employee mentions that only 2 hours out of 12 were useful and had little to do with their job responsibilities.""
+}"
+-1,"The statement suggests a negative attitude towards the company, as the employee is laughing and saying something doesn't exist at their store."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests a negative attitude towards the company, as the employee is laughing and saying something doesn't exist at their store.""
+}"
+-1,The statement suggests that the employee had a negative experience at Best Buy and leaving was a positive decision for them.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee had a negative experience at Best Buy and leaving was a positive decision for them.""
+}"
+0,The statement is too vague to determine if the employee is satisfied or unsatisfied. It only states that something has 'always been true' without specifying what it is.," {
+  ""label"": 0,
+  ""reason"": ""The statement is too vague to determine if the employee is satisfied or unsatisfied. It only states that something has 'always been true' without specifying what it is.""
+}"
+-1,The statement indicates that the employee is unsatisfied with their manager's strict tardiness policy and having difficulty finding the relevant SOP on the company website.," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates that the employee is unsatisfied with their manager's strict tardiness policy and having difficulty finding the relevant SOP on the company website.""
+}"
+-1,"The statement suggests a negative sentiment towards the company's policy on discussing wages, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests a negative sentiment towards the company's policy on discussing wages, indicating dissatisfaction.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with their current work situation at Best Buy, as they believe more profit could be generated through individual labor."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their current work situation at Best Buy, as they believe more profit could be generated through individual labor.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing potential reasons for a position not being available and suggests speaking to a manager for more information.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing potential reasons for a position not being available and suggests speaking to a manager for more information.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing potential opportunities for promotion and advancement within the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy. The employee is discussing potential opportunities for promotion and advancement within the company.""
+}"
+0,The statement 'lol that’s nothing' does not provide any information about the employee's satisfaction or dissatisfaction with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'lol that’s nothing' does not provide any information about the employee's satisfaction or dissatisfaction with their job at Best Buy.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with the enforcement of a policy at their workplace, as they mention that most states are not enforcing it and view it as an appeal to authority."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is unsatisfied with the enforcement of a policy at their workplace, as they mention that most states are not enforcing it and view it as an appeal to authority.""
+}"
+-1,"The statement expresses dissatisfaction with the company's policy regarding employees coming to work with a high fever, potentially putting others at risk. The employee also criticizes leadership for not handling the situation properly."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the company's policy regarding employees coming to work with a high fever, potentially putting others at risk. The employee also criticizes leadership for not handling the situation properly.""
+}"
+-1,The statement provided does not indicate any satisfaction with their job at Best Buy.," {
+  ""label"": -1,
+  ""reason"": ""The statement provided does not indicate any satisfaction with their job at Best Buy.""
+}"
+0,The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly express satisfaction or dissatisfaction with working at Best Buy.""
+}"
+-1,The statement suggests dissatisfaction with the change in medication coverage and implies that Best Buy may have played a role in negotiating or agreeing to lesser coverage.," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests dissatisfaction with the change in medication coverage and implies that Best Buy may have played a role in negotiating or agreeing to lesser coverage.""
+}"
+-1,"The statement implies that the employee is unsatisfied with their work environment at Best Buy, as they mention someone who cannot sell the company and clarify that she does not own it."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their work environment at Best Buy, as they mention someone who cannot sell the company and clarify that she does not own it.""
+}"
+-1,"The statement shows frustration and dissatisfaction with the company, as the employee is criticizing others for discussing things they don't know about and refers to it as 'corporate bullshit.' This indicates a negative sentiment towards their workplace."," {
+  ""label"": -1,
+  ""reason"": ""The statement shows frustration and dissatisfaction with the company, as the employee is criticizing others for discussing things they don't know about and refers to it as 'corporate bullshit.' This indicates a negative sentiment towards their workplace.""
+}"
+1,"The statement suggests that the employee is satisfied with their job at Best Buy. They are providing advice and strategies for convincing customers to see the benefits of rewards and financing when discussing cost, which indicates a positive attitude towards their role in sales."," {
+    ""label"": 1,
+    ""reason"": ""The statement suggests that the employee is satisfied with their job at Best Buy. They are providing advice and strategies for convincing customers to see the benefits of rewards and financing when discussing cost, which indicates a positive attitude towards their role in sales.""
+}"
+-1,"The statement is negative and sarcastic in tone, indicating dissatisfaction with the employee's work environment."," {
+    ""label"": -1,
+    ""reason"": ""The statement is negative and sarcastic in tone, indicating dissatisfaction with the employee's work environment.""
+}"
+-1,"The statement 'Fingers crossed but not holding my breath! Good luck!' suggests a negative sentiment towards the company, indicating dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Fingers crossed but not holding my breath! Good luck!' suggests a negative sentiment towards the company, indicating dissatisfaction.""
+}"
+0,The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy. It is focused on a specific issue related to employee discount and taxation after returning products.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy. It is focused on a specific issue related to employee discount and taxation after returning products.""
+}"
+0,The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate the employee's satisfaction or dissatisfaction with their job at Best Buy.""
+}"
+-1,The statement implies dissatisfaction with the benefits provided by the 'Plus' membership compared to the 'My Best Buy TOTAL' membership.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies dissatisfaction with the benefits provided by the 'Plus' membership compared to the 'My Best Buy TOTAL' membership.""
+}"
+-1,"The statement mentions several negative aspects of working at Best Buy such as being overworked and underpaid. The employee also complains about low hours. Although they mention good management if you are lucky, the overall sentiment is negative."," {
+  ""label"": -1,
+  ""reason"": ""The statement mentions several negative aspects of working at Best Buy such as being overworked and underpaid. The employee also complains about low hours. Although they mention good management if you are lucky, the overall sentiment is negative.""
+}"
+-1,The statement suggests dissatisfaction with the job as it focuses on the mundane task of managing inventory and implies that there is no other meaningful work involved.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests dissatisfaction with the job as it focuses on the mundane task of managing inventory and implies that there is no other meaningful work involved.""
+}"
+1,The employee expressed their love for their role as a VPL for Car-fi and mentioned that they would stay back there all day. They also mentioned being knowledgeable enough to handle most tasks and seeking help from techs when needed.," {
+  ""label"": 1,
+  ""reason"": ""The employee expressed their love for their role as a VPL for Car-fi and mentioned that they would stay back there all day. They also mentioned being knowledgeable enough to handle most tasks and seeking help from techs when needed.""
+}"
+-1,"The statement 'Journal everything and report to HR ASAP!' suggests that the employee is facing some issue or concern at work, which indicates dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Journal everything and report to HR ASAP!' suggests that the employee is facing some issue or concern at work, which indicates dissatisfaction.""
+}"
+-1,The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It seems to be a comment on an employee's personal life.," {
+  ""label"": -1,
+  ""reason"": ""The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It seems to be a comment on an employee's personal life.""
+}"
+-1,"The statement shows empathy towards the employee's situation and acknowledges that they have to deal with difficult situations, which implies dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement shows empathy towards the employee's situation and acknowledges that they have to deal with difficult situations, which implies dissatisfaction.""
+}"
+-1,"The statement expresses dissatisfaction with the recent cut in labor and benefits at the company, indicating that the employee is unhappy with their current work situation."," {
+  ""label"": -1,
+  ""reason"": ""The statement expresses dissatisfaction with the recent cut in labor and benefits at the company, indicating that the employee is unhappy with their current work situation.""
+}"
+-1,"The statement indicates that the employee is unsatisfied with their current position at Best Buy as they are still unclear about their job duties and responsibilities even after working there. They mention that they are only looking for part-time employment over summer break, suggesting that they might not be fully committed to the job."," {
+    ""label"": -1,
+    ""reason"": ""The statement indicates that the employee is unsatisfied with their current position at Best Buy as they are still unclear about their job duties and responsibilities even after working there. They mention that they are only looking for part-time employment over summer break, suggesting that they might not be fully committed to the job.""
+}"
+0,The statement 'Private' is not informative enough to determine the employee's satisfaction level.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Private' is not informative enough to determine the employee's satisfaction level.""
+}"
+-1,"The statement implies that the employee is having difficulty leaving work at the end of the day, which suggests dissatisfaction with their job."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is having difficulty leaving work at the end of the day, which suggests dissatisfaction with their job.""
+}"
+0,The statement does not explicitly mention the employee's satisfaction or dissatisfaction with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly mention the employee's satisfaction or dissatisfaction with their job at Best Buy.""
+}"
+-1,"The statement suggests the employee is unsatisfied as they haven't been scheduled since November and were told to bring their shirts back, indicating a lack of work or involvement in the company."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests the employee is unsatisfied as they haven't been scheduled since November and were told to bring their shirts back, indicating a lack of work or involvement in the company.""
+}"
+-1,"The statement suggests that there have been recent changes in the company's structure, which may have caused dissatisfaction among employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that there have been recent changes in the company's structure, which may have caused dissatisfaction among employees.""
+}"
+0,The statement does not express satisfaction or dissatisfaction with working at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not express satisfaction or dissatisfaction with working at Best Buy.""
+}"
+-1,"The statement suggests that the employee is not satisfied with their current skills or abilities, as they mention not knowing how to use Photoshop and feeling incompetent."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is not satisfied with their current skills or abilities, as they mention not knowing how to use Photoshop and feeling incompetent.""
+}"
+0,The statement provided does not indicate any satisfaction or dissatisfaction with working at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not indicate any satisfaction or dissatisfaction with working at Best Buy.""
+}"
+-1,"The statement shows strong negative emotions and dissatisfaction with the work environment, indicating that the employee is unsatisfied working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement shows strong negative emotions and dissatisfaction with the work environment, indicating that the employee is unsatisfied working at Best Buy.""
+}"
+-1,The statement implies that the employee is unsatisfied with customers who want high-quality sound systems but are unwilling to spend a reasonable amount of money for it.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with customers who want high-quality sound systems but are unwilling to spend a reasonable amount of money for it.""
+}"
+0,"The statement is about the payment process at Best Buy, not the employee's satisfaction level."," {
+  ""label"": 0,
+  ""reason"": ""The statement is about the payment process at Best Buy, not the employee's satisfaction level.""
+}"
+0,The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The employee is expressing a desire to learn more about products and asking for advice from other employees.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The employee is expressing a desire to learn more about products and asking for advice from other employees.""
+}"
+-1,"The employee is expressing dissatisfaction with their work schedule, mentioning that they are being scheduled for more hours than they can handle and not having a proper response from their manager."," {
+  ""label"": -1,
+  ""reason"": ""The employee is expressing dissatisfaction with their work schedule, mentioning that they are being scheduled for more hours than they can handle and not having a proper response from their manager.""
+}"
+-1,The statement suggests that the employee is unhappy with their current job at Best Buy due to a mismatch between their identification and what is on file. This indicates dissatisfaction.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unhappy with their current job at Best Buy due to a mismatch between their identification and what is on file. This indicates dissatisfaction.""
+}"
+0,The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. The employee is simply stating their role as a product flow supervisor.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. The employee is simply stating their role as a product flow supervisor.""
+}"
+-1,"The statement suggests that the employee is unsatisfied with their job because they have to sell support plans and products on site, making their work more difficult than before."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their job because they have to sell support plans and products on site, making their work more difficult than before.""
+}"
+-1,"The statement 'More leadership cuts' suggests that there have been recent reductions in leadership positions at the company, which can lead to increased workload and stress for remaining employees, potentially causing dissatisfaction."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'More leadership cuts' suggests that there have been recent reductions in leadership positions at the company, which can lead to increased workload and stress for remaining employees, potentially causing dissatisfaction.""
+}"
+-1,"The statement describes a negative experience working at Best Buy, mentioning tasks that are considered undesirable or unenjoyable."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a negative experience working at Best Buy, mentioning tasks that are considered undesirable or unenjoyable.""
+}"
+0,The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It is discussing a financial matter related to taxes.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate any satisfaction or dissatisfaction with working at Best Buy. It is discussing a financial matter related to taxes.""
+}"
+-1,The statement implies that the employee may not be satisfied with their job at Best Buy because they are only managing inventory and not dealing with customers.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee may not be satisfied with their job at Best Buy because they are only managing inventory and not dealing with customers.""
+}"
+-1,The statement suggests that the employee is unsatisfied with their work environment at Best Buy due to the high demand for products and potential difficulties in keeping up with stock levels.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is unsatisfied with their work environment at Best Buy due to the high demand for products and potential difficulties in keeping up with stock levels.""
+}"
+-1,"The statement 'Another round? Wtf?' suggests frustration or dissatisfaction with the current situation, indicating that the employee is unsatisfied working at Best Buy."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Another round? Wtf?' suggests frustration or dissatisfaction with the current situation, indicating that the employee is unsatisfied working at Best Buy.""
+}"
+-1,"The statement implies dissatisfaction with leadership's performance or actions, as it questions their deserving of a bonus."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies dissatisfaction with leadership's performance or actions, as it questions their deserving of a bonus.""
+}"
+-1,The statement suggests a lack of satisfaction with the current work environment at Best Buy. The employee mentions a 'smaller market' which implies they may not be content with their job or the company's performance.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests a lack of satisfaction with the current work environment at Best Buy. The employee mentions a 'smaller market' which implies they may not be content with their job or the company's performance.""
+}"
+-1,The statement implies that the employee is unsatisfied with their job at Best Buy due to the mention of corporate investigations and the focus on metrics for promotions.," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their job at Best Buy due to the mention of corporate investigations and the focus on metrics for promotions.""
+}"
+-1,"The statement implies that the employee is unsatisfied with their work environment at Best Buy, as they are discussing stores in the metro Atlanta area that may close this year."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is unsatisfied with their work environment at Best Buy, as they are discussing stores in the metro Atlanta area that may close this year.""
+}"
+0,The statement 'its as simple as that' is not informative enough to determine if the employee is satisfied or unsatisfied with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'its as simple as that' is not informative enough to determine if the employee is satisfied or unsatisfied with their job at Best Buy.""
+}"
+-1,"The statement indicates that the employee is frustrated with their inability to contact HR and lack of response from their manager, suggesting dissatisfaction with their work environment."," {
+  ""label"": -1,
+  ""reason"": ""The statement indicates that the employee is frustrated with their inability to contact HR and lack of response from their manager, suggesting dissatisfaction with their work environment.""
+}"
+0,The statement does not indicate the employee's satisfaction level with their job at Best Buy.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate the employee's satisfaction level with their job at Best Buy.""
+}"
+0,The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The employee is asking for clarification about a specific entry on their schedule.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not indicate whether the employee is satisfied or unsatisfied with their job at Best Buy. The employee is asking for clarification about a specific entry on their schedule.""
+}"

@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import matplotlib.gridspec as gridspec
-from typing import List, Literal, Optional
+from typing import List, Literal, Optional, Tuple
 from src.util.string_formatting import wrap_text
 
 
@@ -69,13 +69,14 @@ def plot_performance(
     evaluation_metric: Literal['f1', 'recall', 'precision'],
     summary_df: pd.DataFrame,
     sample_df: pd.DataFrame,
-    save_path: Optional[str] = None
+    save_path: Optional[str] = None,
+    figsize: Tuple[float, float] = (20, 6)
 ):
     # reset index on summary_df to filter across columns
     summary_df = summary_df.reset_index()
 
     # Setup the figure and gridspec
-    fig = plt.figure(figsize=(20, 6))  # Adjust overall figure size as needed
+    fig = plt.figure(figsize=figsize)  # Adjust overall figure size as needed
     # Define a gridspec of 1 row and 2 columns
     gs = gridspec.GridSpec(1, 2, width_ratios=[3, 1])
 
