@@ -1,0 +1,1305 @@
+label,reason,output
+-1,The statement describes understaffing because the employee mentions running a bare minimum of staff who have to know and do more than ever before while being paid less than they were two years ago. This implies that there is not enough staff to handle the workload efficiently.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions running a bare minimum of staff who have to know and do more than ever before while being paid less than they were two years ago. This implies that there is not enough staff to handle the workload efficiently.""
+}"
+-1,The statement describes understaffing because the employee mentions that sales associates are getting only 10ish hours per week and customers have to wait 20 minutes to get help. This indicates a lack of sufficient staff to meet customer demands.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that sales associates are getting only 10ish hours per week and customers have to wait 20 minutes to get help. This indicates a lack of sufficient staff to meet customer demands.""
+}"
+-1,"The statement describes understaffing in management positions at some hub locations, where there are more experience managers and supervisors than needed, while other spokes have fewer EM and supervisors."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing in management positions at some hub locations, where there are more experience managers and supervisors than needed, while other spokes have fewer EM and supervisors.""
+}"
+-1,The statement describes understaffing because the employee mentions struggling with hours for months and a push to go try something new. The mention of less senior people sticking around also suggests that there might be a lack of experienced staff.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions struggling with hours for months and a push to go try something new. The mention of less senior people sticking around also suggests that there might be a lack of experienced staff.""
+}"
+-1,The statement describes understaffing because the employee is experiencing lighter work days and is concerned about potential cuts to their position.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is experiencing lighter work days and is concerned about potential cuts to their position.""
+}"
+0,"The statement does not describe overstaffing or understaffing. The employee talks about their efficient precinct and how they have more free time while still making labor positive for the company. They mention that they do not help with code 1's because it is not in their job description, but this does not indicate any staffing issues."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. The employee talks about their efficient precinct and how they have more free time while still making labor positive for the company. They mention that they do not help with code 1's because it is not in their job description, but this does not indicate any staffing issues.""
+}"
+-1,"The statement is asking about the overall headcount for leadership, which implies a potential decrease in staffing levels. This could indicate understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement is asking about the overall headcount for leadership, which implies a potential decrease in staffing levels. This could indicate understaffing.""
+}"
+-1,"The statement describes understaffing because it mentions that employees are constantly being compared to others who have achieved more, suggesting a high workload and pressure on the staff."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that employees are constantly being compared to others who have achieved more, suggesting a high workload and pressure on the staff.""
+}"
+-1,"The statement describes understaffing because it mentions that employees have to pick up the slack when staff is cut, indicating a lack of sufficient personnel."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that employees have to pick up the slack when staff is cut, indicating a lack of sufficient personnel.""
+}"
+-1,The statement describes understaffing because the employee mentions that the store has been understaffed for months and they only have a limited number of staff members to complete tasks.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that the store has been understaffed for months and they only have a limited number of staff members to complete tasks.""
+}"
+-1,"The statement describes understaffing because the employee mentions having more managers than sales associates on the floor, which implies that there are not enough people to handle customer demands effectively."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions having more managers than sales associates on the floor, which implies that there are not enough people to handle customer demands effectively.""
+}"
+-1,"The statement describes a situation where there are too many high-ranking employees (chiefs, generals) and not enough lower-ranking ones (Indians, soldiers), which indicates understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a situation where there are too many high-ranking employees (chiefs, generals) and not enough lower-ranking ones (Indians, soldiers), which indicates understaffing.""
+}"
+-1,"The statement describes a situation where the company has laid off its tenured employees and is now relying on fewer staff members to handle the same amount of work, which indicates understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a situation where the company has laid off its tenured employees and is now relying on fewer staff members to handle the same amount of work, which indicates understaffing.""
+}"
+-1,The statement describes understaffing because it mentions a reduction in scheduled hours due to poor performance. This indicates that the company may be trying to cut back on staffing costs as they are not satisfied with the current level of productivity.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions a reduction in scheduled hours due to poor performance. This indicates that the company may be trying to cut back on staffing costs as they are not satisfied with the current level of productivity.""
+}"
+-1,"The statement describes understaffing because it mentions employees being overworked and underpaid, which suggests that there may not be enough staff to handle the workload efficiently."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions employees being overworked and underpaid, which suggests that there may not be enough staff to handle the workload efficiently.""
+}"
+1,"The statement describes overstaffing because the employee is expressing that they will be unappreciated and overworked, indicating a lack of adequate staffing."," {
+    ""label"": 1,
+    ""reason"": ""The statement describes overstaffing because the employee is expressing that they will be unappreciated and overworked, indicating a lack of adequate staffing.""
+}"
+-1,The statement describes understaffing because the employee mentions having more managers than sales reps and having to handle multiple customers at once.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions having more managers than sales reps and having to handle multiple customers at once.""
+}"
+-1,"The statement describes understaffing as the employee mentions that the staff was cut each year they worked there and by the time they left, there were only a few people working during peak hours. The company's focus on cutting staff over time indicates an issue with understaffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing as the employee mentions that the staff was cut each year they worked there and by the time they left, there were only a few people working during peak hours. The company's focus on cutting staff over time indicates an issue with understaffing.""
+}"
+-1,"The statement describes understaffing because it mentions that there will be fewer staff members due to labor cuts, particularly in smaller stores."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that there will be fewer staff members due to labor cuts, particularly in smaller stores.""
+}"
+-1,"The statement mentions that 6 employees in the store are actively looking for new jobs, which indicates a possible understaffing issue as it suggests high employee turnover or dissatisfaction with the current work environment."," {
+    ""label"": -1,
+    ""reason"": ""The statement mentions that 6 employees in the store are actively looking for new jobs, which indicates a possible understaffing issue as it suggests high employee turnover or dissatisfaction with the current work environment.""
+}"
+-1,"The statement describes understaffing because it mentions that the company is losing veteran employees, which implies a lack of experienced staff members. Additionally, the new people are struggling to keep up, suggesting they might not be enough in number or adequately trained."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that the company is losing veteran employees, which implies a lack of experienced staff members. Additionally, the new people are struggling to keep up, suggesting they might not be enough in number or adequately trained.""
+}"
+-1,The statement implies that the company has a high turnover rate and relies on their General Manager to make decisions about firing employees. This suggests understaffing as they are frequently replacing staff members.," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the company has a high turnover rate and relies on their General Manager to make decisions about firing employees. This suggests understaffing as they are frequently replacing staff members.""
+}"
+-1,The statement describes understaffing because the employee mentions that the store they work at is planning to reduce its staff by half.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that the store they work at is planning to reduce its staff by half.""
+}"
+-1,"The statement describes understaffing because the new general manager has forced out 70% of the old staff and is not helping when busy, leading to longer hours for completing tasks such as trucks."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the new general manager has forced out 70% of the old staff and is not helping when busy, leading to longer hours for completing tasks such as trucks.""
+}"
+-1,"The statement describes understaffing because the employee mentions a high turnover rate (75% annual) and that they were left to struggle without proper support from their team lead and other full-time employees. This suggests that there may not be enough staff members to provide adequate training and support for new hires, leading to a negative work environment."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions a high turnover rate (75% annual) and that they were left to struggle without proper support from their team lead and other full-time employees. This suggests that there may not be enough staff members to provide adequate training and support for new hires, leading to a negative work environment.""
+}"
+-1,The statement suggests that there is understaffing in the company as it mentions cutting down on field managers and overloading remaking staff in stores. This implies a need for more staff to handle the workload.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that there is understaffing in the company as it mentions cutting down on field managers and overloading remaking staff in stores. This implies a need for more staff to handle the workload.""
+}"
+-1,"The statement mentions 'hours' which could imply that employees are working long hours, suggesting understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement mentions 'hours' which could imply that employees are working long hours, suggesting understaffing.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they were hired as part-time and rarely scheduled, indicating a lack of sufficient staff members."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that they were hired as part-time and rarely scheduled, indicating a lack of sufficient staff members.""
+}"
+-1,"The statement describes understaffing because the employee had to run the cashier for a while since another coworker called out and did not show up, and they also had to handle multiple tasks such as bubble wrapping and moving appliances on their own. This indicates that there were not enough staff members to cover all the workload."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee had to run the cashier for a while since another coworker called out and did not show up, and they also had to handle multiple tasks such as bubble wrapping and moving appliances on their own. This indicates that there were not enough staff members to cover all the workload.""
+}"
+-1,The statement describes understaffing because the employee mentions losing their supervisor and being replaced by someone who is not capable of providing proper leadership or guidance. This indicates a lack of support and resources for employees to perform their jobs effectively.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions losing their supervisor and being replaced by someone who is not capable of providing proper leadership or guidance. This indicates a lack of support and resources for employees to perform their jobs effectively.""
+}"
+-1,The statement describes understaffing because the employee mentions that they were one of the top 50 in their market before Christmas but went down after hours were cut. This suggests that there may not be enough staff to handle the workload effectively.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they were one of the top 50 in their market before Christmas but went down after hours were cut. This suggests that there may not be enough staff to handle the workload effectively.""
+}"
+-1,The statement describes understaffing because it mentions that there were only 4 sales associates working while all 4 leaders were watching cameras together. This indicates a lack of sufficient staff to handle both tasks effectively.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that there were only 4 sales associates working while all 4 leaders were watching cameras together. This indicates a lack of sufficient staff to handle both tasks effectively.""
+}"
+-1,The statement describes understaffing because the employee is expressing frustration about multiple people leaving their positions and the lack of understanding from management regarding the reasons for their departure. This leaves the remaining employees feeling overwhelmed with new hires to train and increased workload during the holiday season.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is expressing frustration about multiple people leaving their positions and the lack of understanding from management regarding the reasons for their departure. This leaves the remaining employees feeling overwhelmed with new hires to train and increased workload during the holiday season.""
+}"
+-1,The statement describes understaffing because it mentions that general managers (GMs) take away previously scheduled hours from some employees and give them to others who are more willing to work. This indicates a lack of sufficient staff to cover the required shifts.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that general managers (GMs) take away previously scheduled hours from some employees and give them to others who are more willing to work. This indicates a lack of sufficient staff to cover the required shifts.""
+}"
+-1,"The statement describes understaffing because the employee mentions feeling overwhelmed and drained by their workload, suggesting that they may not have enough support from colleagues to manage their tasks effectively."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions feeling overwhelmed and drained by their workload, suggesting that they may not have enough support from colleagues to manage their tasks effectively.""
+}"
+-1,"The statement describes understaffing because the employee mentions that there is only one employee in the whole store all day, which indicates a lack of sufficient staff to handle the workload."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that there is only one employee in the whole store all day, which indicates a lack of sufficient staff to handle the workload.""
+}"
+-1,"The statement describes understaffing because the company is overpaying consultants and not getting a good return on investment. They are also looking to replace them with advisors at a lower cost, which indicates they may have too many employees in that role."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the company is overpaying consultants and not getting a good return on investment. They are also looking to replace them with advisors at a lower cost, which indicates they may have too many employees in that role.""
+}"
+0,"The statement does not describe overstaffing or understaffing. The employee mentions their location is small with only 10 sales advisors and they are typically top in their micro market, but there is no clear indication of staffing issues."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. The employee mentions their location is small with only 10 sales advisors and they are typically top in their micro market, but there is no clear indication of staffing issues.""
+}"
+-1,The statement describes understaffing because the employee mentions that they have a lot on their plate and are feeling stressed due to not having enough manpower and hours to get everything done.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they have a lot on their plate and are feeling stressed due to not having enough manpower and hours to get everything done.""
+}"
+-1,The statement describes understaffing because the employee mentions that their store barely has anyone in it anymore and all of their autotech workers left. This indicates a lack of staff members to perform tasks.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that their store barely has anyone in it anymore and all of their autotech workers left. This indicates a lack of staff members to perform tasks.""
+}"
+-1,"The statement describes understaffing because the employee mentions that the company is 'ridiculously understaffed' and clients are waiting a long time for help, leading to frustration and leaving without assistance."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that the company is 'ridiculously understaffed' and clients are waiting a long time for help, leading to frustration and leaving without assistance.""
+}"
+-1,"The statement describes understaffing because it mentions that corporate pressures store leadership to meet goals, and in turn, the leadership puts pressure on associates to achieve those goals. This implies that there might not be enough staff members to handle the workload effectively."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that corporate pressures store leadership to meet goals, and in turn, the leadership puts pressure on associates to achieve those goals. This implies that there might not be enough staff members to handle the workload effectively.""
+}"
+-1,"The statement describes understaffing because it mentions that many experienced employees are leaving the company, which could lead to a shortage of staff."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that many experienced employees are leaving the company, which could lead to a shortage of staff.""
+}"
+0,The statement does not directly address overstaffing or understaffing issues but rather focuses on the management and pay at a specific location.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing issues but rather focuses on the management and pay at a specific location.""
+}"
+-1,The statement describes understaffing because it mentions that running a mobile department with only one person would lead to overworking the employee and negatively impacting the company's performance.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that running a mobile department with only one person would lead to overworking the employee and negatively impacting the company's performance.""
+}"
+-1,The statement describes understaffing because the employee mentions that corporate thinks the store can run with only 14 staff members while there are currently 27 (now 26 after a co-worker quit). The employee also doubts that they will actually cut the number of staff but expects at least six people to leave.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that corporate thinks the store can run with only 14 staff members while there are currently 27 (now 26 after a co-worker quit). The employee also doubts that they will actually cut the number of staff but expects at least six people to leave.""
+}"
+0,The statement is not relevant to overstaffing or understaffing as it is a question about the return of an Employee Experience Team at another store.," {
+  ""label"": 0,
+  ""reason"": ""The statement is not relevant to overstaffing or understaffing as it is a question about the return of an Employee Experience Team at another store.""
+}"
+-1,The statement describes understaffing as it mentions a restructuring that has led to employees who were previously in difficult situations with customers now being responsible for resolving those issues. This implies that there may not be enough staff members to handle the workload effectively.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as it mentions a restructuring that has led to employees who were previously in difficult situations with customers now being responsible for resolving those issues. This implies that there may not be enough staff members to handle the workload effectively.""
+}"
+-1,"The statement describes understaffing because it mentions that a lot of consultants were fired recently, which implies there are fewer people available to do the work."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that a lot of consultants were fired recently, which implies there are fewer people available to do the work.""
+}"
+-1,"The statement describes understaffing because it mentions that leaders haven't been properly trained or motivated, which can lead to a lack of effective management and potentially overburdened employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that leaders haven't been properly trained or motivated, which can lead to a lack of effective management and potentially overburdened employees.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is focused on the employee's personal situation and future plans.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is focused on the employee's personal situation and future plans.""
+}"
+-1,The statement describes understaffing because the employee mentions that they are being pressured to meet various performance metrics and are expected to get 3 no's per customer for bp's. This indicates a high workload and suggests that there may not be enough staff to handle the demands of the job.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that they are being pressured to meet various performance metrics and are expected to get 3 no's per customer for bp's. This indicates a high workload and suggests that there may not be enough staff to handle the demands of the job.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is a question about the influence of district managers on the HR department.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is a question about the influence of district managers on the HR department.""
+}"
+1,"The statement describes overstaffing because the employee mentions that they are 'stretched so thin' and there is 'absolutely no management', which implies that there are too many tasks for the current staff to handle."," {
+  ""label"": 1,
+  ""reason"": ""The statement describes overstaffing because the employee mentions that they are 'stretched so thin' and there is 'absolutely no management', which implies that there are too many tasks for the current staff to handle.""
+}"
+-1,"The statement mentions 'layoffs' and 'big changes,' which implies that the company may be reducing its workforce, indicating understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement mentions 'layoffs' and 'big changes,' which implies that the company may be reducing its workforce, indicating understaffing.""
+}"
+0,"The statement does not describe overstaffing or understaffing, as it only provides information about the composition of the workforce at a specific store."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing, as it only provides information about the composition of the workforce at a specific store.""
+}"
+-1,"The statement describes understaffing as it mentions having two associates for the entire store and customers stacked 10 deep. Additionally, full-time employees are getting only 28 hours of work per week, which is not enough to afford benefits."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing as it mentions having two associates for the entire store and customers stacked 10 deep. Additionally, full-time employees are getting only 28 hours of work per week, which is not enough to afford benefits.""
+}"
+-1,"The statement describes understaffing because it mentions an increase in call outs and a decrease in the number of people physically on the sales floor, leading to increased customer impatience and overwhelming work for the remaining employees. The regional director seems unconcerned about these issues."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions an increase in call outs and a decrease in the number of people physically on the sales floor, leading to increased customer impatience and overwhelming work for the remaining employees. The regional director seems unconcerned about these issues.""
+}"
+-1,"The statement describes understaffing because the employee mentions that in-store agents are cut down to very small teams and have more stress, indicating a lack of sufficient staff members."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that in-store agents are cut down to very small teams and have more stress, indicating a lack of sufficient staff members.""
+}"
+0,The statement does not directly address overstaffing or understaffing issues but rather focuses on the employee's personal experience with their work hours and efficiency.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not directly address overstaffing or understaffing issues but rather focuses on the employee's personal experience with their work hours and efficiency.""
+}"
+-1,"The statement describes understaffing because the employee is only getting scheduled 4-12 hours a week, which indicates that there may not be enough staff to cover the workload. Additionally, management pressuring the employee into selling credit cards and TT suggests they are trying to compensate for the lack of staff by having existing employees take on more tasks."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee is only getting scheduled 4-12 hours a week, which indicates that there may not be enough staff to cover the workload. Additionally, management pressuring the employee into selling credit cards and TT suggests they are trying to compensate for the lack of staff by having existing employees take on more tasks.""
+}"
+-1,"The statement describes understaffing because it mentions that the managers are on edge, which could imply they are struggling to manage their workload with fewer staff members."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that the managers are on edge, which could imply they are struggling to manage their workload with fewer staff members.""
+}"
+-1,The statement describes understaffing because it implies that employees may be at risk of losing their full-time status if they do not meet certain revenue expectations. This suggests a high pressure environment and potentially insufficient staff to achieve the required goals.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that employees may be at risk of losing their full-time status if they do not meet certain revenue expectations. This suggests a high pressure environment and potentially insufficient staff to achieve the required goals.""
+}"
+-1,"The statement suggests that there might be a reduction in staff, which indicates understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that there might be a reduction in staff, which indicates understaffing.""
+}"
+-1,The statement describes understaffing because the employee feels overwhelmed by the expectation of helping out in other departments and having to put away totes when not with a customer.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee feels overwhelmed by the expectation of helping out in other departments and having to put away totes when not with a customer.""
+}"
+-1,"The statement describes understaffing because it mentions that the company's bonuses are equivalent to 1-2 full timers' salaries, implying that there is a lack of staff members."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that the company's bonuses are equivalent to 1-2 full timers' salaries, implying that there is a lack of staff members.""
+}"
+-1,"The statement describes understaffing because the employee mentions not having enough help on the floor to answer phone calls and focus on customer service, which is important for retaining memberships."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions not having enough help on the floor to answer phone calls and focus on customer service, which is important for retaining memberships.""
+}"
+-1,The statement describes understaffing because the employee mentions that everything has been outsourced and they believe it's worse for their work as a field agent. The stores are also not doing a better job at scheduling.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that everything has been outsourced and they believe it's worse for their work as a field agent. The stores are also not doing a better job at scheduling.""
+}"
+0,"The statement does not specifically mention overstaffing or understaffing, so it is irrelevant to the topic."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not specifically mention overstaffing or understaffing, so it is irrelevant to the topic.""
+}"
+0,"The statement is discussing the idea of periodic cost of living adjustments for employees, which is not directly related to overstaffing or understaffing."," {
+  ""label"": 0,
+  ""reason"": ""The statement is discussing the idea of periodic cost of living adjustments for employees, which is not directly related to overstaffing or understaffing.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they are expected to do everything regardless of their position, which implies a lack of sufficient staff to cover all tasks."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they are expected to do everything regardless of their position, which implies a lack of sufficient staff to cover all tasks.""
+}"
+-1,"The statement describes a time when the company had more staff members, including employees, managers, supervisors, asset protection or loss prevention officers, and off-duty police. This suggests that there was understaffing in the current situation compared to the past."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes a time when the company had more staff members, including employees, managers, supervisors, asset protection or loss prevention officers, and off-duty police. This suggests that there was understaffing in the current situation compared to the past.""
+}"
+-1,"The statement describes understaffing because the employee mentions that the company is 'hemorrhaging labor to places willing to pay more,' and they are pressured to sacrifice their physical and mental well-being for the company's profits. The employee also suggests walking out in solidarity with coworkers, indicating a lack of adequate staffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that the company is 'hemorrhaging labor to places willing to pay more,' and they are pressured to sacrifice their physical and mental well-being for the company's profits. The employee also suggests walking out in solidarity with coworkers, indicating a lack of adequate staffing.""
+}"
+-1,The statement describes understaffing because the employee complains about having a lot to do with little help and being criticized for not completing tasks. They also mention that upper management should visit stores to provide assistance.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee complains about having a lot to do with little help and being criticized for not completing tasks. They also mention that upper management should visit stores to provide assistance.""
+}"
+-1,"The statement describes understaffing because it mentions employees feeling that the company no longer has its original core values and employee experience at heart, which could lead to high turnover rates."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions employees feeling that the company no longer has its original core values and employee experience at heart, which could lead to high turnover rates.""
+}"
+0,"The statement does not directly address overstaffing or understaffing issues. It discusses the fairness of guaranteed hours for employees and mentions a shift-picking system similar to gig economy platforms, but it doesn't provide enough information to determine if there is an issue with staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing issues. It discusses the fairness of guaranteed hours for employees and mentions a shift-picking system similar to gig economy platforms, but it doesn't provide enough information to determine if there is an issue with staffing levels.""
+}"
+-1,The statement describes understaffing because the employee is worried about their position being modified and potentially losing their job due to a reduction in headcount.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is worried about their position being modified and potentially losing their job due to a reduction in headcount.""
+}"
+-1,The statement describes understaffing because it implies that employees are struggling with their workload and need more support from management.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that employees are struggling with their workload and need more support from management.""
+}"
+-1,"The statement suggests that there may be a reduction in the number of sales employees, which indicates understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that there may be a reduction in the number of sales employees, which indicates understaffing.""
+}"
+-1,"The statement describes understaffing because the employee is expected to learn about every product in the store, which suggests they might be overburdened with work and not enough staff members are available to handle the tasks."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is expected to learn about every product in the store, which suggests they might be overburdened with work and not enough staff members are available to handle the tasks.""
+}"
+-1,"The statement describes understaffing because it mentions layoff rumors, which implies that the company may be considering reducing its workforce."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions layoff rumors, which implies that the company may be considering reducing its workforce.""
+}"
+0,The statement does not explicitly mention overstaffing or understaffing. It discusses conflicts among advisors due to a change in the management structure but does not indicate whether there are too many or too few staff members.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly mention overstaffing or understaffing. It discusses conflicts among advisors due to a change in the management structure but does not indicate whether there are too many or too few staff members.""
+}"
+-1,"The statement describes understaffing because the employee mentions that the company's CEO, Corie Barry, laid off 5K full-time employees during a pandemic, which indicates a lack of sufficient staff."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that the company's CEO, Corie Barry, laid off 5K full-time employees during a pandemic, which indicates a lack of sufficient staff.""
+}"
+0,The statement does not directly address overstaffing or understaffing issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing issues.""
+}"
+-1,"The statement describes understaffing because it mentions that some employees are making $2.00 less than the speaker and are struggling to perform their tasks, which indicates a lack of adequate training or support."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that some employees are making $2.00 less than the speaker and are struggling to perform their tasks, which indicates a lack of adequate training or support.""
+}"
+-1,"The statement describes understaffing as it implies that employees are expected to meet high sales targets and face negative consequences if they don't, suggesting a lack of support or resources for employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as it implies that employees are expected to meet high sales targets and face negative consequences if they don't, suggesting a lack of support or resources for employees.""
+}"
+-1,"The statement describes understaffing because the employee mentions that there is no well-being ambassador or manager performing this role, which indicates a lack of resources to support employees' well-being."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that there is no well-being ambassador or manager performing this role, which indicates a lack of resources to support employees' well-being.""
+}"
+-1,"The statement describes understaffing because it mentions that there were layoffs and replacements, which implies a reduction in staff."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that there were layoffs and replacements, which implies a reduction in staff.""
+}"
+-1,"The statement describes understaffing because it suggests that employees are unsure of their tasks and need to consult with management frequently. This indicates a lack of adequate training or support, which can be a sign of insufficient staffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it suggests that employees are unsure of their tasks and need to consult with management frequently. This indicates a lack of adequate training or support, which can be a sign of insufficient staffing.""
+}"
+-1,"The statement describes understaffing because the speaker is surprised by the large number of people still working at their old store, implying that they expected more employees to have been let go."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the speaker is surprised by the large number of people still working at their old store, implying that they expected more employees to have been let go.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they are running circles around their supervisors and getting 45+ memberships every month. They also mention that managers are always on the floor and rarely leave admin/SDR to help with customer service. The employee is frustrated by not being rewarded for their superior customer service and product knowledge, and feels undervalued compared to seasonal employees they are hiring."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that they are running circles around their supervisors and getting 45+ memberships every month. They also mention that managers are always on the floor and rarely leave admin/SDR to help with customer service. The employee is frustrated by not being rewarded for their superior customer service and product knowledge, and feels undervalued compared to seasonal employees they are hiring.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the positive work environment and relationships between employees at the store.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the positive work environment and relationships between employees at the store.""
+}"
+-1,The statement describes understaffing because the employee mentions having to work multiple jobs and not being able to cover all hours needed due to their company's schedule.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions having to work multiple jobs and not being able to cover all hours needed due to their company's schedule.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they had to leave their store after 3 years due to others leeching off them and trying to do a good job. This implies that there were not enough people doing their part, leading to an understaffed situation."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that they had to leave their store after 3 years due to others leeching off them and trying to do a good job. This implies that there were not enough people doing their part, leading to an understaffed situation.""
+}"
+-1,"The statement describes understaffing because it mentions that the manager is keeping the counts down and giving part-timers more hours, which implies a lack of sufficient staff members to cover the workload."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that the manager is keeping the counts down and giving part-timers more hours, which implies a lack of sufficient staff members to cover the workload.""
+}"
+-1,The statement describes understaffing because it mentions that there are fewer experienced warehouse staff and leadership positions have been filled with people who lack experience in operations.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that there are fewer experienced warehouse staff and leadership positions have been filled with people who lack experience in operations.""
+}"
+-1,The statement describes understaffing because the employee complains about managers micromanaging their interactions with other employees and not providing proper guidance or training.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee complains about managers micromanaging their interactions with other employees and not providing proper guidance or training.""
+}"
+-1,"The statement describes understaffing because the management is not allowing employees to spend time with customers or answer their questions, which indicates they are too busy and there might not be enough staff members to handle the workload."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the management is not allowing employees to spend time with customers or answer their questions, which indicates they are too busy and there might not be enough staff members to handle the workload.""
+}"
+-1,"The statement suggests that there might be a reduction in leadership positions, which indicates understaffing as it implies fewer people will be managing the workforce."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that there might be a reduction in leadership positions, which indicates understaffing as it implies fewer people will be managing the workforce.""
+}"
+-1,"The statement suggests that warehouse employees are too busy to take their lunches, which implies understaffing as they cannot afford to take breaks."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that warehouse employees are too busy to take their lunches, which implies understaffing as they cannot afford to take breaks.""
+}"
+0,"The statement does not explicitly mention overstaffing or understaffing issues. The employee mentions that they have little hours and unscheduled hours, but also describes the workplace as 'really cool' with a lot of great people."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not explicitly mention overstaffing or understaffing issues. The employee mentions that they have little hours and unscheduled hours, but also describes the workplace as 'really cool' with a lot of great people.""
+}"
+0,The statement does not directly address overstaffing or understaffing issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing issues.""
+}"
+-1,"The statement describes understaffing because it mentions that the company has adopted a 'do more with less' mindset, and employees are being asked to flex to multiple departments for help. The author also mentions having limited staff and a constant high demand."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that the company has adopted a 'do more with less' mindset, and employees are being asked to flex to multiple departments for help. The author also mentions having limited staff and a constant high demand.""
+}"
+-1,"The statement describes understaffing because it mentions that employees are being yelled at by managers, which implies they might not have enough staff to handle the workload."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that employees are being yelled at by managers, which implies they might not have enough staff to handle the workload.""
+}"
+-1,"The statement describes understaffing because it mentions that full timers are getting close to 25 hours due to excess 'down time', which implies there is not enough work for the current staff."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that full timers are getting close to 25 hours due to excess 'down time', which implies there is not enough work for the current staff.""
+}"
+-1,"The statement describes understaffing because the store manager mentioned that their team was overworked and a corporate team member responded by saying it's a small price to pay for being customer obsessed. This indicates that the company may prioritize customer service over employee well-being, which can lead to understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the store manager mentioned that their team was overworked and a corporate team member responded by saying it's a small price to pay for being customer obsessed. This indicates that the company may prioritize customer service over employee well-being, which can lead to understaffing.""
+}"
+-1,"The statement describes understaffing as the employee is complaining about having to work more than 30 hours and mentions being the top performing warehouse employee at their store, implying that they are overworked."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing as the employee is complaining about having to work more than 30 hours and mentions being the top performing warehouse employee at their store, implying that they are overworked.""
+}"
+-1,The statement describes understaffing because the employee mentions that there is too much stress on everyone due to insufficient staffing.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that there is too much stress on everyone due to insufficient staffing.""
+}"
+-1,The statement describes understaffing because it mentions that the top performers at the store are under pressure from management and leaders to meet sales targets. This pressure may lead them to resort to unethical practices like tricking customers into getting a card app.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that the top performers at the store are under pressure from management and leaders to meet sales targets. This pressure may lead them to resort to unethical practices like tricking customers into getting a card app.""
+}"
+-1,"The statement describes understaffing because it mentions that seasonal workers who used to get 30+ hours of work per week are no longer present, indicating a reduction in the number of employees."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that seasonal workers who used to get 30+ hours of work per week are no longer present, indicating a reduction in the number of employees.""
+}"
+-1,The statement describes understaffing as the company has cut its seasonal staff due to reduced labor.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing as the company has cut its seasonal staff due to reduced labor.""
+}"
+0,The statement does not mention any issues related to staffing levels or employee workload.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not mention any issues related to staffing levels or employee workload.""
+}"
+-1,The statement describes understaffing because the employee is expressing frustration about being overworked and not having enough time to complete their tasks. They mention being late every day due to workload and feeling like they need to write up management themselves.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee is expressing frustration about being overworked and not having enough time to complete their tasks. They mention being late every day due to workload and feeling like they need to write up management themselves.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they are overworked and have a skeleton crew covering areas of the store. They also mention that two advisors called out, leading to impatient customers. The employee states that the situation is worse than pre-COVID."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they are overworked and have a skeleton crew covering areas of the store. They also mention that two advisors called out, leading to impatient customers. The employee states that the situation is worse than pre-COVID.""
+}"
+-1,"The statement 'Yea, never the employees tho' suggests that there might be understaffing or a lack of employee satisfaction. The phrase 'never the employees tho' implies that the focus is not on the employees, which could indicate they are feeling undervalued or overworked."," {
+  ""label"": -1,
+  ""reason"": ""The statement 'Yea, never the employees tho' suggests that there might be understaffing or a lack of employee satisfaction. The phrase 'never the employees tho' implies that the focus is not on the employees, which could indicate they are feeling undervalued or overworked.""
+}"
+-1,The statement describes understaffing because it mentions that putting someone in front lanes who doesn't want to be there can lead to poor customer experiences and lower NPS scores. This indicates a lack of adequate staffing or proper placement of employees.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that putting someone in front lanes who doesn't want to be there can lead to poor customer experiences and lower NPS scores. This indicates a lack of adequate staffing or proper placement of employees.""
+}"
+-1,"The statement describes understaffing because the employee mentions that full-time workers at their store are only getting 28 hours of work, which is less than the standard 40-hour workweek. This suggests that there may not be enough staff to cover all the necessary tasks and shifts."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that full-time workers at their store are only getting 28 hours of work, which is less than the standard 40-hour workweek. This suggests that there may not be enough staff to cover all the necessary tasks and shifts.""
+}"
+0,The statement 'Yes. You work retail.' does not describe overstaffing or understaffing as it is a simple confirmation of working in the retail industry.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Yes. You work retail.' does not describe overstaffing or understaffing as it is a simple confirmation of working in the retail industry.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the availability of tools and management support rather than staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the availability of tools and management support rather than staff levels.""
+}"
+-1,The statement describes understaffing because it implies that employees are overwhelmed by customers and cannot attend to them promptly due to a lack of staff.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it implies that employees are overwhelmed by customers and cannot attend to them promptly due to a lack of staff.""
+}"
+-1,The statement describes understaffing as the employee mentions not receiving enough labor for their team and having to complete tasks that were unrealistic in terms of time and resources.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as the employee mentions not receiving enough labor for their team and having to complete tasks that were unrealistic in terms of time and resources.""
+}"
+-1,"The statement describes understaffing because it implies that half of the staff is not working effectively, which could lead to difficulties in managing workload and providing good customer service."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that half of the staff is not working effectively, which could lead to difficulties in managing workload and providing good customer service.""
+}"
+-1,The statement describes understaffing because the employee mentions that there were only four employees in the store and they felt their job wasn't safe when discussing this issue with their managers.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that there were only four employees in the store and they felt their job wasn't safe when discussing this issue with their managers.""
+}"
+0,The statement does not clearly indicate whether there is overstaffing or understaffing. It mentions extra hours being used for budgeting purposes but doesn't provide enough context to determine if this implies overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not clearly indicate whether there is overstaffing or understaffing. It mentions extra hours being used for budgeting purposes but doesn't provide enough context to determine if this implies overstaffing or understaffing.""
+}"
+1,The statement describes overstaffing because the employee is dealing with clients and taking on additional responsibilities when there is no opening CA. This implies that there are too many employees in the store.," {
+    ""label"": 1,
+    ""reason"": ""The statement describes overstaffing because the employee is dealing with clients and taking on additional responsibilities when there is no opening CA. This implies that there are too many employees in the store.""
+}"
+-1,"The statement describes understaffing because it mentions truck shortages, theft, and employee errors causing additional work for the speaker, which implies that there may not be enough staff to handle these issues effectively."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions truck shortages, theft, and employee errors causing additional work for the speaker, which implies that there may not be enough staff to handle these issues effectively.""
+}"
+-1,"The statement describes understaffing as it mentions that phone service schedules jobs without proper coverage, stores and senior sales aren't much better at times, and management prioritizes customer satisfaction over financial loss. This indicates a lack of staff to handle the workload efficiently."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as it mentions that phone service schedules jobs without proper coverage, stores and senior sales aren't much better at times, and management prioritizes customer satisfaction over financial loss. This indicates a lack of staff to handle the workload efficiently.""
+}"
+-1,"The statement describes understaffing because the management's focus on pushing total tech, branded payments, and credit programs suggests that they are not providing enough support to salespeople, who are left to deal with difficult customers without proper guidance or assistance."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the management's focus on pushing total tech, branded payments, and credit programs suggests that they are not providing enough support to salespeople, who are left to deal with difficult customers without proper guidance or assistance.""
+}"
+0,The statement 'We should be employee owned' does not describe overstaffing or understaffing as it is unrelated to the number of employees in the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'We should be employee owned' does not describe overstaffing or understaffing as it is unrelated to the number of employees in the company.""
+}"
+-1,"The statement describes understaffing because it suggests that the company is turning down employee requests for exchanges, which could indicate a lack of staff to handle these tasks."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it suggests that the company is turning down employee requests for exchanges, which could indicate a lack of staff to handle these tasks.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it discusses an employee's pay range and experience in a specific job application.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it discusses an employee's pay range and experience in a specific job application.""
+}"
+0,"The statement does not describe overstaffing or understaffing, it is discussing the types of employment (W2 and 3pl) and how they are perceived."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing, it is discussing the types of employment (W2 and 3pl) and how they are perceived.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is a question about the employee's position and hourly wage.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is a question about the employee's position and hourly wage.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing issues.""
+}"
+0,The statement provided is not relevant to determining overstaffing or understaffing as it contains only emojis and no meaningful information.," {
+    ""label"": 0,
+    ""reason"": ""The statement provided is not relevant to determining overstaffing or understaffing as it contains only emojis and no meaningful information.""
+}"
+-1,The statement describes understaffing because it implies that stores are struggling with maintaining comfortable temperatures due to insufficient cooling capacity. This could lead to a less productive and more uncomfortable work environment for employees.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that stores are struggling with maintaining comfortable temperatures due to insufficient cooling capacity. This could lead to a less productive and more uncomfortable work environment for employees.""
+}"
+0,The statement 'Interacting to support and help gain views' does not describe overstaffing or understaffing as it is unrelated to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Interacting to support and help gain views' does not describe overstaffing or understaffing as it is unrelated to staffing levels.""
+}"
+-1,"The statement suggests that the employee prefers not to interact with customers, which implies a lack of customer service and potentially understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee prefers not to interact with customers, which implies a lack of customer service and potentially understaffing.""
+}"
+0,The statement is neither about overstaffing nor understaffing as it discusses the internal testing standards and protocols of a company.," {
+  ""label"": 0,
+  ""reason"": ""The statement is neither about overstaffing nor understaffing as it discusses the internal testing standards and protocols of a company.""
+}"
+0,The statement 'Lets goooo' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Lets goooo' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.""
+}"
+0,The statement is unclear and does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is unclear and does not provide any information about staffing levels.""
+}"
+0,"The statement does not directly indicate overstaffing or understaffing. The employee mentions working during the holidays and being available to cover when someone calls out, but there is no clear indication of staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly indicate overstaffing or understaffing. The employee mentions working during the holidays and being available to cover when someone calls out, but there is no clear indication of staffing levels.""
+}"
+-1,The statement describes understaffing because it implies that there are not enough employees to handle the workload or customer service effectively. The mention of 'removed from best buy Reddit for no reason' suggests that the employee is questioning the company's decision-making process and possibly feeling overwhelmed by their workload.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that there are not enough employees to handle the workload or customer service effectively. The mention of 'removed from best buy Reddit for no reason' suggests that the employee is questioning the company's decision-making process and possibly feeling overwhelmed by their workload.""
+}"
+0,The statement does not describe any situation related to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe any situation related to staffing levels.""
+}"
+-1,The statement describes understaffing because the employee suggests overwhelming customers with information and not providing complete details about warranties until they are ready to make a purchase. This indicates that the company may be relying on high-pressure sales tactics instead of having enough staff members to provide proper customer service.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee suggests overwhelming customers with information and not providing complete details about warranties until they are ready to make a purchase. This indicates that the company may be relying on high-pressure sales tactics instead of having enough staff members to provide proper customer service.""
+}"
+-1,The statement describes understaffing because the employee is getting chewed out by their manager for not being able to complete tasks due to a lack of resources or time. This indicates that there may be too few staff members available to handle the workload.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee is getting chewed out by their manager for not being able to complete tasks due to a lack of resources or time. This indicates that there may be too few staff members available to handle the workload.""
+}"
+-1,"The statement describes understaffing because the employee is discussing an issue with another employee's appearance and behavior, which indicates that there might not be enough staff members to maintain a professional image."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is discussing an issue with another employee's appearance and behavior, which indicates that there might not be enough staff members to maintain a professional image.""
+}"
+-1,The statement does not provide any information about staffing levels or workforce management. It is discussing a potential change in the company's compensation structure (moving from salary to commission).," {
+  ""label"": -1,
+  ""reason"": ""The statement does not provide any information about staffing levels or workforce management. It is discussing a potential change in the company's compensation structure (moving from salary to commission).""
+}"
+0,The statement does not describe overstaffing or understaffing. It is about job descriptions and their changes on a company's website.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is about job descriptions and their changes on a company's website.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is focused on the speaker's opinion about unions and their curiosity regarding a firing incident.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is focused on the speaker's opinion about unions and their curiosity regarding a firing incident.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing-related information.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing-related information.""
+}"
+0,The statement 'Lmao no' is not relevant to determining overstaffing or understaffing as it does not provide any information about the company's staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Lmao no' is not relevant to determining overstaffing or understaffing as it does not provide any information about the company's staffing situation.""
+}"
+0,The statement 'Ohhh ok thank you so much' does not provide any information about staffing levels or the company of interest.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Ohhh ok thank you so much' does not provide any information about staffing levels or the company of interest.""
+}"
+-1,"The statement describes understaffing because the employee mentions that stock will likely be low for the rest of the year, which implies a lack of resources or personnel to manage inventory properly."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that stock will likely be low for the rest of the year, which implies a lack of resources or personnel to manage inventory properly.""
+}"
+0,The statement provided does not describe overstaffing or understaffing. It is a light-hearted comment and irrelevant to the topic of staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement provided does not describe overstaffing or understaffing. It is a light-hearted comment and irrelevant to the topic of staffing levels.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention anything about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention anything about staff levels.""
+}"
+0,The statement is discussing the impact of increased interest rates on discounted cash flows and does not directly address staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is discussing the impact of increased interest rates on discounted cash flows and does not directly address staffing levels.""
+}"
+0,"The statement does not describe overstaffing or understaffing, as it focuses on the author's personal experience and preference for LG OLED TVs over Sony TVs due to easier repairs and better customer service."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing, as it focuses on the author's personal experience and preference for LG OLED TVs over Sony TVs due to easier repairs and better customer service.""
+}"
+-1,"The statement implies that the company has a history of preventing certain actions (in this case, overstaffing) from happening, suggesting understaffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the company has a history of preventing certain actions (in this case, overstaffing) from happening, suggesting understaffing.""
+}"
+0,The statement is about the starting pay for an Experience Supervisor at a company and does not indicate any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is about the starting pay for an Experience Supervisor at a company and does not indicate any information about staffing levels.""
+}"
+-1,"The statement describes understaffing because it implies that there are not enough staff members to assist customers promptly, leading to complaints from those who have to wait."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that there are not enough staff members to assist customers promptly, leading to complaints from those who have to wait.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is about employee benefits and gift options.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is about employee benefits and gift options.""
+}"
+0,The statement 'Check open job postings' is irrelevant to determining overstaffing or understaffing as it does not provide any information about the current staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Check open job postings' is irrelevant to determining overstaffing or understaffing as it does not provide any information about the current staffing situation.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is a personal concern shared by the employee and not related to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is a personal concern shared by the employee and not related to staffing levels.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not discuss staffing levels within the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not discuss staffing levels within the company.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is a response to a specific situation and focuses on discussing the details of the scenario rather than staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing. It is a response to a specific situation and focuses on discussing the details of the scenario rather than staffing levels.""
+}"
+0,The statement '*whistles in Back of Precount*' is irrelevant to determining overstaffing or understaffing as it does not contain any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement '*whistles in Back of Precount*' is irrelevant to determining overstaffing or understaffing as it does not contain any information about staff levels.""
+}"
+-1,The statement describes understaffing as the employee is overwhelmed with handling difficult customer calls and is expected to remain on the phone for long periods of time without breaks.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing as the employee is overwhelmed with handling difficult customer calls and is expected to remain on the phone for long periods of time without breaks.""
+}"
+0,The statement provided is nonsensical and does not describe any situation related to staffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided is nonsensical and does not describe any situation related to staffing.""
+}"
+0,The statement does not directly address staffing levels or provide any information about overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address staffing levels or provide any information about overstaffing or understaffing.""
+}"
+0,The statement is a farewell message and does not indicate any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is a farewell message and does not indicate any information about staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is unrelated to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is unrelated to staffing levels.""
+}"
+-1,The statement describes understaffing because it suggests that employees should be able to handle their own tasks without relying on others. This implies that there may not be enough staff members available to cover all the necessary duties.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it suggests that employees should be able to handle their own tasks without relying on others. This implies that there may not be enough staff members available to cover all the necessary duties.""
+}"
+-1,"The statement describes understaffing because the employee mentions that their precinct is about to get their hours cut, which implies a reduction in workforce. Additionally, they mention possibly losing heads, indicating potential job losses."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that their precinct is about to get their hours cut, which implies a reduction in workforce. Additionally, they mention possibly losing heads, indicating potential job losses.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is a response to an email and does not mention any staffing issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is a response to an email and does not mention any staffing issues.""
+}"
+-1,The statement 'Lazid 19' is not clear enough to determine if it describes overstaffing or understaffing. It seems irrelevant to the topic of staffing levels.," {
+    ""label"": -1,
+    ""reason"": ""The statement 'Lazid 19' is not clear enough to determine if it describes overstaffing or understaffing. It seems irrelevant to the topic of staffing levels.""
+}"
+-1,"The statement suggests that the company is closing locations that attempt to unionize, which implies a lack of staff representation and potentially understaffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the company is closing locations that attempt to unionize, which implies a lack of staff representation and potentially understaffing.""
+}"
+-1,The statement describes understaffing because the employee mentioned that they had to stop offering a discount due to not having enough staff to handle heavy appliances.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentioned that they had to stop offering a discount due to not having enough staff to handle heavy appliances.""
+}"
+-1,"The statement describes understaffing because it mentions a significant drop in performance (almost 10%), which could be an indication of not having enough staff to handle the workload efficiently."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions a significant drop in performance (almost 10%), which could be an indication of not having enough staff to handle the workload efficiently.""
+}"
+0,The statement provided is a URL and does not describe overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided is a URL and does not describe overstaffing or understaffing.""
+}"
+-1,"The statement describes understaffing because the employee feels threatened with termination for a joke, which may indicate an environment where management is overly strict and possibly understaffed."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee feels threatened with termination for a joke, which may indicate an environment where management is overly strict and possibly understaffed.""
+}"
+-1,"The statement suggests that the company is struggling with calculating raises due to the pandemic, which could indicate understaffing as they are not providing adequate compensation for their employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the company is struggling with calculating raises due to the pandemic, which could indicate understaffing as they are not providing adequate compensation for their employees.""
+}"
+-1,"The statement includes a gif of a person being downsized, which implies that the company has reduced its workforce. This suggests understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement includes a gif of a person being downsized, which implies that the company has reduced its workforce. This suggests understaffing.""
+}"
+-1,"The statement describes understaffing because there were only enough employees to handle the first 100 people in line within the first 2-3 hours, leaving many others waiting for a long time and ultimately going home without a product."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because there were only enough employees to handle the first 100 people in line within the first 2-3 hours, leaving many others waiting for a long time and ultimately going home without a product.""
+}"
+-1,"The statement describes understaffing because the employee mentions having their pay checked adjusted multiple times due to scheduling errors, which indicates a lack of proper staff management and training."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions having their pay checked adjusted multiple times due to scheduling errors, which indicates a lack of proper staff management and training.""
+}"
+0,The statement 'Pizza !!!' is irrelevant to determining overstaffing or understaffing as it does not contain any information related to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Pizza !!!' is irrelevant to determining overstaffing or understaffing as it does not contain any information related to staffing levels.""
+}"
+0,"The statement is about an app feature and its limitations, not staffing levels."," {
+    ""label"": 0,
+    ""reason"": ""The statement is about an app feature and its limitations, not staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is focused on the importance of having knowledge in various departments and being versatile in a part-time role.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is focused on the importance of having knowledge in various departments and being versatile in a part-time role.""
+}"
+0,The statement 'Seems legit.' is too vague and does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Seems legit.' is too vague and does not provide any information about staffing levels.""
+}"
+0,The statement provided does not describe overstaffing or understaffing. It seems to be a question about the duration of employment and is irrelevant to staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement provided does not describe overstaffing or understaffing. It seems to be a question about the duration of employment and is irrelevant to staffing levels.""
+}"
+0,"The statement does not describe overstaffing or understaffing, it's about sharing tips and experiences with a new employee."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing, it's about sharing tips and experiences with a new employee.""
+}"
+0,"The statement does not describe overstaffing or understaffing as it is discussing a deleted post and account on Reddit, which is irrelevant to staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is discussing a deleted post and account on Reddit, which is irrelevant to staffing levels.""
+}"
+-1,The statement describes understaffing because the employee is upset about making less money compared to a newer employee with potentially less experience.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is upset about making less money compared to a newer employee with potentially less experience.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is about an issue with customers damaging products in the store.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is about an issue with customers damaging products in the store.""
+}"
+0,The statement does not describe overstaffing or understaffing as it talks about having firsthand accounts of something that was suspected but doesn't mention staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it talks about having firsthand accounts of something that was suspected but doesn't mention staffing levels.""
+}"
+-1,"The statement describes understaffing because it implies that an employee was fired, which could lead to a shortage of staff."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that an employee was fired, which could lead to a shortage of staff.""
+}"
+0,The statement is a welcome message and does not indicate any issues with staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is a welcome message and does not indicate any issues with staffing levels.""
+}"
+0,"The statement does not describe overstaffing or understaffing, it is irrelevant."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing, it is irrelevant.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about the company's staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about the company's staffing situation.""
+}"
+0,The statement does not directly indicate overstaffing or understaffing as it only mentions that the employees are seasonal hires.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly indicate overstaffing or understaffing as it only mentions that the employees are seasonal hires.""
+}"
+-1,"The statement implies that the employee is expected to work long hours (12 hours a week), which suggests understaffing as it indicates that there are not enough employees to cover the required workload."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the employee is expected to work long hours (12 hours a week), which suggests understaffing as it indicates that there are not enough employees to cover the required workload.""
+}"
+0,The statement provided does not discuss staffing levels or workforce issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not discuss staffing levels or workforce issues.""
+}"
+0,The statement 'Racist statues' is irrelevant to determining overstaffing or understaffing at a company.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Racist statues' is irrelevant to determining overstaffing or understaffing at a company.""
+}"
+0,The statement is neither about overstaffing nor understaffing as it discusses the shift lead expectations and job codes at the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement is neither about overstaffing nor understaffing as it discusses the shift lead expectations and job codes at the company.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any staffing issues.""
+}"
+-1,The statement describes understaffing as the employee mentions that sales floor staff has been cut by at least half and new employees are not properly trained.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as the employee mentions that sales floor staff has been cut by at least half and new employees are not properly trained.""
+}"
+-1,The statement suggests that the employee is not satisfied with their compensation and feels overworked or underappreciated. This could indicate a possible issue of understaffing as the company may be relying too heavily on its current workforce.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is not satisfied with their compensation and feels overworked or underappreciated. This could indicate a possible issue of understaffing as the company may be relying too heavily on its current workforce.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is about the employee's personal account and concerns about getting fired.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is about the employee's personal account and concerns about getting fired.""
+}"
+0,The statement does not describe any staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe any staffing situation.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is focused on employee behavior and the company's financial status.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing as it is focused on employee behavior and the company's financial status.""
+}"
+-1,The statement describes understaffing because it mentions that Corie is making irreversible changes and Amazon can wait for her poor management to devalue the company further.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that Corie is making irreversible changes and Amazon can wait for her poor management to devalue the company further.""
+}"
+0,The statement 'Definitely get a lawyer.' does not describe overstaffing or understaffing as it is irrelevant to the topic of staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Definitely get a lawyer.' does not describe overstaffing or understaffing as it is irrelevant to the topic of staffing levels.""
+}"
+-1,"The statement does not describe any staffing situation, so it is irrelevant to the topic."," {
+  ""label"": -1,
+  ""reason"": ""The statement does not describe any staffing situation, so it is irrelevant to the topic.""
+}"
+-1,The statement describes understaffing because the customer is frustrated with the website's inefficiency and prefers shopping at Amazon for a better experience.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the customer is frustrated with the website's inefficiency and prefers shopping at Amazon for a better experience.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they were terminated due to attendance violations (being late, not calling out or no call no showing). This indicates a lack of staff members to cover shifts and maintain proper workflow."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they were terminated due to attendance violations (being late, not calling out or no call no showing). This indicates a lack of staff members to cover shifts and maintain proper workflow.""
+}"
+0,"The statement 'Employees don't pay for polos' does not indicate any information about staffing levels or the number of employees in relation to workload. Therefore, it is irrelevant to determine if there is overstaffing or understaffing."," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Employees don't pay for polos' does not indicate any information about staffing levels or the number of employees in relation to workload. Therefore, it is irrelevant to determine if there is overstaffing or understaffing.""
+}"
+-1,"The statement describes a situation where employees were fired and then rehired only to be fired again. This indicates that the company may have had too many employees at some point (overstaffing), but it is not clear if this was a consistent issue or just a one-time event."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes a situation where employees were fired and then rehired only to be fired again. This indicates that the company may have had too many employees at some point (overstaffing), but it is not clear if this was a consistent issue or just a one-time event.""
+}"
+-1,"The statement describes understaffing because the employee suggests using PTO and ghosting the company as a form of revenge against their manager, implying that they are unhappy with their work environment and possibly feeling overworked or undervalued."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee suggests using PTO and ghosting the company as a form of revenge against their manager, implying that they are unhappy with their work environment and possibly feeling overworked or undervalued.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it discusses employee discounts and taxes.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it discusses employee discounts and taxes.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the process of replacing a panel on an LG C1 TV by Geek Squad and its professionalism.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the process of replacing a panel on an LG C1 TV by Geek Squad and its professionalism.""
+}"
+-1,"The statement suggests that the company is not promoting being human anymore, which implies a lack of emphasis on empathy or personal connections in their work environment. This could lead to understaffing as employees may feel undervalued and overworked."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the company is not promoting being human anymore, which implies a lack of emphasis on empathy or personal connections in their work environment. This could lead to understaffing as employees may feel undervalued and overworked.""
+}"
+-1,The statement suggests that the employee is struggling to find information and implies that there might not be enough staff available to assist them. This indicates understaffing.," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is struggling to find information and implies that there might not be enough staff available to assist them. This indicates understaffing.""
+}"
+-1,"The statement implies that there are cuts being made in staffing, which suggests understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that there are cuts being made in staffing, which suggests understaffing.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they have to handle multiple tasks such as troubleshooting fee, wifi troubleshoot, printer trouble, and sending information via text. This indicates a high workload for the employee, suggesting that there might not be enough staff members to handle all these tasks efficiently."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the employee mentions that they have to handle multiple tasks such as troubleshooting fee, wifi troubleshoot, printer trouble, and sending information via text. This indicates a high workload for the employee, suggesting that there might not be enough staff members to handle all these tasks efficiently.""
+}"
+-1,"The statement describes understaffing because the employee mentions that they were not heard or supported by their leadership, which led to them feeling unappreciated and eventually quitting. The company's focus on numbers and corporate talk instead of finding solutions for employees also indicates a lack of proper staff management."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that they were not heard or supported by their leadership, which led to them feeling unappreciated and eventually quitting. The company's focus on numbers and corporate talk instead of finding solutions for employees also indicates a lack of proper staff management.""
+}"
+0,The statement 'Location ?' is irrelevant to determining overstaffing or understaffing as it does not provide any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Location ?' is irrelevant to determining overstaffing or understaffing as it does not provide any information about staff levels.""
+}"
+0,The statement is irrelevant to staffing levels as it discusses the process of obtaining a store item and using a credit card.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to staffing levels as it discusses the process of obtaining a store item and using a credit card.""
+}"
+0,The statement 'X frame?' is unclear and does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'X frame?' is unclear and does not provide any information about staffing levels.""
+}"
+0,The statement is not clear enough to determine if it describes overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement is not clear enough to determine if it describes overstaffing or understaffing.""
+}"
+-1,The statement 'They'll close the store' suggests that there may be understaffing or other issues leading to the store's closure. This indicates a lack of sufficient staff members to maintain operations.," {
+  ""label"": -1,
+  ""reason"": ""The statement 'They'll close the store' suggests that there may be understaffing or other issues leading to the store's closure. This indicates a lack of sufficient staff members to maintain operations.""
+}"
+-1,"The statement describes an issue with a product purchased by the customer, which indicates understaffing as it suggests that the company may not have adequately checked or ensured the quality of the product before selling it."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes an issue with a product purchased by the customer, which indicates understaffing as it suggests that the company may not have adequately checked or ensured the quality of the product before selling it.""
+}"
+-1,"The statement describes understaffing as it mentions constant red floors due to lack of staff, people leaving, and the grind for memberships. The employee also feels run down and overwhelmed by the changes."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing as it mentions constant red floors due to lack of staff, people leaving, and the grind for memberships. The employee also feels run down and overwhelmed by the changes.""
+}"
+-1,The statement does not describe any staffing situation. It is a personal comment directed at an employee and is irrelevant to the topic of overstaffing or understaffing.," {
+  ""label"": -1,
+  ""reason"": ""The statement does not describe any staffing situation. It is a personal comment directed at an employee and is irrelevant to the topic of overstaffing or understaffing.""
+}"
+-1,"The statement suggests that the company is not prioritizing staffing concerns, which implies understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the company is not prioritizing staffing concerns, which implies understaffing.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is discussing the benefits of union membership and its impact on wages.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is discussing the benefits of union membership and its impact on wages.""
+}"
+0,"The statement 'Thank you, will do!' does not indicate any information about staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Thank you, will do!' does not indicate any information about staffing levels.""
+}"
+-1,The statement describes understaffing because the manager's lack of concern for the employee's safety indicates that they may not have enough staff to properly monitor and address such issues.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the manager's lack of concern for the employee's safety indicates that they may not have enough staff to properly monitor and address such issues.""
+}"
+0,"The statement is about the employee's confusion regarding their break options during a 6-hour shift, which does not indicate overstaffing or understaffing."," {
+    ""label"": 0,
+    ""reason"": ""The statement is about the employee's confusion regarding their break options during a 6-hour shift, which does not indicate overstaffing or understaffing.""
+}"
+0,The statement provided does not describe overstaffing or understaffing. It is a policy clarification regarding the use of an employee discount.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not describe overstaffing or understaffing. It is a policy clarification regarding the use of an employee discount.""
+}"
+-1,"The statement does not directly mention any issues related to staffing levels. However, it implies a negative experience or dissatisfaction with the company's response, which could be interpreted as understaffing if it affects the employee's ability to perform their job effectively."," {
+    ""label"": -1,
+    ""reason"": ""The statement does not directly mention any issues related to staffing levels. However, it implies a negative experience or dissatisfaction with the company's response, which could be interpreted as understaffing if it affects the employee's ability to perform their job effectively.""
+}"
+0,"The statement does not describe overstaffing or understaffing, it is irrelevant to the topic."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing, it is irrelevant to the topic.""
+}"
+0,The statement is too vague and does not provide any specific information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is too vague and does not provide any specific information about staffing levels.""
+}"
+0,The statement 'Good response lol 😄' does not provide any information about staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement 'Good response lol 😄' does not provide any information about staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is about a procedural issue related to purchasing items through iProcurement.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is about a procedural issue related to purchasing items through iProcurement.""
+}"
+0,The statement does not directly indicate any issue with staffing levels. It only provides a threshold for missing workdays.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not directly indicate any issue with staffing levels. It only provides a threshold for missing workdays.""
+}"
+0,The statement is irrelevant to staffing levels as it only mentions the absence of a specific position at the store.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to staffing levels as it only mentions the absence of a specific position at the store.""
+}"
+0,The statement 'We hit goal?' is not relevant to determining overstaffing or understaffing as it does not mention any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'We hit goal?' is not relevant to determining overstaffing or understaffing as it does not mention any information about staff levels.""
+}"
+0,"The statement does not describe overstaffing or understaffing, as it is discussing the creation of a new subreddit and its popularity compared to another one."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing, as it is discussing the creation of a new subreddit and its popularity compared to another one.""
+}"
+0,The statement is irrelevant to staffing levels as it discusses purchasing decisions for TVs and the number of TV manufacturers.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to staffing levels as it discusses purchasing decisions for TVs and the number of TV manufacturers.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the employee's personal experience and advice about working at Geek Squad and moving to a better job in IT.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the employee's personal experience and advice about working at Geek Squad and moving to a better job in IT.""
+}"
+0,The statement is not relevant to staffing levels as it discusses a specific issue with payment methods and internet connectivity.," {
+  ""label"": 0,
+  ""reason"": ""The statement is not relevant to staffing levels as it discusses a specific issue with payment methods and internet connectivity.""
+}"
+-1,The statement describes understaffing because it mentions that seasonal work is ending and employees are moving on to other opportunities.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that seasonal work is ending and employees are moving on to other opportunities.""
+}"
+-1,"The statement suggests that the company may face a decline or failure in the future, which implies understaffing as it indicates potential job loss for employees."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the company may face a decline or failure in the future, which implies understaffing as it indicates potential job loss for employees.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is about receiving a raise and not staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing as it is about receiving a raise and not staffing levels.""
+}"
+-1,"The statement describes understaffing because it implies that there is a lack of oversight or monitoring of employee actions, which could lead to potential fraudulent behavior and misuse of company resources."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that there is a lack of oversight or monitoring of employee actions, which could lead to potential fraudulent behavior and misuse of company resources.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is about a company's policy on handling preorder bonuses.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is about a company's policy on handling preorder bonuses.""
+}"
+-1,The statement describes understaffing because it mentions that customers are having difficulty making appointments or their appointments are being canceled. This indicates a possible lack of staff to handle the workload.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that customers are having difficulty making appointments or their appointments are being canceled. This indicates a possible lack of staff to handle the workload.""
+}"
+0,The statement 'Computer e-learnings for the first week' does not provide any information about staffing levels or issues at the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Computer e-learnings for the first week' does not provide any information about staffing levels or issues at the company.""
+}"
+-1,"The statement describes understaffing because it mentions that there are decent people who do a good job, implying that there aren't enough of them to counterbalance the negative actions of top performers. Additionally, leadership is not addressing the issue, which further supports the idea of understaffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it mentions that there are decent people who do a good job, implying that there aren't enough of them to counterbalance the negative actions of top performers. Additionally, leadership is not addressing the issue, which further supports the idea of understaffing.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staffing levels.""
+}"
+0,The statement 'Thank you!' does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Thank you!' does not provide any information about staffing levels.""
+}"
+0,The statement does not provide any information about staffing levels or workload.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not provide any information about staffing levels or workload.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is discussing a change in vacation time based on the length of employment.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing. It is discussing a change in vacation time based on the length of employment.""
+}"
+0,"The statement is about a computer's specifications and performance, not staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement is about a computer's specifications and performance, not staffing levels.""
+}"
+0,The statement is irrelevant to staffing levels as it discusses a sale on an LG monitor.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to staffing levels as it discusses a sale on an LG monitor.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is focused on the implementation of a new system that allows employees to inform their absence through an automated process without guilt trips or browbeating. It does not mention any staffing issues.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing as it is focused on the implementation of a new system that allows employees to inform their absence through an automated process without guilt trips or browbeating. It does not mention any staffing issues.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is an apology for a situation and does not mention staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is an apology for a situation and does not mention staff levels.""
+}"
+-1,"The statement describes understaffing because the employee is expressing that they would not complete their work if others call out, implying a lack of sufficient staff to cover shifts."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is expressing that they would not complete their work if others call out, implying a lack of sufficient staff to cover shifts.""
+}"
+0,The statement 'RIP' is not relevant to determining overstaffing or understaffing as it does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'RIP' is not relevant to determining overstaffing or understaffing as it does not provide any information about staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing; it discusses the legality of firing workers for unionizing and provides information on how to seek recourse through the National Labor Relations Board (NLRB).," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing; it discusses the legality of firing workers for unionizing and provides information on how to seek recourse through the National Labor Relations Board (NLRB).""
+}"
+-1,The statement describes understaffing because it implies that there is pressure on employees to manipulate situations in order to get resources (TTS and a credit card) for their team.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it implies that there is pressure on employees to manipulate situations in order to get resources (TTS and a credit card) for their team.""
+}"
+-1,"The statement describes understaffing because the employee was let go for cause due to showing up late too many times, which could have been a result of their health condition and not enough support from HR."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee was let go for cause due to showing up late too many times, which could have been a result of their health condition and not enough support from HR.""
+}"
+0,The statement 'LMAOOO thank you 😭' does not provide any information about staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement 'LMAOOO thank you 😭' does not provide any information about staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is about the durability of Emerson products and not related to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is about the durability of Emerson products and not related to staffing levels.""
+}"
+-1,"The statement describes understaffing because the employee mentions that the area is 'desolate' and lacks other businesses, which implies there might be a low customer base or demand for services."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee mentions that the area is 'desolate' and lacks other businesses, which implies there might be a low customer base or demand for services.""
+}"
+0,The statement is a congratulatory message and does not indicate any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is a congratulatory message and does not indicate any information about staffing levels.""
+}"
+0,The statement provided does not describe overstaffing or understaffing as it is unrelated to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not describe overstaffing or understaffing as it is unrelated to staffing levels.""
+}"
+-1,The statement describes understaffing because it mentions that vendors may request a removal of a position if there is not enough business in the area.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because it mentions that vendors may request a removal of a position if there is not enough business in the area.""
+}"
+0,The statement 'Captains log at AP' does not provide any information about staffing levels or issues.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Captains log at AP' does not provide any information about staffing levels or issues.""
+}"
+0,"The statement does not describe overstaffing or understaffing. It discusses the safety measures taken by the company during the COVID-19 pandemic, specifically mentioning wearing masks and working outdoors."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing. It discusses the safety measures taken by the company during the COVID-19 pandemic, specifically mentioning wearing masks and working outdoors.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it discusses the employee's time at the company and their interaction with a specific subreddit community.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it discusses the employee's time at the company and their interaction with a specific subreddit community.""
+}"
+0,The statement is irrelevant to staffing levels as it discusses the acquisition of a specific product (a 3080 FE graphics card) at a particular store for a certain price.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to staffing levels as it discusses the acquisition of a specific product (a 3080 FE graphics card) at a particular store for a certain price.""
+}"
+0,The statement does not describe any staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe any staffing situation.""
+}"
+0,The statement does not directly address overstaffing or understaffing issues within the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing issues within the company.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.""
+}"
+-1,The statement describes understaffing because the customer is expressing frustration with the company's decision to remove their elite membership benefits before the expiration date. This indicates that they feel the company is not providing adequate support or service to its customers.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the customer is expressing frustration with the company's decision to remove their elite membership benefits before the expiration date. This indicates that they feel the company is not providing adequate support or service to its customers.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the employee's personal experience with scheduling and availability at their part-time job.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the employee's personal experience with scheduling and availability at their part-time job.""
+}"
+0,"The statement does not describe overstaffing or understaffing, as it is about reporting misconduct in the store."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing, as it is about reporting misconduct in the store.""
+}"
+0,"The statement 'Hubert just knew when to dip out' does not provide any information about staffing levels or the company of interest. Therefore, it is irrelevant to determine if there is overstaffing or understaffing."," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Hubert just knew when to dip out' does not provide any information about staffing levels or the company of interest. Therefore, it is irrelevant to determine if there is overstaffing or understaffing.""
+}"
+-1,"The statement implies that the employee is unhappy with their current wage and believes they could be earning more if they worked at a fast-food place. This suggests understaffing, as it indicates that the employee feels undervalued and possibly overworked."," {
+    ""label"": -1,
+    ""reason"": ""The statement implies that the employee is unhappy with their current wage and believes they could be earning more if they worked at a fast-food place. This suggests understaffing, as it indicates that the employee feels undervalued and possibly overworked.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any issues related to staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any issues related to staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing. It is a personal opinion of an employee about their treatment at the company.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing. It is a personal opinion of an employee about their treatment at the company.""
+}"
+-1,"The statement describes understaffing because the customer is expressing frustration with the lack of available stock in local stores and poor customer service, which may lead to them taking their business elsewhere."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the customer is expressing frustration with the lack of available stock in local stores and poor customer service, which may lead to them taking their business elsewhere.""
+}"
+-1,"The statement suggests that the employee is questioning the scheduling of a 14-day work period with only one day off. This implies that they believe there should be more time off or breaks during this period, which indicates understaffing."," {
+    ""label"": -1,
+    ""reason"": ""The statement suggests that the employee is questioning the scheduling of a 14-day work period with only one day off. This implies that they believe there should be more time off or breaks during this period, which indicates understaffing.""
+}"
+-1,The statement describes understaffing because the employee is feeling overwhelmed by their current role as a sales advisor and is considering switching to another position within the company. This indicates that they are struggling with the workload and may not have enough support from their colleagues.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is feeling overwhelmed by their current role as a sales advisor and is considering switching to another position within the company. This indicates that they are struggling with the workload and may not have enough support from their colleagues.""
+}"
+0,"The statement does not describe overstaffing or understaffing as it is discussing a change in the company collecting and reporting data, which is unrelated to staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is discussing a change in the company collecting and reporting data, which is unrelated to staffing levels.""
+}"
+0,The statement provided does not contain any information about staffing levels or employee count.," {
+  ""label"": 0,
+  ""reason"": ""The statement provided does not contain any information about staffing levels or employee count.""
+}"
+0,The statement does not describe overstaffing or understaffing as it is unrelated to staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it is unrelated to staffing levels.""
+}"
+0,The statement 'thank you!' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'thank you!' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.""
+}"
+-1,"The statement suggests that the employee is not being honest about their workload or productivity, which could indicate understaffing as they may feel pressured to lie in order to meet performance expectations."," {
+  ""label"": -1,
+  ""reason"": ""The statement suggests that the employee is not being honest about their workload or productivity, which could indicate understaffing as they may feel pressured to lie in order to meet performance expectations.""
+}"
+-1,The statement describes understaffing because the employee is expressing frustration with Doordash's inability to prevent scammers from using their platform. This indicates that there may not be enough staff or resources allocated to monitor and address these issues.," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee is expressing frustration with Doordash's inability to prevent scammers from using their platform. This indicates that there may not be enough staff or resources allocated to monitor and address these issues.""
+}"
+-1,"The statement describes understaffing because the employee expresses disappointment in the lack of communication from management during a dangerous weather event, indicating that they feel unsupported and undervalued by the company."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the employee expresses disappointment in the lack of communication from management during a dangerous weather event, indicating that they feel unsupported and undervalued by the company.""
+}"
+0,The statement 'Ew lol' is irrelevant and does not describe overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Ew lol' is irrelevant and does not describe overstaffing or understaffing.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.""
+}"
+-1,"The statement implies that there may be issues with staffing levels at the company, which could lead to understaffing."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that there may be issues with staffing levels at the company, which could lead to understaffing.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it focuses on the individual's experience and does not mention staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it focuses on the individual's experience and does not mention staffing levels.""
+}"
+0,The statement 'Sugma' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Sugma' is not relevant to determining overstaffing or understaffing as it does not contain any information about staff levels.""
+}"
+0,The statement is about accessing an employee portal and doesn't provide any information on staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement is about accessing an employee portal and doesn't provide any information on staffing levels.""
+}"
+-1,"The statement implies that the employee is feeling overwhelmed and understaffed, as they mention being 'underpaid' and 'overworked'. This suggests a lack of adequate staffing to handle their workload."," {
+  ""label"": -1,
+  ""reason"": ""The statement implies that the employee is feeling overwhelmed and understaffed, as they mention being 'underpaid' and 'overworked'. This suggests a lack of adequate staffing to handle their workload.""
+}"
+0,The statement 'Can't pick just one' is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Can't pick just one' is irrelevant to determining overstaffing or understaffing as it does not mention any information about staff levels.""
+}"
+-1,"The statement describes understaffing because the new policy is focused on minimizing labor, which results in no hours for real training and engagement. This indicates that there are not enough staff members to properly support product knowledge and customer service."," {
+  ""label"": -1,
+  ""reason"": ""The statement describes understaffing because the new policy is focused on minimizing labor, which results in no hours for real training and engagement. This indicates that there are not enough staff members to properly support product knowledge and customer service.""
+}"
+0,"The statement provided does not describe overstaffing or understaffing, as it focuses on the role of unions in protecting workers and negotiating with employers."," {
+    ""label"": 0,
+    ""reason"": ""The statement provided does not describe overstaffing or understaffing, as it focuses on the role of unions in protecting workers and negotiating with employers.""
+}"
+0,The statement 'HYPERBOOM ROCKS A SUPER MASSIVE SOUND' is irrelevant to the topic of staffing levels and cannot be used to determine if there is overstaffing or understaffing.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'HYPERBOOM ROCKS A SUPER MASSIVE SOUND' is irrelevant to the topic of staffing levels and cannot be used to determine if there is overstaffing or understaffing.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention anything about staff levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention anything about staff levels.""
+}"
+0,The statement does not provide any information about staffing levels.," {
+    ""label"": 0,
+    ""reason"": ""The statement does not provide any information about staffing levels.""
+}"
+0,The statement does not describe overstaffing or understaffing as it focuses on the company's communication method and the employee's opinion on the inconvenience of driving across town.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing or understaffing as it focuses on the company's communication method and the employee's opinion on the inconvenience of driving across town.""
+}"
+-1,"The statement describes understaffing because it suggests that the company is not providing clear and accurate information to its customers about warranty, return period, and membership auto-renewal policies. This could lead to customer dissatisfaction and increased workload for employees as they handle more complaints or inquiries."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because it suggests that the company is not providing clear and accurate information to its customers about warranty, return period, and membership auto-renewal policies. This could lead to customer dissatisfaction and increased workload for employees as they handle more complaints or inquiries.""
+}"
+0,The statement 'How come?' is not relevant to determining overstaffing or understaffing as it does not provide any information about the company's staffing situation.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'How come?' is not relevant to determining overstaffing or understaffing as it does not provide any information about the company's staffing situation.""
+}"
+-1,"The statement describes understaffing because the person is applying for multiple positions at a location, indicating that there are likely not enough employees to fill all the open roles."," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because the person is applying for multiple positions at a location, indicating that there are likely not enough employees to fill all the open roles.""
+}"
+0,The statement 'Why is that?' does not provide any information about staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement 'Why is that?' does not provide any information about staffing levels.""
+}"
+0,"The statement does not describe overstaffing nor understaffing. The employee is expressing their personal motivation for working at the company, which is unrelated to staffing levels."," {
+  ""label"": 0,
+  ""reason"": ""The statement does not describe overstaffing nor understaffing. The employee is expressing their personal motivation for working at the company, which is unrelated to staffing levels.""
+}"
+-1,The statement describes understaffing because scheduling an employee for only 5 hours per week is not sufficient to meet the demands of a full-time job.," {
+    ""label"": -1,
+    ""reason"": ""The statement describes understaffing because scheduling an employee for only 5 hours per week is not sufficient to meet the demands of a full-time job.""
+}"
+0,The statement is irrelevant to determining overstaffing or understaffing as it does not mention any aspect of staffing levels.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to determining overstaffing or understaffing as it does not mention any aspect of staffing levels.""
+}"
+0,The statement does not directly address overstaffing or understaffing. It is about remembering customers and their experiences.," {
+  ""label"": 0,
+  ""reason"": ""The statement does not directly address overstaffing or understaffing. It is about remembering customers and their experiences.""
+}"
+0,"The statement does not describe overstaffing or understaffing, as it is about the employee's pay period and expectations."," {
+    ""label"": 0,
+    ""reason"": ""The statement does not describe overstaffing or understaffing, as it is about the employee's pay period and expectations.""
+}"
+0,The statement is irrelevant to staffing levels as it discusses a video of a thief incident.," {
+  ""label"": 0,
+  ""reason"": ""The statement is irrelevant to staffing levels as it discusses a video of a thief incident.""
+}"
