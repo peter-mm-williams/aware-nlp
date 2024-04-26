@@ -9,7 +9,7 @@ The information retreival procedure for a baseline RAG system involves three mai
 - Vector indexing: The text contents will be converted to embedded vectors in a high-dimensional space using embedding models. 
 - Storing in a vector store: The embedded vectors will be loaded to a vector database, where the numerical representative of our dataset can be searched efficiently for retrieval process.
 - Retrieval based on similarity match: The similarity between the query and the content vectors will be calculated based on the distance between the vectors.
-<> ===================================================================================================== <>
+  
 #### Evaluation Methodology
 
 ##### Dataset Pre-processing
