@@ -25,7 +25,6 @@ For the construction of larger evaluation sets, large language models (LLM) were
 A procedure for evaluating different RAG pipelines on this dataset was then used to compare the quality of retrieval using different embedding models to convert statements and questions into an encoded vector space. The precision, recall, and f1 scores of the retrieved documents were calculated for a range of the number of retrieved documents. The 90 statement dataset was used to evaluate the performance of naive retrieval for a range of embedding models. “all-mpnet-base-v1” was shown to perform well for both as little as 5 retrieved documents and as many as 30 (f1 scores of 0.470.27 and 0.55 0.13, respectively). The next best model was “paraphrase-mpnet-base-v2” which had f1 scores of 0.360.22 and 0.560.18, respectively.
 The Bestbuy subreddit was selected as the focus for quality evaluation.
 
-<=================================================================================================>
 #### Advanced Retrieval Methods
 The impact of using clusters as a first stage indexing process (Clustering), using multiple LLM generated queries to help pinpoint the most relevant documents (Multi-query), and indexing over summaries of statements (Multi-vector) were explored in greater detail. We observe that utilizing clustering, multi-query, and multi-vector indexing techniques show slight improvement in retrieval quality. 
 ##### Clustering
