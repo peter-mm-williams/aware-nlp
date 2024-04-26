@@ -24,6 +24,8 @@ The dataset used to evaluate these pipelines was taken from submissions and comm
 
 #### Automated Labeling
 For the construction of larger evaluation sets, large language models (LLM) were used in the construction of larger labeled datasets. The quality of this automated labeling was generated using the “dolphin-mixtral” model and was assessed on the 7-observer labeled data. This correctly labeled 10 out of the 12 statements unanimously labeled as relevant. Using a consensus threshold of 50% of human labelers, the LLM correctly labeled all of the irrelevant statements and produced an F1 score of 0.80. 
+![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/04e48ad8-acc0-4ecc-96e3-70129bc44616)
+
 #### Retrieval Evaluation Metrics
 A procedure for evaluating different RAG pipelines on this dataset was then used to compare the quality of retrieval using different embedding models to convert statements and questions into an encoded vector space. The precision, recall, and f1 scores of the retrieved documents were calculated for a range of the number of retrieved documents. The 90 statement dataset was used to evaluate the performance of naive retrieval for a range of embedding models. “all-mpnet-base-v1” was shown to perform well for both as little as 5 retrieved documents and as many as 30 (f1 scores of 0.470.27 and 0.55 0.13, respectively). The next best model was “paraphrase-mpnet-base-v2” which had f1 scores of 0.360.22 and 0.560.18, respectively.
 The Bestbuy subreddit was selected as the focus for quality evaluation.
