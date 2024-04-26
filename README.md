@@ -17,6 +17,7 @@ The dataset used to evaluate these pipelines was taken from submissions and comm
 1. What do Best Buy Employees Think of the Company?
 2. What are the most common reasons for Best Buy employees to leave Best Buy?
 3. Do employees feel understaffed?
+   </br>
 40 statements sampled from the reddit thread were labeled by 7 observers for each question as relevant (True) or irrelevant (False) to the question posed. This was instructive in understanding the subjectivity of the labels of the data. Setting a consensus threshold of at least 50% of the human labellers, the questions above had 10, 6, and 5 positive labels respectively. This dataset was then expanded such that 90 unique statements from the original set were labeled for each question. 
 
 ##### Automated Labeling
