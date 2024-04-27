@@ -54,6 +54,7 @@ As a second advanced pipeline we explored the multi-query technique where an inp
 
 #### Multi-vector Indexing
 ![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/6e3ebb95-6ef0-48da-8c9f-2bbb1e24f574)
+
 In this method, we take the given context docs and summarize it using a large language model. We assign a unique id to every summarized document in order to identify it with the original document. The summarized docs are then indexed into the vector store. The user’s query is matched against the summarized documents, the top retrieved documents are then identified with the original document which are finally returned as relevant. In our implementation, we used the mixtral-8x7b LLM to generate document summaries. To evaluate this method we again used the Llama3-70B labeled dataset. For the first 5, 10, 15 and 20 retrievals, we found that the multi-vector indexing approach gives F1 scores 0.46, 0.71, 0.77, 0.76  whereas the baseline approach gives 0.39, 0.60, 0.71, 0.75.
 ![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/416090c2-2037-4283-a77a-6a9e39c007f0)
 
