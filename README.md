@@ -70,7 +70,8 @@ The source code for the project is contained within the [<code>src</code>](https
 4. [<code>util</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/src/util): This contains some utility functions used repeatedly elsewhere in the codebase.
 
 </br>
-Cleaned Jupyter Notebooks used for the results shown above can be found at [<code>notebooks/published/</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/notebooks/published).
+
+Cleaned Jupyter Notebooks used for the results shown above can be found at [<code>notebooks/published/</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/notebooks/published) .
 The Steamlit App over which an end-to-end RAG pipeline is hosted can be found at [<code>StreamLitApp</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/StreamLitApp).
 More detailed documents containing figures and results of the explorations of the project can be found at [<code>docs</code>](https://github.com/peter-mm-williams/aware-nlp/tree/main/docs).
 
