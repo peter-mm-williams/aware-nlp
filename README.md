@@ -4,6 +4,7 @@ Erdos Institute Data Science Boot Camp project partnered with Aware. This projec
 ## Project Description
 ### Overview
 ![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/d8760280-01e2-4b75-bc67-b1f4b57dbc65)
+
 Retrieval Augmented Generation (RAG) is a powerful approach that enhances Large Language Models (LLM) capability to generate a richer and more in-context response to user queries. By retrieving relevant information through an information retrieval system, and then generating responses, RAG ensures reliability and minimizes the risk of misinformation and hallucination.
 The objective of this project is to build an information retrieval system that identifies the most relevant content in the provided dataset for a given user query and rank the retrieval content. The priorities of this project are that the retrieval is fast (occurs sub-second), and that there is a methodology to gauge the performance of the retrieval.
 The information retreival procedure for a baseline RAG system involves three main stages:
@@ -46,6 +47,7 @@ To gain insight as to how statements are distributed in the embedded space, a LL
 
 #### Multi-query
 ![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/5260ddf7-7bbd-4c59-a99d-2bef016555cb)
+
 As a second advanced pipeline we explored the multi-query technique where an input query is sent into a large language model to generate five different variations of the user query. For every LLM generated query, we then repeat the baseline procedure and pick the unique top 20 documents. For evaluating this procedure we created a larger dataset that consists of 298 reddit submissions and posts in the BestBuyWorkers subreddit  whose entries were labeled by Llama3-70B. We chunked the data by size of 300 and overlap of 50, and using openAI embeddings, we indexed them into ChromaDB. Then, using mixtral-8x7b LLM with a temperature setting of 0 we generated five different queries and retrieved the top 20 unique documents for every original query. For the first 5, 10, 15 and 20 retrievals, we found that the multi-query approach gives F1 scores 0.39 , 0.64, 0.77, 0.73 whereas the baseline approach gives 0.35, 0.605, 0.74, 0.75.
 ![image](https://github.com/peter-mm-williams/aware-nlp/assets/9215528/4c39427a-7986-4fc7-9e66-c32122349f9a)
 
